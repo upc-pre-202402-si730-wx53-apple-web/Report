@@ -261,7 +261,7 @@ A manera de escalabilidad, proponemos introducir a futuro el uso de inteligencia
     <td valign="top">
       <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
       <p>
-       Soy estudiante de la UPC, tengo 18 años. Estoy en la carrera de Ingeniería de Software, ya que, siempre me gustó la tecnología, los videojuegos, las páginas web, pero sobre todo 
+       Soy estudiante de la UPC, tengo 19 años. Estoy en la carrera de Ingeniería de Software, ya que, siempre me gustó la tecnología, los videojuegos, las páginas web, pero sobre todo 
        cómo crearlos. Estoy cursando el 5 ciclo de la carrera y mis habilidades son C++, Python, HTML y JavaScript. También soy bueno en ser responsable con cada curso y organizar mi 
        tiempo en ellos.
       </p>
@@ -295,6 +295,9 @@ Cuánto: DebtGo adoptará un modelo de monetización freemium, donde la aplicaci
 
 
 ### 1.2.2 Lean UX Process
+
+# 1.2.2.4 Lean UX Canvas:
+
 #### 1.2.2.1. Lean UX Problem Statements
 
 Nuestra aplicación, DebtGo, está diseñada para ofrecer a los usuarios una herramienta poderosa que les permita gestionar sus deudas de manera efectiva, al mismo tiempo que fortalece su educación financiera. DebtGo se presenta como una oportunidad para que los usuarios mejoren su situación financiera, adoptando hábitos saludables que les permitan alcanzar sus objetivos económicos y evitar el ciclo de endeudamiento.
@@ -361,11 +364,14 @@ Hipótesis: Creemos que al no contar con un sistema de seguridad actualizado y m
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo
 
-Jóvenes Adultos y Profesionales en Formación Financiera:
+<strong>1. Jóvenes Adultos y Profesionales en Formación Financiera:</strong>
+
 Descripción: Este segmento incluye a jóvenes adultos en edad universitaria (18-25 años) y jóvenes profesionales (25-35 años) que buscan mejorar su educación financiera. Estas personas van a estar interesadas en adquirir conocimientos sobre cómo gestionar sus finanzas de manera efectiva, evitar la acumulación de deudas innecesarias y planificar para su futuro financiero.
 
 Necesidades Satisfechas: DebtGo les ofrece herramientas educativas y recursos que les permiten aprender sobre finanzas personales, crear y seguir un presupuesto, y establecer metas financieras. La aplicación les ayuda a tomar decisiones informadas sobre sus gastos e inversiones, promoviendo hábitos financieros saludables desde una edad temprana.
-2. Gestores de Deudas y Emprendedores
+
+<strong>2. Gestores de Deudas y Emprendedores</strong>
+   
 Descripción: Este segmento abarca a personas con deudas existentes (25-60 años), emprendedores o propietarios de pequeñas empresas, y aquellos que necesitan préstamos para iniciar o expandir sus negocios. Estos individuos enfrentan situaciones financieras urgentes y buscan soluciones rápidas y efectivas para gestionar sus deudas y mejorar su flujo de efectivo.
 
 Necesidades Satisfechas: DebtGo les proporciona una plataforma centralizada para gestionar y consolidar sus deudas, crear planes de pago personalizados, y evitar el pago de intereses adicionales. Además, la aplicación ofrece herramientas para optimizar el flujo de efectivo y planificar el crecimiento financiero, asegurando que puedan superar sus urgencias financieras de manera efectiva.
