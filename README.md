@@ -239,6 +239,17 @@ A manera de escalabilidad, proponemos introducir a futuro el uso de inteligencia
       </p>
     </td>
   </tr>
+     <tr>
+    <th>
+      <img src="img/karito.jpeg" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Medina Chocce, Karito Dianeth</b></p>
+      <p>
+        Hola, soy Karito Medina, actualmente estudio Ingeniería de Software en la Universidad de Ciencias Aplicadas (UPC). Me considero una persona responsable, respetuosa y con una fuerte habilidad para trabajar en equipo. Me esfuerzo por contribuir positivamente a cada proyecto en el que participo, buscando siempre mejorar los resultados grupales y alcanzar los objetivos comunes. Estoy entusiasmada por aplicar mis conocimientos y habilidades para enfrentar nuevos desafíos y seguir creciendo en el campo de la tecnología.
+      </p>
+    </td>
+  </tr>
 </table>
 
 ## 1.2. Solution Profile
