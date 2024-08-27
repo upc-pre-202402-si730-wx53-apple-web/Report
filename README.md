@@ -239,7 +239,7 @@ El análisis competitivo implica examinar detenidamente a nuestros competidores 
         DebtGo
         <br>
         <div style="text-align: center; margin-top: 10px;">
-                <img src="assets/Chapter-2/debtgo-logo.png" alt="Logo DebtGo" style="width: 65;"></img>
+                <img src="assets/Chapter-2/debtgo-logo.jpg" alt="Logo DebtGo" style="width: 65;"></img>
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
     Mint
