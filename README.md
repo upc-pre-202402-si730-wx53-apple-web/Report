@@ -219,7 +219,7 @@ A manera de escalabilidad, proponemos introducir a futuro el uso de inteligencia
 <table>
   <tr>
     <th>
-      <img src="img/franco.jpg" width="800px">
+      <img src="assets/Chpater-1/franco.jpg" width="800px">
     </th>
     <td valign="top">
       <p><b>Durand Vera, Gianfranco Angel</b></p>
@@ -230,7 +230,7 @@ A manera de escalabilidad, proponemos introducir a futuro el uso de inteligencia
   </tr>
    <tr>
     <th>
-      <img src="img/fotocam.png" width="800px">
+      <img src="assets/Chapter-1/fotocam.png" width="800px">
     </th>
     <td valign="top">
       <p><b>Sanchez Rios, Camila Cristina</b></p>
@@ -241,7 +241,7 @@ A manera de escalabilidad, proponemos introducir a futuro el uso de inteligencia
   </tr>
      <tr>
     <th>
-      <img src="img/karito.jpeg" width="800px">
+      <img src="assets/Chapter-1/karito.jpeg" width="800px">
     </th>
     <td valign="top">
       <p><b>Medina Chocce, Karito Dianeth</b></p>
