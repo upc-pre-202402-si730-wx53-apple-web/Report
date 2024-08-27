@@ -212,12 +212,122 @@
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+
+**Segmento Objetivo: Consultores Financieros/Economistas**
+1. ¿Cuál es su nombre completo?
+2. ¿Cuál es su edad?
+3. ¿En qué distrito reside actualmente?
+4. ¿Cuál es su ocupación/profesión y cuántos años de experiencia tiene en el campo de la economía o la consultoría financiera?
+5. ¿Está familiarizado con el término "educación financiera"? ¿Cómo lo definiría en su propio contexto profesional?
+6. ¿Qué dispositivos tecnológicos utiliza con mayor frecuencia en su trabajo diario? ¿Cuál considera más esencial para su actividad profesional?
+7. ¿Qué redes sociales utiliza para mantenerse actualizado en temas financieros o económicos? ¿Cómo las utiliza en su práctica profesional?
+8. ¿Ha visto algún tipo de anuncio o promoción relacionada con aplicaciones de gestión financiera en su dispositivo? ¿Cuál fue su impresión?
+9. ¿En su rol actual, gestiona o asesora sobre responsabilidades económicas de empresas o individuos? ¿Podría darme un ejemplo?
+10. ¿Conoce INFOCORP u otras bases de datos de informes crediticios? ¿Qué importancia les da en su práctica profesional?
+11. ¿Qué desafíos ve en la gestión de finanzas personales de sus clientes o en su propia vida financiera?
+12. ¿Ha utilizado o recomendado alguna aplicación para la gestión de finanzas personales o empresariales? ¿Qué características le parecen más útiles?
+13. En su opinión, ¿cuál es la necesidad más importante en la educación financiera de las personas actuales? ¿Cómo cree que una app como DebtGo podría abordar esta necesidad?
+14. ¿Considera que una aplicación de gestión financiera personalizada puede tener un impacto significativo en la mejora de las finanzas personales de los usuarios? ¿Por qué sí o por qué no?
+
+**Segmento Objetivo: Gestores de Deudas y Emprendedores**
+
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+Para esta sección se han creado personajes ficticios, cada uno diseñado para representar a un segmento específico de usuarios. La información utilizada para desarrollar estos "User personas" proviene de entrevistas previas realizadas a cada segmento objetivo. Estas entrevistas tenían como objetivo comprender mejor a las personas a las que se dirige la aplicación. Se consideraron datos demográficos, metas, motivaciones frustraciones, marcas relacionadas con el tema de la aplicación canales digitales más utilizados, entre otros. La creación de esta sección se llevó a cabo utilizando la plataforma UXPressia.
+
+**Segmento Objetivo: Consultores Financieros/Economistas**
+
+
+**Segmento Objetivo: Gestores de Deudas y Emprendedores**
+
 ### 2.3.2. User Task Matrix
+En esta sección se presenta el user task matrix, herramienta centrada en los segmentos objetivos, que nos permitirá identificar las tareas y objetivos claves de los usuarios. Además, nos permitirá priorizar características y funcionalidades al momento de realizar el product backlog. Para la frecuencia se han considerado cinco opciones:nunca ,casi nunca, a veces, a menudo ,siempre; y para la importancia tres opciones: bajo, medio, alto". En relación con la matriz de tareas de los usuarios, podemos identificar tanto las tareas de mayor frecuencia como las de mayor importancia, así como las diferencias y similitudes entre los diferentes tipos de usuarios.
+
+<table>
+<tr><th rowspan="2" valign="top">
+<b><i>User task Matrix</i></b></th>
+<th colspan="2" valign="top">
+<b><i>Seg1</i></b></th>
+<th colspan="2" valign="top"><p>
+<b><i>Seg2</i></b>
+ <p><p><b><i></i></b></p>
+ </th></tr>
+<tr><td valign="top"><b><i>Frecuencia</i></b> </td>
+<td valign="top"><b><i>Importancia</i></b></td>
+<td valign="top"><b><i>Frecuencia</i></b> </td>
+<td valign="top"><b><i>Importancia</i></b></td>
+</tr>
+<tr><td>...</td>
+<td><b><i>A menudo</i></b></td>
+<td><b><i>Alta</i></b></td>
+<td><b><i>Nunca</i></b></td>
+<td><b><i>Medio</i></b></td>
+</tr>
+<tr><td>...</td>
+<td><b><i>Siempre</i></b></td>
+<td><b><i>Alta</i></b></td>
+<td><b><i>Nunca</i></b></td>
+<td><b><i>Baja</i></b></td>
+</tr>
+<tr><td>...</td>
+<td><b><i>Siempre</i></b></td>
+<td><b><i>Medio</i></b></td>
+<td><b><i>Nunca</i></b></td>
+<td><b><i>Medio</i></b></td></tr>
+<tr><td>...</td>
+<td><b><i>Siempre</i></b></td>
+<td><b><i>Medio</i></b></td>
+<td><b><i>Siempre</i></b></td>
+<td><b><i>Alta</i></b></td>
+</tr>
+<tr><td>...</td>
+<td><b><i>Siempre</i></b></td>
+<td><b><i>Mdia</i></b></td>
+<td><b><i>Nunca</i></b></td>
+<td><b><i>Alta</i></b></td>
+</tr>
+<tr><td>...	</td>
+<td><b><i>Siempre</i></b></td>
+<td><b><i>Alta</i></b></td>
+<td><b><i>A veces</i></b></td>
+<td><b><i>Alta</i></b></td>
+</tr>
+<tr><td>...</td>
+<td><b><i>Siempre</i></b></td>
+<td><b><i>Medio</i></b></td>
+<td><b><i>A veces</i></b></td>
+<td><b><i>Medio</i></b></td>
+</tr>
+<tr><td>...</td>
+<td><b><i>Siempre</i></b></td>
+<td><b><i>Baja</i></b></td>
+<td><b><i>Casi nunca</i></b></td>
+<td><b><i>Baja</i></b></td>
+</tr>
+<tr><td>...</td>
+<td><b><i>A veces</i></b></td>
+<td><b><i>Alta</i></b></td>
+<td><b><i>Siempre</i></b></td>
+<td><b><i>Baja</i></b></td>
+</tr>
+<tr><td>...</td>
+<td><b><i>Siempre</i></b></td>
+<td><b><i>Alta</i></b></td>
+<td><b><i>Siempre</i></b></td>
+<td><b><i>Alta</i></b></td>
+</tr>
+</table>
+
 ### 2.3.3. User Journey Mapping
+En esta sección, explicaremos en detalle los user journey mapping para dos tipos de usuarios distintos: Consultores Financieros/Economistas y Gestores de Deudas y Emprendedores. Estos mapas proporcionarán una visión exhaustiva de cómo cada segmento de usuario interactúa con la plataforma, desde su primer contacto hasta su uso continuo y el análisis de resultados. Mejoraremos la presentación de estos mapas, destacando las etapas clave y las necesidades específicas de cada usuario para garantizar una comprensión clara y concisa de su experiencia a lo largo de su viaje:
+
+**Segmento Objetivo: Consultores Financieros/Economistas**
+
+
+**Segmento Objetivo: Gestores de Deudas y Emprendedores**
+
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
