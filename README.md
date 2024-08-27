@@ -92,6 +92,14 @@
 </table>
 
 # Project Report Collaboration Insights
+Link del repositorio del reporte del TB1: https://github.com/upc-pre-202402-si730-wx53-apple-web 
+
+Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los puntos a elaborar para la entrega actual, correspondientes a los Capítulos I hasta el Capítulo V: Sprint 1. Quedando de la siguiente manera:
+- Imágen de las Contribuciones del equipo:
+
+<p></p>
+<br><br>
+
 
 # Contenido
 [Student Outcome](#student-outcome)
@@ -208,6 +216,31 @@ DebtGo no se basa en el comercio electrónico ni en la publicidad, sino que perm
 A manera de escalabilidad, proponemos introducir a futuro el uso de inteligencia artificial para personalizar aún más las recomendaciones financieras y proveer retroalimentación a los usuarios en su progreso educativo.
 
 ### 1.1.2. Perfiles de integrantes del equipo
+<table>
+  <tr>
+    <th>
+      <img src="img/franco.jpg" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Durand Vera, Gianfranco Angel</b></p>
+      <p>
+        Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el sexto ciclo, escogí esta carrera porque me gusta mucho la programación. Tengo experiencia en lenguajes de programación como C++, C#, Python, Kotlin y JavaScript.
+      </p>
+    </td>
+  </tr>
+   <tr>
+    <th>
+      <img src="img/fotocam.png" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Sanchez Rios, Camila Cristina</b></p>
+      <p>
+        Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el cuarto ciclo. Me gusta escuchar música y leer en los ratos libres y aprender más sobre la carrera.
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 
