@@ -224,7 +224,8 @@ A manera de escalabilidad, proponemos introducir a futuro el uso de inteligencia
     <td valign="top">
       <p><b>Durand Vera, Gianfranco Angel</b></p>
       <p>
-        Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el sexto ciclo, escogí esta carrera porque me gusta mucho la programación. Tengo experiencia en lenguajes de programación como C++, C#, Python, Kotlin y JavaScript.
+        Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el sexto ciclo, escogí esta carrera porque me 
+        gusta mucho la programación. Tengo experiencia en lenguajes de programación como C++, C#, Python, Kotlin y JavaScript.
       </p>
     </td>
   </tr>
@@ -235,7 +236,8 @@ A manera de escalabilidad, proponemos introducir a futuro el uso de inteligencia
     <td valign="top">
       <p><b>Sanchez Rios, Camila Cristina</b></p>
       <p>
-        Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el cuarto ciclo. Me gusta escuchar música y leer en los ratos libres y aprender más sobre la carrera.
+        Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el cuarto ciclo. Me gusta escuchar música y 
+        leer en los ratos libres y aprender más sobre la carrera.
       </p>
     </td>
   </tr>
@@ -246,7 +248,22 @@ A manera de escalabilidad, proponemos introducir a futuro el uso de inteligencia
     <td valign="top">
       <p><b>Medina Chocce, Karito Dianeth</b></p>
       <p>
-        Hola, soy Karito Medina, actualmente estudio Ingeniería de Software en la Universidad de Ciencias Aplicadas (UPC). Me considero una persona responsable, respetuosa y con una fuerte habilidad para trabajar en equipo. Me esfuerzo por contribuir positivamente a cada proyecto en el que participo, buscando siempre mejorar los resultados grupales y alcanzar los objetivos comunes. Estoy entusiasmada por aplicar mis conocimientos y habilidades para enfrentar nuevos desafíos y seguir creciendo en el campo de la tecnología.
+        Hola, soy Karito Medina, actualmente estudio Ingeniería de Software en la Universidad de Ciencias Aplicadas (UPC). Me considero una persona responsable, respetuosa y con una 
+        fuerte habilidad para trabajar en equipo. Me esfuerzo por contribuir positivamente a cada proyecto en el que participo, buscando siempre mejorar los resultados grupales y 
+        alcanzar los objetivos comunes. Estoy entusiasmada por aplicar mis conocimientos y habilidades para enfrentar nuevos desafíos y seguir creciendo en el campo de la tecnología.
+      </p>
+    </td>
+  </tr>
+     <tr>
+    <th>
+      <img src="assets/Chapter-1/daniel.jpeg" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
+      <p>
+       Soy estudiante de la UPC, tengo 18 años. Estoy en la carrera de Ingeniería de Software, ya que, siempre me gustó la tecnología, los videojuegos, las páginas web, pero sobre todo 
+       cómo crearlos. Estoy cursando el 5 ciclo de la carrera y mis habilidades son C++, Python, HTML y JavaScript. También soy bueno en ser responsable con cada curso y organizar mi 
+       tiempo en ellos.
       </p>
     </td>
   </tr>
