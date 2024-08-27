@@ -230,14 +230,209 @@
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
+
+Un Style Guidelines, o Guía de Estilo, es un documento que proporciona directrices claras y coherentes sobre la apariencia visual, la comunicación y la identidad de una marca o producto. Esta guía asegura que todos los elementos relacionados con la marca, como tipografía, colores, logotipos y tono de voz, se mantengan uniformes en todas las aplicaciones y plataformas, lo que ayuda a reforzar la identidad de la marca y garantiza una experiencia de usuario consistente y reconocible.
+
+Identidad de Marca
+
+La identidad de marca de DebtGo se basa en la misión de proporcionar educación financiera y ayudar a las personas a manejar sus deudas de manera efectiva. Valores clave incluyen la transparencia, la confianza y la accesibilidad. DebtGo debe proyectar una personalidad amigable, confiable y educativa, para que los usuarios sientan que están recibiendo orientación de un amigo de confianza.
+
+Logo
+
+El logo principal de DebtGo debe ser limpio y moderno, con un énfasis en la simplicidad y la claridad. Puede incorporar elementos que evocan finanzas, como gráficos de barras estilizados o un gráfico de línea ascendente para simbolizar el crecimiento financiero. Se pueden crear variaciones del logotipo para adaptarse a diferentes tamaños y plataformas, pero la esencia y los colores deben mantenerse coherentes.
+
+Tipografía
+
+La tipografía principal de DebtGo debe ser legible en pantallas móviles y web. Se recomienda una fuente sans-serif moderna para el contenido principal, con una fuente en negrita y de mayor tamaño para destacar encabezados y títulos.
+
+Iconos
+
+Los iconos utilizados en la aplicación de DebtGo deben ser simples, claros y fácilmente reconocibles. Deben seguir un estilo uniforme y coherente en toda la interfaz.
+
+Diseño de Interfaz de Usuario:
+
+El diseño de la interfaz de usuario de DebtGo debe ser intuitivo y fácil de navegar. Se deben utilizar colores suaves y una disposición limpia para proporcionar una experiencia agradable al usuario. Los colores principales deben reflejar la identidad de marca y transmitir confianza, utilizando tonos de azul, negro y blanco.
+
+Imágenes
+
+Las imágenes utilizadas en DebtGo deben ser de alta calidad y reflejar situaciones financieras realistas y personas de diferentes grupos demográficos para que los usuarios se identifiquen. Además, se deben incorporar gráficos educativos claros y sencillos para ayudar a los usuarios a comprender conceptos financieros.
+
+Lenguaje
+
+La comunicación en DebtGo debe ser clara y directa, evitando jergas financieras complicadas y utilizando un lenguaje amigable y fácil de entender. Además, se deben incluir mensajes motivacionales que animen a los usuarios a tomar el control de sus finanzas y mejorar su educación financiera.
+
+Seguridad y Privacidad
+
+DebtGo debe asegurarse de que los usuarios comprendan cómo se manejan sus datos y que se toman medidas para proteger su privacidad.
+
+Soporte y Atención al Cliente
+
+DebtGo debe proporcionar un canal de soporte fácilmente accesible dentro de la aplicación para que los usuarios puedan obtener ayuda o hacer preguntas.
+
+Actualizaciones
+
+DebtGo debe mantener una programación regular de actualizaciones para mejorar la aplicación y agregar nuevas características, comunicando de manera efectiva las actualizaciones a los usuarios.
+
 ### 4.1.1. General Style Guidelines
+
+Los General Style Guidelines son un conjunto de reglas y directrices que se utilizan para definir el aspecto y el funcionamiento de un diseño, además, pueden aplicarse a cualquier tipo de diseño, incluyendo sitios web, aplicaciones móviles, materiales impresos y otros medios.
+Los General Style Guidelines suelen cubrir los siguientes elementos:
+
+Branding: La identidad visual de una marca, que incluye su logotipo, colores, tipografía y otros elementos visuales.
+
+Tipografía: El uso de la letra en el diseño, que incluye la elección de la fuente, el tamaño, el peso y el espaciado.
+
+Colores: El uso del color en el diseño, que incluye la elección de la paleta de colores, la armonía de colores y el contraste.
+
+Espacio: La distribución de los elementos visuales en el espacio, que incluye el uso de márgenes, sangrías, interlineado y otros elementos de espaciado.
+
+Tono de comunicación y lenguaje aplicado: El estilo de comunicación que se utiliza en el diseño, que puede ser divertido/serio, formal/casual, respetuoso/irreverente o entusiasta/sereno.
+
+Lenguaje aplicado: El lenguaje que se utiliza en el diseño, que debe ser claro, conciso y fácil de entender.
+
+Marca El nombre de la empresa, "DebtGo", es un juego de palabras con la palabra "Debt" (deuda en inglés). El uso de la letra "g" en lugar de la "d" crea un sonido similar, pero también sugiere una acción, como "go" (ir). Esto transmite la idea de que la empresa puede ayudarte a eliminar tus deudas.
+
+Tipografía La tipografía utilizada en el logotipo es moderna y limpia. El uso de una sola fuente para el nombre de la empresa de unidad y coherencia. La elección de una fuente “Boowie” también es adecuada para una empresa de servicios financieros, ya que transmite una sensación de profesionalidad y clase.
+
+Spacing El espaciado entre los elementos del logotipo es uniforme y equilibrado. Esto crea una sensación de orden y armonía. El espaciado entre las letras del nombre de la empresa es lo suficientemente amplio para que sean legibles, pero no tanto como para que se vean demasiado separadas.
+
+Colores El uso principal de colores sería el azul, ya que para una empresa representa tranquilidad y confiabilidad, o sea que brinda una sensación de seguridad al usuario que hace que consuma el servicio que ofrece la empresa, lo cual es lo que nosotros necesitamos al ser una nueva empresa que ayuda a los usuarios en sus finanzas, necesitamos que se sientan seguros y cómodos.
+
+La identidad de marca de DebtGo debe ser:
+
+Memorable y reconocible: La identidad de marca debe ser única y fácilmente identificable. Esto ayudará a que la empresa se destaque de la competencia y sea recordada por los clientes.
+
+Confiable y profesional: La identidad de marca debe transmitir la idea de que la empresa es confiable y profesional. Esto ayudará a que los clientes se sientan seguros de confiar en la empresa con sus finanzas.
+
+Atractiva y llamativa: La identidad de marca debe ser atractiva y llamativa. Esto ayudará a captar la atención de los clientes y a atraerlos a la empresa.
+
+Colores: La identidad de marca de DebtGo debe utilizar los siguientes colores:
+
+Color principal: Azul
+
+Colores complementarios: Tonalidades de azul y tipografía en blanco.
+
+El color azul como elemento principal en la gama de colores representa y transmite tranquilidad, además representa seguridad y estimula a la productividad. Por otro lado, la tipografía en color blanco ayuda a contrastar.
+
+Tipografía La tipografía utilizada en la identidad de marca de DebtGo debe ser moderna y limpia. Esto ayudará a crear un aspecto profesional y confiable.
+
+Logotipo El logotipo de DebtGo debe ser simple y fácil de recordar. Debe incorporar los colores y la tipografía de la marca para crear un aspecto coherente.
+
 ### 4.1.2. Web Style Guidelines
+
+ Es un documento creado para establecer un conjunto de reglas y recomendaciones de diseño, contenido y comportamiento para un sitio web específico. El propósito principal de un Web Style Guidelines es mantener una apariencia y consistencia visual en todo el sitio web. Proporciona pautas claras sobre cómo deben ser el diseño, la tipografía, los colores, las imágenes, los iconos y otros elementos visuales. También incluye recomendaciones sobre cómo debe ser el tono y estilo del contenido escrito, así como las pautas para el comportamiento y la interacción del usuario.
+Algunos objetivos de un Web Style Guidelines incluyen:
+
+● Consistencia: Un sitio web coherente y unificado esencial para crear una buena experiencia del usuario. La guía de estilo asegura que todos los elementos visuales y de contenido se mantengan consistentes en todo el sitio.
+
+● Identidad de marca: La guía de estilo establece los elementos visuales y de contenido que representan la identidad de la marca, como el logotipo, los colores corporativos y el tono de voz. Esto ayuda a fortalecer la imagen de marca y a transmitir una imagen coherente.
+
+● Eficiencia y ahorro de tiempo: Al tener pautas predefinidas, los diseñadores y desarrolladores pueden ahorrar tiempo y esfuerzo al seguir un conjunto de reglas ya establecidas en lugar de comenzar desde cero en cada proyecto.
+
+● Experiencia del usuario: El objetivo final de un Web Style Guidelines es ofrecer una excelente experiencia del usuario. Al mantener una apariencia consistente y una estructura de contenido clara, los usuarios pueden navegar fácilmente por el sitio y encontrar la información que necesitan.
+
+Un Web Style Guidelines es un documento que establece pautas de diseño y contenido para mantener la apariencia y consistencia en un sitio web. Ayuda a establecer una identidad de marca, ahorra tiempo y mejora la experiencia de usuario.
+
 ## 4.2. Information Architecture
+
+La Arquitectura de la Información (AI, por sus siglas en inglés) es una disciplina y una práctica de diseño que se ocupa de optimizar la forma en que se organiza, estructura, etiqueta y conecta la información en entornos digitales. Esta arquitectura es esencialmente una especie de ‘mapa’ que se usa para ayudar a los usuarios a comprender dónde se encuentran en un entorno digital, cómo llegaron allí y cómo pueden continuar hacia otras secciones relacionadas o importantes.
+El objetivo clave de la Arquitectura de la Información es lograr un equilibrio entre las necesidades y las capacidades del usuario y los objetivos del negocio. Facilita la navegación eficiente y efectiva a través de la complejidad de la información que encontramos en las aplicaciones de software, sitios web, intranets, plataformas en línea, etc. Por tanto, su propósito principal es diseñar una estructura de información coherente, comprensible y utilizable, que permita a los usuarios alcanzar sus objetivos de manera fácil y rápida.
+
+Además, la Arquitectura de la Información también es relevante para hacer que la información sea más entendible y utilizable. Esto se logra simplificando su estructura y su contenido, lo que ayuda a los usuarios a interpretar la información presentada, a tomar decisiones informadas y finalmente a interactuar con el sistema de una manera más efectiva e intuitiva.
+
+Por lo tanto, una buena Arquitectura de la Información puede mejorar significativamente la experiencia del usuario, y puede jugar un papel vital en el éxito de cualquier producto o servicio digital.
+
 ### 4.2.1. Organization Systems
+
+ Los sistemas de organización se encargan de la estructura y los procesos que se implementan en una empresa u organización para mejorar la eficiencia y la productividad.
+El objetivo principal del sistema de organización es establecer métodos y procedimientos claros para gestionar los recursos disponibles, tanto humanos como materiales, de manera eficiente. Esto implica organizar tareas, establecer responsabilidades, distribuir recursos y coordinar actividades para lograr los objetivos de la organización de manera efectiva.
+
+Algunos de los beneficios de implementar un sistema de organización incluyen:
+
+● Eficiencia: Un sistema de organización ayuda a optimizar el uso de los recursos disponibles, lo que se traduce en una mayor eficiencia en el trabajo realizado. Al establecer tareas y roles claros, se evita la duplicación de esfuerzos y se minimizan los errores.
+
+● Productividad: Al contar con un sistema de organización efectivo, se establecen rutinas y procesos que permiten esfuerzos más enfocados y una mayor productividad en el cumplimiento de metas y objetivos.
+
+● Coordinación: Un sistema de organización facilita la coordinación entre diferentes miembros de la organización. Al establecer una estructura clara de comunicación y responsabilidades, se asegura una sincronización adecuada de las actividades en equipo.
+
+● Planificación estratégica: Los sistemas de organización ayudan a establecer metas y objetivos claros, y permiten una planificación estratégica efectiva. Esto implica definir la visión y los valores de la organización, así como establecer planes y acciones específicas para alcanzar esos objetivos.
+
+● Control: Los sistemas de organización facilitan el seguimiento y control de las actividades y el rendimiento de la organización. Esto permite identificar áreas de mejora, corregir desviaciones y asegurar la conformidad con los estándares establecidos.
+
+Los sistemas de organización son fundamentales para establecer procesos eficientes y coordinados en una organización, lo que resulta en una mayor productividad y logro de objetivos. Ayudan a definir roles y responsabilidades, optimizar el uso de recursos, establecer una estructura de comunicación clara y permiten una planificación estratégica efectiva.
+
 ### 4.2.2. Labeling Systems
+
+Un Labelling System o sistema de etiquetado, se enfoca en un conjunto de técnicas y herramientas utilizadas para identificar y clasificar datos o elementos. El objetivo principal de un Labelling System es asignar etiquetas descriptivas a los datos, lo que facilita su organización búsqueda y procesamiento posterior.
+Los Labelling Systems son comúnmente utilizados en diferentes industrias y aplicaciones, como la clasificación de productos, el etiquetado de información en bases de datos, el marcado de imágenes o el análisis de texto. Algunas de las áreas en las que se utilizan con frecuencia son:
+
+● Aprendizaje automático (Machine Learning): En el campo del aprendizaje automático, los Labelling Systems son utilizados para etiquetar conjuntos de datos que serán utilizados para entrenar modelos de machine learning. Esto implica asignar etiquetas a los datos de entrenamiento para que el sistema pueda aprender a reconocer patrones y realizar predicciones precisas.
+
+● Clasificación de productos: En el comercio electrónico y la logística, los Labelling Systems se utilizan para etiquetar productos con información como códigos de barras, números de lote, fechas de caducidad, etc. Esto facilita su identificación y seguimiento a lo largo de la cadena de suministro.
+
+● Organización de archivos y documentos: Los Labelling Systems también son útiles para etiquetar archivos y documentos electrónicos, facilitando su organización y búsqueda rápida. Las etiquetas pueden incluir información como el tema, la fecha, el remitente, entre otros.
+
+● Anotación de imágenes y videos: En el campo de la visión por computadora, los Labelling Systems se utilizan para etiquetar y anotar imágenes y videos para tareas como reconocimiento de objetos, segmentación de imágenes, detección de rostros, entre otros. Estas etiquetas proporcionan información descriptiva sobre los elementos presentes en las imágenes y facilitan el entrenamiento y la evaluación de algoritmos.
+
+Los Labelling Systems son sistemas o técnicas de etiquetado utilizadas para clasificar y organizar datos, productos o elementos. Su objetivo principal es asignar etiquetas descriptivas que faciliten la organización, búsqueda y procesamiento posterior.
+
 ### 4.2.3. SEO Tags and Meta Tag
+
+SEO Tags
+SEO (Search Engine Optimization) Tags son elementos de HTML que ayudan a los motores de búsqueda a entender el contenido y la estructura de una página web. Estos tags influyen en cómo los motores de búsqueda indexan y clasifican tu sitio en los resultados de búsqueda. Algunos ejemplos importantes de SEO Tags incluyen:
+
+Title Tag:
+
+Descripción: Es el título de la página web que aparece en la pestaña del navegador y como el título del enlace en los resultados de búsqueda. Importancia: Es crucial porque es uno de los factores más influyentes en el ranking de la página. Debe ser relevante, contener palabras clave, y tener una longitud de entre 50 y 60 caracteres. Ejemplo: <title>Compra Ropa de Moda Online - Tienda XYZ</title>
+
+Header Tags (H1, H2, H3, etc.):
+
+Descripción: Son etiquetas utilizadas para definir los encabezados y subencabezados dentro del contenido de la página. El H1 es el encabezado principal y es el más importante en términos de SEO. Importancia: Ayudan a organizar el contenido y permiten a los motores de búsqueda comprender la jerarquía y el tema principal de la página. 
+
+Ejemplo:
+<h1>Las Mejores Ofertas en Ropa de Moda</h1>
+
+Alt Tags:
+Descripción: Son atributos utilizados en imágenes para describir su contenido. Aunque los usuarios no pueden ver este texto directamente, los motores de búsqueda lo utilizan para entender el contenido de la imagen. Importancia: Mejoran la accesibilidad y también son importantes para el SEO, especialmente en la búsqueda de imágenes.
+
+Meta Tags
+
+Los Meta Tags son fragmentos de texto que describen el contenido de la página; no aparecen en la página misma, pero se encuentran en el código HTML de la página. Los motores de búsqueda y los navegadores utilizan estos tags para obtener información adicional sobre la página. Algunos de los Meta Tags más relevantes para SEO son:
+
+Meta Description Tag:
+
+Descripción: Proporciona un resumen breve del contenido de la página. Aunque no afecta directamente al ranking de búsqueda, es importante porque aparece en los resultados de búsqueda bajo el título de la página. Importancia: Una meta descripción atractiva puede aumentar la tasa de clics (CTR) desde los motores de búsqueda. 
+
+Descripción: Originalmente, se utilizaba para listar palabras clave relevantes para la página. Sin embargo, hoy en día, la mayoría de los motores de búsqueda ya no utilizan este tag para el ranking. Importancia: Es menos relevante en la actualidad, pero puede ser utilizado por algunos motores de búsqueda secundarios. 
+
+Meta Robots Tag:
+
+Descripción: Indica a los motores de búsqueda cómo deben indexar o seguir los enlaces en la página. Importancia: Se utiliza para controlar la indexación de la página. Por ejemplo, si no quieres que una página específica sea indexada, puedes usar este tag. Ejemplo: Viewport Tag:
+
+Descripción: Especifica cómo se ajustará la página a la pantalla del dispositivo (especialmente importante para dispositivos móviles). Importancia: Crucial para la optimización móvil, ya que garantiza que el sitio web se visualice correctamente en dispositivos de diferentes tamaños.
+
 ### 4.2.4. Searching Systems
+
+ Un Searching Systems, también conocido como sistema de búsqueda o motor de búsqueda, es una aplicación automática diseñada para buscar y recuperar información almacenada en una base de datos o en internet. Su principal objetivo es encontrar y mostrar resultados relevantes que coincidan con las palabras clave o términos de búsqueda ingresados por el usuario.
+El funcionamiento básico de un Searching System consiste en rastrear y analizar grandes cantidades de contenido o información estructurada, como páginas web, documentos, imágenes, videos, etc. Luego, utilizando algoritmos y técnicas de indexación, organiza esta información de manera que pueda ser rápida y fácilmente accesible cuando un usuario realiza una consulta de búsqueda.
+
+El objetivo principal de un Searching System es brindar respuestas relevantes y precisas a las consultas de los usuarios. Para lograr esto, utilizan algoritmos de ranking que evalúan la relevancia y la calidad de los resultados en función de varios factores, como la coincidencia de palabras clave, la autoridad de la fuente, la popularidad del contenido, entre otros.
+
+Los Searching Systems, se utilizan en una amplia variedad de aplicaciones y servicios en línea, como motores de búsqueda web (como Google, Bing, Yahoo), motores de búsqueda de sitios web internos, directorios de archivos locales, sistemas de recuperación de información, entre otros. También se utilizan en diferentes industrias, como el comercio electrónico, la investigación académica, la búsqueda y recuperación de documentos legales, la búsqueda de imágenes, entre muchos otros casos de uso.
+
+Uns Searching System es una herramienta informática que permite buscar y recuperar información relevante almacenada en una base de datos o en internet. Su objetivo es proporcionar respuestas precisas y relevantes a las consultas de los usuarios.
+
 ### 4.2.5. Navigation Systems
+
+Un sistema de navegación, también conocido como sistema de posicionamiento y navegación, es una tecnología utilizada para determinar la ubicación, la dirección y la ruta más adecuada para llegar a un destino específico. Su objetivo principal es ayudar a las personas a navegar de manera eficiente y precisa, ya sea en vehículos, aviones, barcos u otros medios de transporte.
+El sistema de navegación utiliza una variedad de tecnologías como el GPS (Sistema de Posicionamiento Global), sensores inerciales y otros sistemas de comunicación para obtener información sobre la posición del vehículo en tiempo real. Estos datos se utilizan para calcular la ruta óptima hacia el sistema solicitado.
+
+Además de proporcionar indicaciones de manejo paso a paso, los sistemas de navegación también pueden ofrecer información adicional, como el estado del tráfico, el tiempo estimado de llegada, la presencia de puntos de interés cercanos y la información actualizada del mapa.
+
+El objetivo principal de un sistema de navegación es facilitar la navegación y mejorar la experiencia del usuario al proporcionar una guía precisa y confiable en el proceso de desplazarse de un lugar a otro. Esto ayuda a ahorrar tiempo, evitar posibles desvíos o atascos de tráfico, y proporcionar una sensación de seguridad al conocer la ruta y la ubicación en todo momento.
+
+Un sistema de navegación es una herramienta tecnológica que utiliza varios sistemas para proporcionar información y guía para llegar a un destino específico de la manera más eficiente posible. Su objetivo es mejorar la experiencia de navegación al ofrecer indicaciones precisas y actualizadas, así como otros datos útiles relacionados con la ruta.
+
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
