@@ -219,7 +219,7 @@ A manera de escalabilidad, proponemos introducir a futuro el uso de inteligencia
 <table>
   <tr>
     <th>
-      <img src="assets/Chpater-1/franco.jpg" width="800px">
+      <img src="assets/Chapter-1/franco.jpg" width="800px">
     </th>
     <td valign="top">
       <p><b>Durand Vera, Gianfranco Angel</b></p>
