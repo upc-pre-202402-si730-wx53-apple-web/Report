@@ -206,10 +206,174 @@
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo
 
-# Capítulo II: Requirements Elicitation & Analysis
+# Capítulo II: Requirements Elicitation & Analysis 
+
 ## 2.1. Competidores
-### 2.1.1. Análisis competitivo
-### 2.1.2. Estrategias y tácticas frente a competidores
+
+Comprender el panorama competitivo es crucial para el éxito de DebtGo. En esta sección, identificaremos y describiremos a nuestros principales competidores directos e indirectos que operan en el ámbito de la gestión de deudas y la educación financiera. Analizaremos sus modelos de negocio, estrategias de marketing, productos y servicios, y los canales de distribución que utilizan. Además, realizaremos un análisis comparativo detallado de sus fortalezas, debilidades, oportunidades y amenazas (SWOT) en relación con DebtGo. Este análisis nos permitirá entender mejor el entorno competitivo y ajustar nuestras estrategias para maximizar nuestra ventaja en el mercado.
+
+1. Mint (Intuit): Mint es una aplicación popular para la gestión de finanzas personales que ofrece seguimiento de gastos, presupuestos y alertas financieras. Es conocida por su interfaz intuitiva y sus capacidades de agregación de datos financieros.
+
+2. You Need a Budget (YNAB): YNAB se centra en la creación de presupuestos y la gestión de finanzas personales mediante un enfoque basado en la asignación de cada dólar a una tarea específica. Ofrece herramientas para planificar el gasto y gestionar las deudas.
+
+3. Credit Karma: Credit Karma ofrece herramientas para el seguimiento del crédito, la gestión de deudas y la comparación de productos financieros. Aunque su enfoque principal es el monitoreo del crédito, también proporciona recomendaciones para la gestión de deudas.
+
+## 2.1.1. Analisis competitivo
+
+El análisis competitivo implica examinar detenidamente a nuestros competidores para identificar sus fortalezas, debilidades, oportunidades y amenazas. Esto nos proporcionará una visión clara de nuestro posicionamiento en el mercado y nos ayudará a desarrollar estrategias efectivas.
+
+<table>
+  <tr>
+    <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
+  </tr>
+  <tr>
+    <td colspan="5">El análisis competitivo es fundamental para entender el entorno en el que DebtGo opera, identificar las fortalezas y debilidades de los competidores, y descubrir oportunidades y amenazas en el mercado. Este análisis ayuda a posicionar mejor nuestra startup en relación con los competidores y a definir estrategias que maximicen nuestra ventaja competitiva.</td>
+  </tr>
+  <tr>
+    <td colspan="3">Nombre y Logo</td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+        DebtGo
+        <br>
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/Chapter-2/debtgo-logo.png" alt="Logo DebtGo" style="width: 65;"></img>
+        </div>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+    Mint
+    <div style="text-align: center;">
+                <img src="assets/Chapter-2/mint-logo.png" alt="Logo Mint" style="width: 40;"></img>
+        </div>
+    </td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+      YNAB
+      <div style="text-align: center; margin-top: 20px;">
+                <img src="assets/Chapter-2/ynab-logo.png" alt="Logo YNAB" style="width: 65;"></img>
+            </div>
+      </td>
+    <td colspan="1" valign="top" style="font-weight: bold;" >
+      Credit Karma
+      <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/Chapter-2/credit-karma-logo.png" alt="Logo Credit Karma" style="width: 65;"></img>
+            </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil</p></td>
+    <td colspan="2">Overview</td>
+    <td colspan="1" valign="top">Aplicación para gestionar deudas y educación financiera. Ofrece herramientas para seguimiento de ingresos, gastos y presupuestos.</td>
+    <td colspan="1" valign="top">Plataforma para gestión de finanzas personales con seguimiento de gastos y presupuestos.</td>
+    <td colspan="1" valign="top">Herramienta enfocada en la creación de presupuestos y asignación de fondos.</td>
+    <td colspan="1" valign="top">Servicio de monitoreo de crédito con herramientas de gestión de deudas y recomendaciones financieras.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Ventaja competitiva¿Qué valor ofrece a los clientes?</td>
+    <td colspan="1" valign="top">Personalización avanzada de presupuestos y recomendaciones financieras.</td>
+    <td colspan="1" valign="top">Amplia integración con cuentas bancarias y tarjetas.</td>
+    <td colspan="1" valign="top">Enfoque en la metodología de presupuesto y planificación.</td>
+    <td colspan="1" valign="top">Monitoreo de crédito gratuito y recomendaciones personalizadas.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+    <td colspan="2">Mercado objetivo</td>
+    <td colspan="1" valign="top">Jóvenes y adultos que desean mejorar su educación financiera y gestionar sus deudas.</td>
+    <td colspan="1" valign="top">Usuarios interesados en el seguimiento de gastos y la gestión financiera.</td>
+    <td colspan="1" valign="top">Personas que buscan un enfoque riguroso en la creación y seguimiento de presupuestos.</td>
+    <td colspan="1" valign="top">Usuarios que desean monitorear su crédito y gestionar deudas.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Estrategias de marketing</td>
+    <td colspan="1" valign="top">Marketing digital dirigido a usuarios interesados en finanzas personales.</td>
+    <td colspan="1" valign="top">Publicidad a través de canales digitales y colaboraciones con influencers financieros.</td>
+    <td colspan="1" valign="top">Marketing basado en testimonios y demostraciones del enfoque de presupuesto.</td>
+    <td colspan="1" valign="top">Publicidad a través de contenido educativo sobre crédito y finanzas personales.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
+    <td colspan="2">Productos & Servicios</td>
+    <td colspan="1" valign="top">Aplicación móvil con suscripción para características premium y servicios de consultoría financiera personalizada.</td>
+    <td colspan="1" valign="top">Aplicación gratuita con opciones premium para características avanzadas.</td>
+    <td colspan="1" valign="top">Suscripción mensual para acceso a herramientas de presupuesto y planificación.</td>
+    <td colspan="1" valign="top">Aplicación gratuita con características premium para monitoreo avanzado y recomendaciones.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Precios & Costos</td>
+    <td colspan="1" valign="top">Tarifa mensual o anual para suscripción premium, tarifas adicionales para consultoría y talleres.</td>
+    <td colspan="1" valign="top">Gratuita con opciones de pago para características adicionales.</td>
+    <td colspan="1" valign="top">Suscripción mensual o anual.</td>
+    <td colspan="1" valign="top">Gratuita con opciones de pago para características avanzadas.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
+    <td colspan="1" valign="top">Web y móvil (iOS y Android).</td>
+    <td colspan="1" valign="top">Web y móvil (iOS y Android).</td>
+    <td colspan="1" valign="top">Web y móvil (iOS y Android).</td>
+    <td colspan="1" valign="top">Web y móvil (iOS y Android).</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
+    <td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Fortalezas</td>
+    <td colspan="1" valign="top">Innovación en personalización y enfoque en educación financiera.</td>
+    <td colspan="1" valign="top">Amplia integración con bancos y tarjetas.</td>
+    <td colspan="1" valign="top">Método comprobado de asignación de presupuesto.</td>
+    <td colspan="1" valign="top">Monitoreo de crédito gratuito y recomendaciones personalizadas.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Debilidades</td>
+    <td colspan="1" valign="top">Falta de reconocimiento de marca en comparación con competidores establecidos.</td>
+    <td colspan="1" valign="top">Dependencia de ingresos por publicidad y promociones.</td>
+    <td colspan="1" valign="top">Curva de aprendizaje en la metodología de presupuesto.</td>
+    <td colspan="1" valign="top">Limitación en la profundidad del análisis de finanzas más allá del crédito.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Oportunidades</td>
+    <td colspan="1" valign="top">Creciente interés en la educación financiera y gestión de deudas.</td>
+    <td colspan="1" valign="top">Expansión en mercados internacionales.</td>
+    <td colspan="1" valign="top">Integración de características adicionales basadas en IA.</td>
+    <td colspan="1" valign="top">Expansión en servicios de planificación financiera.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Amenazas</td>
+    <td colspan="1" valign="top">Competencia creciente y posibles cambios en regulaciones financieras.</td>
+    <td colspan="1" valign="top">Competencia de aplicaciones de finanzas personales más integrales.</td>
+    <td colspan="1" valign="top">Competencia de plataformas con características similares.</td>
+    <td colspan="1" valign="top">Cambios en regulaciones de crédito y competencia de herramientas de gestión financiera.</td>
+  </tr>
+</table>
+
+## 2.1.2. Estrategias y tácticas frente a competidores
+
+Desarrollar estrategias y tácticas sólidas para enfrentar a nuestros competidores es fundamental para alcanzar una ventaja competitiva sostenible. En esta sección, exploraremos cómo podemos diferenciarnos y destacarnos en el mercado.
+
+<strong>Estrategias y Tácticas Preliminares de DebtGo:</strong>
+
+#1 Diferenciación a través de Persoanlización Avanzada:
+- **Estrategia:** Posicionar a DebtGo como la opción más avanzada en personalización de presupuestos y recomendaciones financieras.
+- **Táctica:** Desarrollar y promocionar funcionalidades de inteligencia artificial que ofrezcan recomendaciones financieras ultra-personalizadas. Realizar campañas de marketing que destaquen esta capacidad única y cómo se traduce en mejores resultados financieros para los usuarios.
+
+#2 Enfoque en Educación Financiera:
+- **Estrategia:** Aprovechar el interés creciente en la educación financiera para atraer usuarios que buscan mejorar su bienestar financiero a través de conocimientos prácticos y personalizados.
+- **Táctica:** Ofrecer contenido educativo exclusivo y talleres interactivos como parte del paquete premium. Publicar estudios de caso y testimonios de usuarios que han logrado mejorar sus finanzas utilizando DebtGo.
+
+#3 Optimización de la Experiencia de Usuario (UX):
+- **Estrategia:** Garantizar que la experiencia de usuario sea superior y sin distracciones, en comparación con competidores que dependen de modelos basados en publicidad.
+- **Táctica:** Implementar una interfaz de usuario intuitiva y realizar pruebas continuas para optimizar la navegación y la usabilidad. Recolectar y analizar feedback de usuarios para realizar mejoras continuas.
+
+#4 Innovación Tecnológica:
+- **Estrategia:** Utilizar la tecnología de vanguardia para mantener una ventaja competitiva y diferenciarse en el mercado.
+- **Táctica:** Invertir en el desarrollo de tecnologías emergentes, como el aprendizaje automático y la inteligencia artificial, para ofrecer características innovadoras que los competidores aún no tienen. Lanzar nuevas funcionalidades en fases para mantener el interés y la retención de los usuarios.
+ 
+#5 Vigilancia y Adaptación Continua:
+- **Estrategia:** Monitorear continuamente el panorama competitivo para adaptar las estrategias y tácticas en función de las tendencias y cambios del mercado.
+- **Tácticas:** Establecer un equipo dedicado a la investigación competitiva y al análisis del mercado. Ajustar las estrategias de marketing y producto basadas en la evolución de las ofertas de los competidores y las expectativas de los usuarios.
+
+Estas estrategias y tácticas nos ayudarán a posicionar a DebtGo de manera efectiva en el mercado, aprovechando sus fortalezas y oportunidades mientras se enfrentan a las debilidades y amenazas que presentan los competidores.
+
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
