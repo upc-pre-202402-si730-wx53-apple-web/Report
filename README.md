@@ -295,11 +295,6 @@ Cuánto: DebtGo adoptará un modelo de monetización freemium, donde la aplicaci
 
 
 ### 1.2.2 Lean UX Process
-
-### 1.2.2.4 Lean UX Canvas
-
- <img src="assets/Chapter-1/canva.png" width="800px">
-
 #### 1.2.2.1. Lean UX Problem Statements
 
 Nuestra aplicación, DebtGo, está diseñada para ofrecer a los usuarios una herramienta poderosa que les permita gestionar sus deudas de manera efectiva, al mismo tiempo que fortalece su educación financiera. DebtGo se presenta como una oportunidad para que los usuarios mejoren su situación financiera, adoptando hábitos saludables que les permitan alcanzar sus objetivos económicos y evitar el ciclo de endeudamiento.
@@ -364,6 +359,9 @@ Hipótesis: Creemos que la falta de actualizaciones o implementaciones de softwa
 Hipótesis: Creemos que al no contar con un sistema de seguridad actualizado y moderno en nuestra aplicación, seremos vulnerables a ataques cibernéticos o intentos de hackeo. Fracaso: Sabremos que hemos fracasado cuando los ataques cibernéticos al sistema DebtGo aumenten en un 48%.
 
 #### 1.2.2.4. Lean UX Canvas
+
+ <img src="assets/Chapter-1/canva1.png" width="800px">
+
 ## 1.3. Segmentos objetivo
 
 <strong>1. Jóvenes Adultos y Profesionales en Formación Financiera:</strong>
