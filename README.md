@@ -296,7 +296,9 @@ Cuánto: DebtGo adoptará un modelo de monetización freemium, donde la aplicaci
 
 ### 1.2.2 Lean UX Process
 
-# 1.2.2.4 Lean UX Canvas:
+### 1.2.2.4 Lean UX Canvas
+
+ <img src="assets/Chapter-1/canva.png" width="800px">
 
 #### 1.2.2.1. Lean UX Problem Statements
 
