@@ -233,38 +233,6 @@
 
 Un Style Guidelines, o Guía de Estilo, es un documento que proporciona directrices claras y coherentes sobre la apariencia visual, la comunicación y la identidad de una marca o producto. Esta guía asegura que todos los elementos relacionados con la marca, como tipografía, colores, logotipos y tono de voz, se mantengan uniformes en todas las aplicaciones y plataformas, lo que ayuda a reforzar la identidad de la marca y garantiza una experiencia de usuario consistente y reconocible.
 
-**Tipografía**
-
-La tipografía principal de DebtGo debe ser legible en pantallas móviles y web. Se recomienda una fuente sans-serif moderna para el contenido principal, con una fuente en negrita y de mayor tamaño para destacar encabezados y títulos.
-
-**Iconos**
-
-Los iconos utilizados en la aplicación de DebtGo deben ser simples, claros y fácilmente reconocibles. Deben seguir un estilo uniforme y coherente en toda la interfaz.
-
-**Diseño de Interfaz de Usuario:**
-
-El diseño de la interfaz de usuario de DebtGo debe ser intuitivo y fácil de navegar. Se deben utilizar colores suaves y una disposición limpia para proporcionar una experiencia agradable al usuario. Los colores principales deben reflejar la identidad de marca y transmitir confianza, utilizando tonos de azul, negro y blanco.
-
-**Imágenes**
-
-Las imágenes utilizadas en DebtGo deben ser de alta calidad y reflejar situaciones financieras realistas y personas de diferentes grupos demográficos para que los usuarios se identifiquen. Además, se deben incorporar gráficos educativos claros y sencillos para ayudar a los usuarios a comprender conceptos financieros.
-
-**Lenguaje**
-
-La comunicación en DebtGo debe ser clara y directa, evitando jergas financieras complicadas y utilizando un lenguaje amigable y fácil de entender. Además, se deben incluir mensajes motivacionales que animen a los usuarios a tomar el control de sus finanzas y mejorar su educación financiera.
-
-**Seguridad y Privacidad**
-
-DebtGo debe asegurarse de que los usuarios comprendan cómo se manejan sus datos y que se toman medidas para proteger su privacidad.
-
-**Soporte y Atención al Cliente**
-
-DebtGo debe proporcionar un canal de soporte fácilmente accesible dentro de la aplicación para que los usuarios puedan obtener ayuda o hacer preguntas.
-
-**Actualizaciones**
-
-DebtGo debe mantener una programación regular de actualizaciones para mejorar la aplicación y agregar nuevas características, comunicando de manera efectiva las actualizaciones a los usuarios.
-
 ### 4.1.1. General Style Guidelines
 
 **Branding:** 
@@ -280,9 +248,9 @@ El logo principal de DebtGo debe ser limpio y moderno, con un énfasis en la sim
 
 **Tipografía:**
 
-La tipografía utilizada en el logotipo es moderna y limpia. El uso de una sola fuente para el nombre de la empresa de unidad y coherencia. La elección de una fuente “Boowie” también es adecuada para una empresa de servicios financieros, ya que transmite una sensación de profesionalidad y clase.
+La elección tipográfica para DebtGo es un componente esencial que complementa la identidad visual de la marca. Se han seleccionado tres familias tipográficas para la marca: Urbanist, Merriweather Sans y Sora. Siendo la principal **Urbanist**.
 
-<center> <img src="assets/Chapter-2/Tipografia.png" style="width: 350px;"/> </center>
+<center> <img src="assets/Chapter-2/Urbanist.webp" style="width: 350px;"/> </center>
 <br>
 
 **Colores:** 
