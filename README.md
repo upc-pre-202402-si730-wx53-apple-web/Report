@@ -452,22 +452,40 @@ Un sistema de navegación es una herramienta tecnológica que utiliza varios sis
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+El prototipado de la landing page cuenta diversas secciones:
+- Header: Incluye botones para facilitar la navegación
+- Hero: Con 2 CTA, uno para cada segmento objetivo, un título y una imagen de fondo.
+- Segmentos y beneficios: Para cada segmento se tiene un título, una breve descripción, un CTA y una imagen. Debajo de cada sección se detallan los beneficios que se ofrecen.
+- Testimonios: Consta de un título y subtítulo, así como de unos testimonios de usuarios de cada segmento, lo que aumenta la confianza en los potenciales clientes.
+- Contacto: Tiene un título y subtítulo, un pequeño input para la introducción de un email y un botón para el envio del correo.
+- Footer: Sección que da fin a la landing page, cuenta con las redes sociales de la plataforma.
+
 Wireframe Destkop
 
 <img src="assets/Chapter-2/Wireframe-Desktop.png">
 
-Wireframe Mobile
+Wireframe Mobile <br>
+En la versión mobile el navbar se reemplaza por un menu desplegable.
 
 <div align="center">
 <img src="assets/Chapter-2/Wireframe-Mobile.png">
 </div>
 
 ### 4.3.2. Landing Page Mock-up
+Siguiendo los wireframes de la landing page se realizaron los mockups:
+- Header y Segmentos: Se utilizan los colores primarios de la plataforma especificados.
+- Hero: Cuenta con una imagen relacionada a la plataforma, además se tiene dos CTA en versiones alternativas para la diferenciación.
+- Beneficios: Incluye iconos relacionados con los beneficios ofrecidos y con el color principal, además el fondo es claro alternando con la sección de Segmentos para una mejor separación.
+- Testimonios: Con un fondo de color principal para constrastar con las tarjetas de cada testimonio.
+- Contacto: Se tiene un CTA en color primario, siendo notorio al estar en un fondo claro.
+- Footer: Al igual que el header, utiliza los colores primarios de la plataforma para dar un fin estético a la página.
+
 Mock-up Destkop
 
 <img src="assets/Chapter-2/Mockup-Desktop.png">
 
-Mock-up Mobile
+Mock-up Mobile <br>
+En la versión mobile el navbar se reemplaza por un menu desplegable.
 
 <div align="center">
 <img src="assets/Chapter-2/Mockup-Mobile.png">
