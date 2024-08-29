@@ -307,7 +307,30 @@ El espaciado entre los elementos del logotipo es uniforme y equilibrado. Esto cr
 - Eficiencia y ahorro de tiempo: Al tener pautas predefinidas, los diseñadores y desarrolladores pueden ahorrar tiempo y esfuerzo al seguir un conjunto de reglas ya establecidas en lugar de comenzar desde cero en cada proyecto.
 - Experiencia del usuario: El objetivo final de un Web Style Guidelines es ofrecer una excelente experiencia del usuario. Al mantener una apariencia consistente y una estructura de contenido clara, los usuarios pueden navegar fácilmente por el sitio y encontrar la información que necesitan.
 
-Un Web Style Guidelines es un documento que establece pautas de diseño y contenido para mantener la apariencia y consistencia en un sitio web. Ayuda a establecer una identidad de marca, ahorra tiempo y mejora la experiencia de usuario.
+**Paleta de Colores**
+
+Se utiliza la paleta de colores de DebtGo para todos los elementos de la web, asegurando consistencia y coherencia visual.
+
+**Primarios:**
+
+- #FFFFFF (Blanco puro): Usado como fondo principal.
+- #9B6CF0 (Lavanda): Para para destacar secciones clave.
+- #998EF7 (Lavanda suave): Color primario para botones importantes, enlaces y elementos interactivos, asegurando que las acciones clave sean claras y atractivas.
+- #F3F3FF (Gris suave): Para subtítulos en fondos del color principal.
+
+**Secundarios:**
+
+- #939393 (Gris medio): Aplicado en títulos en fondos claros.
+- #3D3D3D (Gris oscuro): Utilizado para el texto secundario en fondos claros, garantizando una excelente legibilidad sin recurrir al negro puro.
+- #000000 (Negro): Para títulos dentro de fondos claros.
+
+**Fuentes:**
+
+**Urbanist:** Fuente principal, utilizado en títulos y elementos de mayor jerarquía.
+
+**Merriweather Sans :** Utilizado para el cuerpo de texto y subtítulos en toda la plataforma.
+
+**Sora:** Para elementos interactivos como CTA y enlaces.
 
 ## 4.2. Information Architecture
 
