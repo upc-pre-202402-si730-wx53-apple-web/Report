@@ -378,6 +378,7 @@ Estas estrategias y tácticas nos ayudarán a posicionar a DebtGo de manera efec
 ### 2.2.1. Diseño de entrevistas
 
 **Segmento Objetivo: Consultores Financieros/Economistas**
+
 1. ¿Cuál es su nombre completo?
 2. ¿Cuál es su edad?
 3. ¿En qué distrito reside actualmente?
@@ -395,6 +396,22 @@ Estas estrategias y tácticas nos ayudarán a posicionar a DebtGo de manera efec
 
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
 
+1. ¿Cuál es su nombre completo?
+2. ¿Cuál es su edad?
+3. ¿En qué distrito reside actualmente?
+4. ¿Qué tipo de empresa estás interesado en iniciar?
+5. ¿Cuál es tu nivel de conocimiento de finanzas? 
+6. ¿Has trabajado con consultores financieros anteriormente? ¿Crees que deberían tener experiencia en tu rubro para poder asesorarte?
+7. ¿Tienes alguna experiencia en la obtención de préstamos?
+8. ¿Está familiarizado con términos financieros como crédito, interés, liquidez, etc.? 
+9. ¿Qué pasos en el proceso de la obtención de préstamos resultan más confusos?
+10. ¿Qué te preocupa más al momento de solicitar préstamos para tu negocio? (ie.  interés, condiciones, etc)
+11. ¿A qué plataformas consideras acudir para adquirir préstamos? ¿Por qué?
+12. ¿Qué criterios utilizas para identificar si una publicidad de préstamos es real, o si es un intento de estafa?
+13. ¿Utilizas aplicaciones de banca móvil? ¿Cómo te sientes acerca del nivel de seguridad ofrecido por estas aplicaciones?
+14. ¿A qué nivel estarías dispuesto a compartir tus datos financieros en una aplicación de consultas financieras?
+15. ¿Qué condiciones o garantías lo harían sentir más seguro al momento de compartir información financiera?
+
 ### 2.2.2. Registro de entrevistas
 
 Entrevista #1 - Emilio Chávarri
@@ -411,12 +428,17 @@ Emilio Chávarri, de 54 años, es una persona que quiere emprender en el rubro d
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+
 Para esta sección se han creado personajes ficticios, cada uno diseñado para representar a un segmento específico de usuarios. La información utilizada para desarrollar estos "User personas" proviene de entrevistas previas realizadas a cada segmento objetivo. Estas entrevistas tenían como objetivo comprender mejor a las personas a las que se dirige la aplicación. Se consideraron datos demográficos, metas, motivaciones frustraciones, marcas relacionadas con el tema de la aplicación canales digitales más utilizados, entre otros. La creación de esta sección se llevó a cabo utilizando la plataforma UXPressia.
 
 **Segmento Objetivo: Consultores Financieros/Economistas**
 
 
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
+
+#### User Persona 1: Emilio Chávarri
+
+![image](assets/User1.png)
 
 ### 2.3.2. User Task Matrix
 En esta sección se presenta el user task matrix, herramienta centrada en los segmentos objetivos, que nos permitirá identificar las tareas y objetivos claves de los usuarios. Además, nos permitirá priorizar características y funcionalidades al momento de realizar el product backlog. Para la frecuencia se han considerado cinco opciones:nunca ,casi nunca, a veces, a menudo ,siempre; y para la importancia tres opciones: bajo, medio, alto". En relación con la matriz de tareas de los usuarios, podemos identificar tanto las tareas de mayor frecuencia como las de mayor importancia, así como las diferencias y similitudes entre los diferentes tipos de usuarios.
