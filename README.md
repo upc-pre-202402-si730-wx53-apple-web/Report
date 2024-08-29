@@ -467,9 +467,9 @@ Wireframe Destkop
 
 Wireframe Mobile
 
-<center>
+<div align="center">
 <img src="assets/Chapter-2/Wireframe-Mobile.png">
-</center>
+</div>
 
 ### 4.3.2. Landing Page Mock-up
 Mock-up Destkop
@@ -478,9 +478,9 @@ Mock-up Destkop
 
 Mock-up Mobile
 
-<center>
+<div align="center">
 <img src="assets/Chapter-2/Mockup-Mobile.png">
-</center>
+</div>
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
