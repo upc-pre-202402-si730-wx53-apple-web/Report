@@ -275,29 +275,38 @@ La identidad visual de una marca, que incluye su logotipo, colores, tipografía 
 
 El logo principal de DebtGo debe ser limpio y moderno, con un énfasis en la simplicidad y la claridad. Puede incorporar elementos que evocan finanzas, como gráficos de barras estilizados o un gráfico de línea ascendente para simbolizar el crecimiento financiero. Se pueden crear variaciones del logotipo para adaptarse a diferentes tamaños y plataformas, pero la esencia y los colores deben mantenerse coherentes.
 
-<center> <img src="assets/Logo.png" style="width: 200px;"/> </center>
+<center> <img src="assets/Chapter-2/Logo.png" style="width: 200px;"/> </center>
 <br>
 
 **Tipografía:**
 
 La tipografía utilizada en el logotipo es moderna y limpia. El uso de una sola fuente para el nombre de la empresa de unidad y coherencia. La elección de una fuente “Boowie” también es adecuada para una empresa de servicios financieros, ya que transmite una sensación de profesionalidad y clase.
 
-<center> <img src="assets/Tipografia.png" style="width: 350px;"/> </center>
+<center> <img src="assets/Chapter-2/Tipografia.png" style="width: 350px;"/> </center>
 <br>
 
 **Colores:** 
 
-El uso del color en el diseño, que incluye la elección de la paleta de colores, la armonía de colores y el contraste. El uso principal de colores sería el azul, ya que para una empresa representa tranquilidad y confiabilidad, o sea que brinda una sensación de seguridad al usuario que hace que consuma el servicio que ofrece la empresa, lo cual es lo que nosotros necesitamos al ser una nueva empresa que ayuda a los usuarios en sus finanzas, necesitamos que se sientan seguros y cómodos.
+La paleta de colores de DebtGo ha sido cuidadosamente seleccionada para transmitir profesionalismo, confianza y accesibilidad. Cada color tiene un propósito específico y se utilizará de manera consistente en toda la identidad visual de la marca.
 
-Color principal: Azul
+<center> <img src="assets/Chapter-2/paleta.png" style="width: 500px;"/> </center>
+<br>
 
-Colores complementarios: Tonalidades de azul y tipografía en blanco.
+- #998EF7 (Lavanda suave): Este color se utilizará como el tono principal, predominando en el logotipo, encabezados y elementos clave de la interfaz como las llamadas a la acción (CTA), botones y elementos interactivos.
 
-El color azul como elemento principal en la gama de colores representa y transmite tranquilidad, además representa seguridad y estimula a la productividad. Por otro lado, la tipografía en color blanco ayuda a contrastar.
+- #9B6CF0 (Lavanda): Se utilizará para fondos oscuros permitiendo resaltar los elementos claves con el tono principal.
 
-**Espacio:**
+- #7960F2 (Lavanda profunda): Este tono servirá para complementar al contraste de los elementos principales.
 
- La distribución de los elementos visuales en el espacio, que incluye el uso de márgenes, sangrías, interlineado y otros elementos de espaciado.
+- #000000 (Negro): Utilizado para títulos en fondos claros.
+
+- #FFFFFF (Blanco): Utilizado para títulos en fondos con las tonalidades principales.
+
+- #F3F3FF (Gris suave): Para subtítulos en fondos con las tonalidades principales.
+
+- #939393 (Gris medio): Se utilizará para cuerpo y textos de menor jerarquía.
+
+- #3D3D3D (Gris oscuro): Este color será empleado en subtítulos con fondos claros.
 
 **Tono de comunicación y lenguaje aplicado:**
 
@@ -452,7 +461,27 @@ Un sistema de navegación es una herramienta tecnológica que utiliza varios sis
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+Wireframe Destkop
+
+<img src="assets/Chapter-2/Wireframe-Desktop.png">
+
+Wireframe Mobile
+
+<center>
+<img src="assets/Chapter-2/Wireframe-Mobile.png">
+</center>
+
 ### 4.3.2. Landing Page Mock-up
+Mock-up Destkop
+
+<img src="assets/Chapter-2/Mockup-Desktop.png">
+
+Mock-up Mobile
+
+<center>
+<img src="assets/Chapter-2/Mockup-Mobile.png">
+</center>
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
