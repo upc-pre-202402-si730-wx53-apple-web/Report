@@ -239,7 +239,7 @@ El análisis competitivo implica examinar detenidamente a nuestros competidores 
         DebtGo
         <br>
         <div style="text-align: center; margin-top: 10px;">
-                <img src="assets/Chapter-2/debtgo-logo.jpg" alt="Logo DebtGo" style="width: 65;"></img>
+                <img src="assets/Chapter-2/debtgo-logo.png" alt="Logo DebtGo" style="width: 65;"></img>
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
     Mint
@@ -416,9 +416,15 @@ Estas estrategias y tácticas nos ayudarán a posicionar a DebtGo de manera efec
 
 Entrevista #1 - Emilio Chávarri
 
-![image](assets/Entrevista1.JPG)
+![image](assets/Chapter-2/Entrevista1.JPG)
 
 [Entrevista 1 - video](https://drive.google.com/file/d/1ZE39j1XXFbxcnqDVyfh1mzX27qQ3FVCf/view?usp=sharing)
+
+Entrevista #2 - Estrella Ticona
+
+![image](assets/Chapter-2/entrevista2.png)
+
+[Entrevista 2 - video](https://shorturl.at/JQK2Y): https://shorturl.at/JQK2Y
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -438,7 +444,7 @@ Para esta sección se han creado personajes ficticios, cada uno diseñado para r
 
 #### User Persona 1: Emilio Chávarri
 
-![image](assets/User1.png)
+![image](assets/Chapter-2/User1.png)
 
 ### 2.3.2. User Task Matrix
 En esta sección se presenta el user task matrix, herramienta centrada en los segmentos objetivos, que nos permitirá identificar las tareas y objetivos claves de los usuarios. Además, nos permitirá priorizar características y funcionalidades al momento de realizar el product backlog. Para la frecuencia se han considerado cinco opciones:nunca ,casi nunca, a veces, a menudo ,siempre; y para la importancia tres opciones: bajo, medio, alto". En relación con la matriz de tareas de los usuarios, podemos identificar tanto las tareas de mayor frecuencia como las de mayor importancia, así como las diferencias y similitudes entre los diferentes tipos de usuarios.
