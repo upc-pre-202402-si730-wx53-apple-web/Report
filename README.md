@@ -243,21 +243,21 @@ La identidad visual de una marca, que incluye su logotipo, colores, tipografía 
 
 El logo principal de DebtGo debe ser limpio y moderno, con un énfasis en la simplicidad y la claridad. Puede incorporar elementos que evocan finanzas, como gráficos de barras estilizados o un gráfico de línea ascendente para simbolizar el crecimiento financiero. Se pueden crear variaciones del logotipo para adaptarse a diferentes tamaños y plataformas, pero la esencia y los colores deben mantenerse coherentes.
 
-<center> <img src="assets/Chapter-2/Logo.png" style="width: 200px;"/> </center>
+<center> <img src="assets/Chapter-4/Logo.png" style="width: 200px;"/> </center>
 <br>
 
 **Tipografía:**
 
 La elección tipográfica para DebtGo es un componente esencial que complementa la identidad visual de la marca. Se han seleccionado tres familias tipográficas para la marca: Urbanist, Merriweather Sans y Sora. Siendo la principal **Urbanist**.
 
-<center> <img src="assets/Chapter-2/Urbanist.webp" style="width: 350px;"/> </center>
+<center> <img src="assets/Chapter-4/Urbanist.webp" style="width: 350px;"/> </center>
 <br>
 
 **Colores:** 
 
 La paleta de colores de DebtGo ha sido cuidadosamente seleccionada para transmitir profesionalismo, confianza y accesibilidad. Cada color tiene un propósito específico y se utilizará de manera consistente en toda la identidad visual de la marca.
 
-<center> <img src="assets/Chapter-2/paleta.png" style="width: 500px;"/> </center>
+<center> <img src="assets/Chapter-4/paleta.png" style="width: 500px;"/> </center>
 <br>
 
 - #998EF7 (Lavanda suave): Este color se utilizará como el tono principal, predominando en el logotipo, encabezados y elementos clave de la interfaz como las llamadas a la acción (CTA), botones y elementos interactivos.
@@ -462,13 +462,13 @@ El prototipado de la landing page cuenta diversas secciones:
 
 Wireframe Destkop
 
-<img src="assets/Chapter-2/Wireframe-Desktop.png">
+<img src="assets/Chapter-4/Wireframe-Desktop.png">
 
 Wireframe Mobile <br>
 En la versión mobile el navbar se reemplaza por un menu desplegable.
 
 <div align="center">
-<img src="assets/Chapter-2/Wireframe-Mobile.png">
+<img src="assets/Chapter-4/Wireframe-Mobile.png">
 </div>
 
 ### 4.3.2. Landing Page Mock-up
@@ -482,13 +482,13 @@ Siguiendo los wireframes de la landing page se realizaron los mockups:
 
 Mock-up Destkop
 
-<img src="assets/Chapter-2/Mockup-Desktop.png">
+<img src="assets/Chapter-4/Mockup-Desktop.png">
 
 Mock-up Mobile <br>
 En la versión mobile el navbar se reemplaza por un menu desplegable.
 
 <div align="center">
-<img src="assets/Chapter-2/Mockup-Mobile.png">
+<img src="assets/Chapter-4/Mockup-Mobile.png">
 </div>
 
 ## 4.4. Web Applications UX/UI Design
