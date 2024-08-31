@@ -497,8 +497,11 @@ En la versión mobile el navbar se reemplaza por un menu desplegable.
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
+
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
+<img src="assets/Chapter-4/context-diagram.png">
+
 ### 4.6.2. Software Architecture Container Diagrams
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
