@@ -522,9 +522,9 @@ En esta sección se presenta el user task matrix, herramienta centrada en los se
 <tr><th rowspan="2" valign="top">
 <b><i>User task Matrix</i></b></th>
 <th colspan="2" valign="top">
-<b><i>Seg1</i></b></th>
+<b><i>Segmento 1</i></b></th>
 <th colspan="2" valign="top"><p>
-<b><i>Seg2</i></b>
+<b><i>Segmento 2</i></b>
  <p><p><b><i></i></b></p>
  </th></tr>
 <tr><td valign="top"><b><i>Frecuencia</i></b> </td>
@@ -532,64 +532,43 @@ En esta sección se presenta el user task matrix, herramienta centrada en los se
 <td valign="top"><b><i>Frecuencia</i></b> </td>
 <td valign="top"><b><i>Importancia</i></b></td>
 </tr>
-<tr><td>...</td>
+<tr><td>Registrarse en la plataforma </td>
 <td><b><i>A menudo</i></b></td>
 <td><b><i>Alta</i></b></td>
-<td><b><i>Nunca</i></b></td>
+<td><b><i>A menudo</i></b></td>
 <td><b><i>Medio</i></b></td>
 </tr>
-<tr><td>...</td>
-<td><b><i>Siempre</i></b></td>
+<tr><td>Llenar datos sobre el usuario </td>
+<td><b><i>Amenudo</i></b></td>
 <td><b><i>Alta</i></b></td>
-<td><b><i>Nunca</i></b></td>
-<td><b><i>Baja</i></b></td>
-</tr>
-<tr><td>...</td>
-<td><b><i>Siempre</i></b></td>
-<td><b><i>Medio</i></b></td>
-<td><b><i>Nunca</i></b></td>
-<td><b><i>Medio</i></b></td></tr>
-<tr><td>...</td>
-<td><b><i>Siempre</i></b></td>
-<td><b><i>Medio</i></b></td>
-<td><b><i>Siempre</i></b></td>
-<td><b><i>Alta</i></b></td>
-</tr>
-<tr><td>...</td>
-<td><b><i>Siempre</i></b></td>
-<td><b><i>Mdia</i></b></td>
-<td><b><i>Nunca</i></b></td>
-<td><b><i>Alta</i></b></td>
-</tr>
-<tr><td>...	</td>
-<td><b><i>Siempre</i></b></td>
-<td><b><i>Alta</i></b></td>
-<td><b><i>A veces</i></b></td>
-<td><b><i>Alta</i></b></td>
-</tr>
-<tr><td>...</td>
-<td><b><i>Siempre</i></b></td>
-<td><b><i>Medio</i></b></td>
-<td><b><i>A veces</i></b></td>
+<td><b><i>A menudo</i></b></td>
 <td><b><i>Medio</i></b></td>
 </tr>
-<tr><td>...</td>
+<tr><td>Indicar el nivel de experiencia que tiene
+con la gestión financiera</td>
+<td><b><i>A menudo</i></b></td>
+<td><b><i>Muy alta</i></b></td>
+<td><b><i>A menudo</i></b></td>
+<td><b><i>Muy alta</i></b></td></tr>
+<tr><td>Buscar sus deudas pendientes</td>
+<td><b><i>Alta</i></b></td>
+<td><b><i>Medio</i></b></td>
 <td><b><i>Siempre</i></b></td>
+<td><b><i>Alta</i></b></td>
+</tr>
+<tr><td>Seleccionar sobre la opción gestión de
+deudas o gastos personales
+</td>
+<td><b><i>Alta</i></b></td>
+<td><b><i>Alta</i></b></td>
+<td><b><i>A menudo</i></b></td>
+<td><b><i>Alta</i></b></td>
+</tr>
+<tr><td>Chat online con un asesor</td>
+<td><b><i>Casi nunca</i></b></td>
 <td><b><i>Baja</i></b></td>
 <td><b><i>Casi nunca</i></b></td>
 <td><b><i>Baja</i></b></td>
-</tr>
-<tr><td>...</td>
-<td><b><i>A veces</i></b></td>
-<td><b><i>Alta</i></b></td>
-<td><b><i>Siempre</i></b></td>
-<td><b><i>Baja</i></b></td>
-</tr>
-<tr><td>...</td>
-<td><b><i>Siempre</i></b></td>
-<td><b><i>Alta</i></b></td>
-<td><b><i>Siempre</i></b></td>
-<td><b><i>Alta</i></b></td>
 </tr>
 </table>
 
