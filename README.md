@@ -278,20 +278,21 @@ Esta falta de información clara y accesible puede llevar a situaciones en las q
 
 A medida que las deudas se acumulan y se vuelven más difíciles de manejar, muchas personas se encuentran atrapadas en un ciclo de endeudamiento, donde la falta de claridad y organización agrava su situación financiera. Esto puede llevar a tomar decisiones desesperadas, como adquirir nuevas deudas para pagar las existentes, lo que finalmente incrementa la carga financiera y perpetúa un círculo vicioso de deuda. Es fundamental abordar este problema mediante la educación financiera, la transparencia en la información proporcionada por las instituciones crediticias, y el desarrollo de herramientas que permitan a los usuarios gestionar y entender mejor sus deudas. Solo así se podrá reducir la incidencia de problemas financieros graves y mejorar la calidad de vida de las personas afectadas.
 
-5Ws y 2Hs:
-Qué: DebtGo es una aplicación innovadora que proporciona a los usuarios herramientas avanzadas para comprender, monitorear y gestionar sus deudas de manera intuitiva, mientras fortalecen su educación financiera. Ofrece funcionalidades como la creación de presupuestos personalizados, seguimiento de ingresos y gastos, y acceso a contenido educativo.
+**5Ws y 2Hs:**
 
-Quién: Está dirigida a dos segmentos principales: jóvenes adultos y profesionales (18-35 años) que buscan mejorar su educación financiera desde una edad temprana, y gestores de deudas y emprendedores (25-60 años) que necesitan soluciones efectivas para manejar sus deudas y mejorar su flujo de efectivo.
+**Qué:** DebtGo es una aplicación innovadora que proporciona a los usuarios herramientas avanzadas para comprender, monitorear y gestionar sus deudas de manera intuitiva, mientras fortalecen su educación financiera. Ofrece funcionalidades como la creación de presupuestos personalizados, seguimiento de ingresos y gastos, y acceso a contenido educativo.
 
-Dónde: La aplicación estará disponible globalmente a través de las tiendas virtuales de iOS y Android, permitiendo a los usuarios acceder a DebtGo desde cualquier lugar con conexión a Internet.
+**Quién:** Está dirigida a dos segmentos principales: jóvenes adultos y profesionales (18-35 años) que buscan mejorar su educación financiera desde una edad temprana, y gestores de deudas y emprendedores (25-60 años) que necesitan soluciones efectivas para manejar sus deudas y mejorar su flujo de efectivo.
 
-Cuándo: DebtGo estará disponible las 24 horas del día, brindando acceso continuo para que los usuarios puedan gestionar sus finanzas en cualquier momento que lo necesiten.
+**Dónde:** La aplicación estará disponible globalmente a través de las tiendas virtuales de iOS y Android, permitiendo a los usuarios acceder a DebtGo desde cualquier lugar con conexión a Internet.
 
-Por qué: DebtGo se enfoca en resolver la problemática de la falta de conocimiento financiero y la complejidad en la gestión de deudas. Muchas personas enfrentan estrés y dificultades financieras debido a la falta de claridad en sus obligaciones crediticias, lo que puede llevar a decisiones financieras deficientes y un ciclo de endeudamiento. La aplicación ofrece una solución integral para mejorar el bienestar financiero.
+**Cuándo:** DebtGo estará disponible las 24 horas del día, brindando acceso continuo para que los usuarios puedan gestionar sus finanzas en cualquier momento que lo necesiten.
 
-Cómo: Los usuarios podrán ingresar sus pagos pendientes en la sección de deudas, especificando detalles como cuotas, intereses, y plazos. DebtGo generará automáticamente planes de pago personalizados y estrategias para facilitar el cumplimiento de las deudas. Además, la aplicación cuenta con una interfaz amigable y secciones bien organizadas para una visión clara de las deudas, seguimiento de pagos, y contenido educativo. Notificaciones y recordatorios ayudarán a los usuarios a mantenerse al día con sus objetivos financieros.
+**Por qué:** DebtGo se enfoca en resolver la problemática de la falta de conocimiento financiero y la complejidad en la gestión de deudas. Muchas personas enfrentan estrés y dificultades financieras debido a la falta de claridad en sus obligaciones crediticias, lo que puede llevar a decisiones financieras deficientes y un ciclo de endeudamiento. La aplicación ofrece una solución integral para mejorar el bienestar financiero.
 
-Cuánto: DebtGo adoptará un modelo de monetización freemium, donde la aplicación básica será gratuita, permitiendo acceso a las funcionalidades esenciales. Los usuarios podrán suscribirse a un plan premium para desbloquear características avanzadas, como análisis financieros detallados y contenido educativo exclusivo. Además, se ofrecerán servicios adicionales de consultoría financiera personalizada y talleres en línea, disponibles por una tarifa adicional.
+**Cómo:** Los usuarios podrán ingresar sus pagos pendientes en la sección de deudas, especificando detalles como cuotas, intereses, y plazos. DebtGo generará automáticamente planes de pago personalizados y estrategias para facilitar el cumplimiento de las deudas. Además, la aplicación cuenta con una interfaz amigable y secciones bien organizadas para una visión clara de las deudas, seguimiento de pagos, y contenido educativo. Notificaciones y recordatorios ayudarán a los usuarios a mantenerse al día con sus objetivos financieros.
+
+**Cuánto:** DebtGo adoptará un modelo de monetización freemium, donde la aplicación básica será gratuita, permitiendo acceso a las funcionalidades esenciales. Los usuarios podrán suscribirse a un plan premium para desbloquear características avanzadas, como análisis financieros detallados y contenido educativo exclusivo. Además, se ofrecerán servicios adicionales de consultoría financiera personalizada y talleres en línea, disponibles por una tarifa adicional.
 
 
 ### 1.2.2 Lean UX Process
@@ -345,22 +346,23 @@ Al abordar estas preguntas de manera proactiva, buscamos no solo atraer a usuari
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-Caso: DebtGo
-Hipótesis: Creemos que al implementar más herramientas de notificaciones en la aplicación DebtGo, brindaremos a los usuarios alertas más eficaces sobre sus pagos pendientes. Éxito: Sabremos que hemos tenido éxito cuando el 80% de las llamadas registradas no presenten deudas pendientes.
+Creemos que al implementar más herramientas de notificaciones en la aplicación DebtGo, brindaremos a los usuarios alertas más eficaces sobre sus pagos pendientes. Éxito: Sabremos que hemos tenido éxito cuando el 80% de las llamadas registradas no presenten deudas pendientes.
 
-Hipótesis: Creemos que al añadir un mecanismo de categorización que permita a los usuarios seleccionar si son empresas o particulares, y que ajuste las funcionalidades de la aplicación según esa selección, mejoraremos la experiencia del usuario. Éxito: Sabremos que hemos tenido éxito cuando el 100% de los usuarios y empresas estén registrados formalmente en la plataforma.
+Creemos que al añadir un mecanismo de categorización que permita a los usuarios seleccionar si son empresas o particulares, y que ajuste las funcionalidades de la aplicación según esa selección, mejoraremos la experiencia del usuario. Éxito: Sabremos que hemos tenido éxito cuando el 100% de los usuarios y empresas estén registrados formalmente en la plataforma.
 
-Hipótesis: Creemos que al ofrecer recompensas a los usuarios que paguen sus deudas de forma anticipada y sin retrasos, incentivaremos un comportamiento de pago puntual. Éxito: Sabremos que hemos tenido éxito cuando el porcentaje de deudas hacia la empresa disminuya en un 35%.
+Creemos que al ofrecer recompensas a los usuarios que paguen sus deudas de forma anticipada y sin retrasos, incentivaremos un comportamiento de pago puntual. Éxito: Sabremos que hemos tenido éxito cuando el porcentaje de deudas hacia la empresa disminuya en un 35%.
 
-Hipótesis: Creemos que al registrar de manera precisa a los usuarios que pagan y a los que no, reduciremos las llamadas innecesarias y optimizaremos el uso del tiempo. Éxito: Sabremos que hemos tenido éxito cuando el registro de usuarios de las empresas aumente en un 65%.
+Creemos que al registrar de manera precisa a los usuarios que pagan y a los que no, reduciremos las llamadas innecesarias y optimizaremos el uso del tiempo. Éxito: Sabremos que hemos tenido éxito cuando el registro de usuarios de las empresas aumente en un 65%.
 
-Hipótesis: Creemos que la falta de actualizaciones o implementaciones de software tempranas en la aplicación afectará negativamente la gestión de deudas. Fracaso: Sabremos que hemos fracasado cuando las deudas de las empresas aumenten en un 25%.
+Creemos que la falta de actualizaciones o implementaciones de software tempranas en la aplicación afectará negativamente la gestión de deudas. Fracaso: Sabremos que hemos fracasado cuando las deudas de las empresas aumenten en un 25%.
 
-Hipótesis: Creemos que al no contar con un sistema de seguridad actualizado y moderno en nuestra aplicación, seremos vulnerables a ataques cibernéticos o intentos de hackeo. Fracaso: Sabremos que hemos fracasado cuando los ataques cibernéticos al sistema DebtGo aumenten en un 48%.
+Creemos que al no contar con un sistema de seguridad actualizado y moderno en nuestra aplicación, seremos vulnerables a ataques cibernéticos o intentos de hackeo. Fracaso: Sabremos que hemos fracasado cuando los ataques cibernéticos al sistema DebtGo aumenten en un 48%.
 
 #### 1.2.2.4. Lean UX Canvas
 
  <img src="assets/Chapter-1/canva1.png" width="800px">
+
+ *Imagen (N°). Elaboración propia. Realizado en Canva*
 
 ## 1.3. Segmentos objetivo
 
