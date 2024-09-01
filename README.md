@@ -432,12 +432,14 @@ Resumen:
 En la entrevista, José Adrián Luza, un joven de 19 años y estudiante de la carrera Ing. Software, comparte sus perspectivas sobre la educación financiera y el uso de tecnologías en la gestión económica personal. Aunque no tiene experiencia profesional en economía o consultoría financiera, se muestra familiarizado con conceptos básicos como el ahorro y la generación de ingresos, los cuales considera fundamentales en su carrera. José utiliza frecuentemente su teléfono y laptop para administrar sus finanzas personales y prefiere Twitter para mantenerse actualizado en temas económicos. Expresa críticas hacia algunas aplicaciones financieras que considera incompletas y destaca la importancia de Infocorp para el control crediticio. Además, subraya la necesidad de una buena educación financiera para evitar problemas económicos y cree que una aplicación personalizada podría tener un impacto positivo en la gestión de las finanzas personales.
 
 **Entrevista #2**
-- Nombre: 
-- Edad:  años
-- Distrito: 
+- Nombre: Rafael
+- Edad:  19 años
+- Distrito: Surco
 - Duración:  minutos
 
+![image](assets/Chapter-2/Entrevi.png)
 
+[Entrevista 1 - video](https://bit.ly/3Z6sFbM): https://bit.ly/3Z6sFbM
 
 Resumen: 
 
@@ -508,12 +510,14 @@ Para esta sección se han creado personajes ficticios, cada uno diseñado para r
 #### User Persona 1: Jose Luza
 
 ![image](assets/Chapter-2/User2.png)
+*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
 
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
 
 #### User Persona 1: Emilio Chávarri
 
 ![image](assets/Chapter-2/User1.png)
+*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
 
 ### 2.3.2. User Task Matrix
 En esta sección se presenta el user task matrix, herramienta centrada en los segmentos objetivos, que nos permitirá identificar las tareas y objetivos claves de los usuarios. Además, nos permitirá priorizar características y funcionalidades al momento de realizar el product backlog. Para la frecuencia se han considerado cinco opciones:nunca ,casi nunca, a veces, a menudo ,siempre; y para la importancia tres opciones: bajo, medio, alto". En relación con la matriz de tareas de los usuarios, podemos identificar tanto las tareas de mayor frecuencia como las de mayor importancia, así como las diferencias y similitudes entre los diferentes tipos de usuarios.
