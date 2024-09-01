@@ -414,23 +414,86 @@ Estas estrategias y tácticas nos ayudarán a posicionar a DebtGo de manera efec
 
 ### 2.2.2. Registro de entrevistas
 
-Entrevista #1 - Emilio Chávarri
+**Segmento Objetivo: Consultores Financieros/Economistas**
+
+**Entrevista #1**
+
+- Nombre: Jose Luza
+- Edad: 19 años
+- Distrito: Surquillo
+-  Duración: 5:49 minutos
+
+![image](assets/Chapter-2/Entrevista1_seg1.png)
+
+[Entrevista 1 - video](https://bit.ly/3Z6sFbM): https://bit.ly/3Z6sFbM
+
+Resumen:
+
+**Entrevista #2**
+- Nombre: 
+- Edad:  años
+- Distrito: 
+- Duración:  minutos
+
+
+
+Resumen: 
+
+**Entrevista #3**
+- Nombre: 
+- Edad:  años
+- Distrito: 
+- Duración:  minutos
+
+
+
+Resumen: 
+
+
+**Segmento Objetivo: Gestores de Deudas y Emprendedores**
+
+**Entrevista #1**
+
+- Nombre: Emilio Chávarri
+- Edad: 54 años
+- Distrito: San Juan de Lurigancho 
+- Duración: 4:38 minutos
 
 ![image](assets/Chapter-2/Entrevista1.JPG)
 
 [Entrevista 1 - video](https://drive.google.com/file/d/1ZE39j1XXFbxcnqDVyfh1mzX27qQ3FVCf/view?usp=sharing)
 
-Entrevista #2 - Estrella Ticona
+Resumen: 
+
+Emilio Chávarri, de 54 años, es una persona que quiere emprender en el rubro de comunicaciones, tiene experiencia en la obtención de préstamos a entidades bancarias pero presenta dificultades en cuanto a firma de documentos de préstamos, ya que hay muchos términos que se tiene que leer y entender. Lo que más le preocupa de solicitar préstamos es el interés que va a pagar por el mismo. El criterio que utiliza para identificar si una publicidad de préstamo es real, primeramente ve qué empresa es la que está publicitando, y luego por medio del internet va al mercado de valores para ver la condición financiera de la empresa. También utiliza ciertas aplicaciones de banca móvil y a su vez, siente que es muy segura y que conforme pasa el tiempo los bancos van mejorando en cuestión de seguridad. Finalmente, las condiciones con las que se sentiría seguro al momento de compartir información financiera es la seguridad de la misma aplicación, ver cuántas restricciones tiene para acceder a su información, conocer más a la empresa, su ubicación, el software que está utilizando, que tan fácil es usarlo.
+
+**Entrevista #2** 
+- Nombre: Estrella Ticona
+- Edad: 19 años
+- Distrito: Chorrillos
+- Duración: 4:40 minutos
 
 ![image](assets/Chapter-2/entrevista2.png)
 
 [Entrevista 2 - video](https://shorturl.at/JQK2Y): https://shorturl.at/JQK2Y
 
+Resumen:
+
+**Entrevista #3**
+- Nombre: 
+- Edad:  años
+- Distrito: 
+- Duración:  minutos
+
+
+
+Resumen: 
+
 ### 2.2.3. Análisis de entrevistas
 
 *Entrevista 1:*
 
-Emilio Chávarri, de 54 años, es una persona que quiere emprender en el rubro de comunicaciones, tiene experiencia en la obtención de préstamos a entidades bancarias pero presenta dificultades en cuanto a firma de documentos de préstamos, ya que hay muchos términos que se tiene que leer y entender. Lo que más le preocupa de solicitar préstamos es el interés que va a pagar por el mismo. El criterio que utiliza para identificar si una publicidad de préstamo es real, primeramente ve qué empresa es la que está publicitando, y luego por medio del internet va al mercado de valores para ver la condición financiera de la empresa. También utiliza ciertas aplicaciones de banca móvil y a su vez, siente que es muy segura y que conforme pasa el tiempo los bancos van mejorando en cuestión de seguridad. Finalmente, las condiciones con las que se sentiría seguro al momento de compartir información financiera es la seguridad de la misma aplicación, ver cuántas restricciones tiene para acceder a su información, conocer más a la empresa, su ubicación, el software que está utilizando, que tan fácil es usarlo.    
+    
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
@@ -439,6 +502,9 @@ Para esta sección se han creado personajes ficticios, cada uno diseñado para r
 
 **Segmento Objetivo: Consultores Financieros/Economistas**
 
+#### User Persona 1: Jose Luza
+
+![image](assets/Chapter-2/User1.png)
 
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
 
