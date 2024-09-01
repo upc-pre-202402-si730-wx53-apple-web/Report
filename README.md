@@ -598,8 +598,16 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 
 **Segmento Objetivo: Consultores Financieros/Economistas**
 
+![image](assets/Chapter-2/Segmento1.png)
+
+*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA file:///C:/Users/USUARIO/Downloads/Segmento%201.png* 
 
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
+
+![image](assets/Chapter-2/Segmento.png)
+
+*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
+
 
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
