@@ -267,6 +267,18 @@ A manera de escalabilidad, proponemos introducir a futuro el uso de inteligencia
       </p>
     </td>
   </tr>
+  <tr>
+    <th>
+      <img src="assets/Chapter-1/emilia.jpeg" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Durán Santander, Emilia Mercedes</b></p>
+      <p>
+        Soy estudiante de la carrera de Ingeniería de Software, actualmente en el 6to ciclo en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos técnicos en C++, 
+        HTML y Javascript. Mi experiencia en proyectos de múltiples iteraciones me ha ayudado a obtener mejores resultados.
+      </p>
+    </td>
+  </tr>
 </table>
 
 ## 1.2. Solution Profile
