@@ -226,12 +226,38 @@
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
 
+### EPICS
   <div style="text-align:center;">
     <table align="center" border="1" cellpadding="10" cellspacing="0">
         <tr>
             <td style="text-align:center;" colspan="1">EPIC ID</td>
             <td style="text-align:center;" colspan="1">TÍTULO</td>
-           <td style="text-align:center;" colspan ="1"> DESCRIPCIÓN</td>
+           <td style="text-align:center;" colspan ="1"> DESCRIPCIÓN</td><
+        </tr>
+        <tr>
+            <td>EP01</td> 
+            <td>Visita a landing page</td>
+            <td><b>Como</b> visitante <b>deseo</b> visualizar los distintos beneficios y oportunidades de la aplicación <b>para</b> entender el propósito del producto y si este se adecúa a mis necesidades </td>
+        </tr>
+        <tr>
+            <td>EP02</td> 
+            <td>Normas de seguridad y registro</td>
+            <td><b>Como</b> visitante <b>deseo</b> comprender las medidas de seguridad <b>para</b> decidir si compartiré mis datos personales y financieros </td>
+        </tr>
+        <tr>
+            <td>EP03</td> 
+            <td>Registro en aplicación y gestión de cuenta</td>
+            <td><b>Como</b> usuario <b>deseo</b> registrarme y gestionar mi cuenta <b>para</b> interactuar con la aplicación</td>
+        </tr>
+        <tr>
+            <td>EP04</td> 
+            <td>Opciones de servicio</td>
+            <td><b>Como</b> usuario <b>deseo</b> visualizar todas las opciones de servicio <b>para</b> elegir el asesoramiento más adecuado</td>
+        </tr>
+        <tr>
+            <td>EP05</td> 
+            <td>Creación y seguimiento de casos</td>
+            <td><b>Como</b> usuario <b>deseo</b> crear, modificar y cerrar casos <b>para</b> lograr mis propósitos en la aplicación</td>
         </tr>
         <tr>
             <td>EPIC-001</td> 
@@ -273,17 +299,17 @@
             <td>EPIC-007</td> 
             <td>Consultoría Financiera Personalizada </td>
             <td>Como usuario, quiero tener la opción de acceder a consultoría financiera personalizada, para recibir asesoramiento adaptado a mis necesidades 
-                específicas y mejorar mi manejo de deudas.
-
- </td>
+                específicas y mejorar mi manejo de deudas. </td>
         </tr>
          <tr>
             <td>EPIC-008</td> 
             <td>Integración con Aplicaciones de Presupuesto  </td>
             <td>Como usuario, quiero que la aplicación se integre con mis aplicaciones de presupuesto actuales, para consolidar todas mis finanzas en un solo lugar y 
-                tener un control más preciso de mi situación financiera.
+                tener un control más preciso de mi situación financiera.</td> 
+        </tr> </table>
+</div>
 
-</td>
+### USER STORIES
 
 | Story ID | Titulo | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 |---|---|------|------|---|
@@ -299,34 +325,21 @@
 |US10|Creación de perfil - Emprendedor|**Como** emprendedor, **deseo** registrar mi emprendimiento y mis necesidades **para** empezar a utilizar la aplicación|**Dado que** el emprendedor está registrado exitosamente con rol emprendedor **cuando** accede por primera vez **entonces** la aplicación pide ingresar información para su perfil|EP03|
 |US11|Elección y actualización de plan|**Como** emprendedor **deseo** registrar y/o modificar mi plan de suscripción **para** que se adecúe a mis necesidades| **Escenario 01: Ingreso de plan** <br/> **Dado que** el emprendedor está registrado exitosamente con rol emprendedor **cuando** accede por primera vez **entonces** la aplicación le pide elegir su plan de suscripción <br/><br/>  **Escenario 02: Modificación de plan** **Dado que** el emprendedor ingresa a la aplicación con rol emprendedor **cuando** ingresa a sección "Settings" Y a sección "Subscription-Plan" **entonces** modifica el plan actual de acuerdo a su preferencia|EP03|
 |US12|Elección de pagos por servicios|**Como** consultor financiero, **deseo** ingresar el método de pago de servicios **para** recibir el pago de los mismos|**Escenario 01: Ingreso de datos de pago** <br/>**Dado que** el consultor está registrado exitosamente con rol consultor **cuando** accede por primera vez **entonces** la aplicación le pide ingresar sus datos de pago<br/><br/>**Escenario 02: Modificación de datos de pago** <br/> **Dado que** el consultor ingresa a la aplicación con rol consultor **cuando** ingresa a sección "Settings" Y a sección "Payment-Method" **entonces** modifica los datos actuales de acuerdo a su preferencia|EP03|
+|US13|Búsqueda de consultores|**Como** emprendedor, **deseo** encontrar a un consultor que tenga experiencia en mi rubro **para** que comprenda mis necesidades|**Dado que** el emprendedor accede con rol emprendedor **cuando** utiliza la funcionalidad de filtrado por rubro de experiencia **entonces** visualiza  consultores especializados|EP04|
+|US14|Lista de servicios guardados|**Como** emprendedor, **deseo** poder comparar los servicios de distintos consultores **para** elegir el más adecuado|**Escenario 1: Adición de servicios a lista** <br/>**Dado que** el emprendedor se encuentra en la búsqueda de servicios **cuando** visualiza ofertas que le atraen **entonces** las agrega a una lista privada<br/><br/> **Escenario 2: Visualización de servicios en lista** <br/>**Dado que** el emprendedor cuenta con una lista de servicios **cuando** ingresa a su perfil **entonces** puede visualizar la lista privada de servicios guardados|EP04|
+|US15|Publicación de servicios|**Como** consultor financiero, **deseo** publicar distintos servicios y los precios correspondientes **para** ofrecer varias opciones dependiendo de la necesidad del cliente|**Dado que** el consultor financiero accede con rol consultor **cuando** ingresa a su perfil de consultor **entonces** puede agregar y editar sus servicios disponibles|EP04|
+|US16|Inicio de caso|**Como** emprendedor, **deseo** tener acceso a asesoramiento personalizado **para** poder acceder a préstamos que se adecuen a mis necesidades|**Dado que** el emprendedor accede a la aplicación con rol emprendedor **cuando** elige un consultor e inicia el ticket del caso **entonces** explica su caso y sus necesidades|EP04|
+|US17|Aceptación de caso |**Como** consultor financiero, **deseo** hablar con el emprendedor antes de aceptar el caso **para** entender sus necesidades|**Dado que** el consultor recibe nuevos casos **cuando** lee los detalles del caso **entonces** elige si aceptar o denegar el caso|EP04|
+|US18|Visualización de servicios|**Como** consultor financiero, **deseo** visualizar todas las ofertas de servicios de otros consultores **para** poder comparar mis servicios|**Dado que** el consultor financiero accede con rol consultor **cuando** ingresa a la sección servicios **entonces** puede visualizar servicios de otros consultores|EP04|
+|US19|Sistema de mensajes y casos|**Como** consultor financiero, **deseo** comunicarme directamente con los clientes **para** ofrecer asesoramiento adecuado|**Escenario 1: Ingreso a mensajes por bandeja** <br/>**Dado que** el consultor accede a la plataforma **cuando** ingresa a la sección Bandeja **entonces** revisa sus mensajes con los clientes<br/><br/>**Escenario 2: Ingreso a mensajes por perfil** <br/>**Dado que** el consultor accede a la plataforma **cuando** ingresa al perfil de un cliente **entonces** puede entrar a los mensajes con el cliente|EP05|
+|US20|Historial de casos|**Como** consultor financiero, **deseo** ver el historial de mensajes **para** hacer seguimiento al caso|**Escenario 1: Ingreso a casos por sección Casos**<br/>**Dado que** el consultor ingresa a la aplicación **cuando** ingresa a la sección Casos **entonces** puede revisar sus casos activos y archivados<br/><br/>**Escenario 2: Ingreso a casos por perfil de cliente**<br/>**Dado que** el consultor se encuentra en el perfil del cliente **cuando** ingresa a la sección mensajes **entonces** visualiza todos los mensajes |EP05|
+|US21|Envío de documentos adjuntos |**Como** consultor financiero, **deseo** poder enviar documentos a través de la aplicación **para** apoyar al cliente y darle información necesaria|**Dado que** el consultor necesita enviar información relevante **cuando** ingresa al Caso con el cliente **entonces** adjunta el/los documentos a través de la aplicación|EP05|
+|US22|Actualizaciones de solicitudes|**Como** emprendedor, *deseo* recibir actualizaciones de mis solicitudes **para** estar al tanto del progreso de las mismas|**Dado que** el emprendedor activa las notificaciones **cuando** el consultor responde al caso **entonces** el emprendedor recibe una notificación|EP05|
+|US23|Alertas de fechas importantes|**Como** emprendedor, **deseo** recibir alertas sobre fechas importantes **para** poder cumplir con los requisitos a tiempo|**Dado que** el emprendedor acepta una solución del caso **cuando** se acerca una fecha importante **entonces** la aplicación envía una notificación|EP05|
 
 
 
 
-
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="10" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">01</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">01</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Ac...s </td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> C.. un trabajador a través de TaskLinker.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Visualización de Documentos Adjuntos"</p>
-           <p>Dado que estoy revisando el perfil de un trabajador en TaskLinker, Cua.....</p>
-            <p>Escenario 2: "Acceso a Documentos desde el Historial de Contrataciones"</p>
-            Dado que he contratado previamente a un trabajador a través de TaskLinker.....
-        </tr>
-    </table>
-</div>
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 
