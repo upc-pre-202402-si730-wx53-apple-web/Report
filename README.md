@@ -467,10 +467,6 @@ Resumen:
 
 [Entrevista 1 - video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211108_upc_edu_pe/EYsHot_bR4FLtZs1tok9abIBf1ZfOJsBVIy0KEwKFc6AEA?e=bER0c8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi40OH19)
 
-Resumen: 
-
-Emilio Chávarri, de 54 años, es una persona que quiere emprender en el rubro de comunicaciones, tiene experiencia en la obtención de préstamos a entidades bancarias pero presenta dificultades en cuanto a firma de documentos de préstamos, ya que hay muchos términos que se tiene que leer y entender. Lo que más le preocupa de solicitar préstamos es el interés que va a pagar por el mismo. El criterio que utiliza para identificar si una publicidad de préstamo es real, primeramente ve qué empresa es la que está publicitando, y luego por medio del internet va al mercado de valores para ver la condición financiera de la empresa. También utiliza ciertas aplicaciones de banca móvil y a su vez, siente que es muy segura y que conforme pasa el tiempo los bancos van mejorando en cuestión de seguridad. Finalmente, las condiciones con las que se sentiría seguro al momento de compartir información financiera es la seguridad de la misma aplicación, ver cuántas restricciones tiene para acceder a su información, conocer más a la empresa, su ubicación, el software que está utilizando, que tan fácil es usarlo.
-
 **Entrevista #2** 
 - Nombre: Estrella Ticona
 - Edad: 19 años
@@ -498,6 +494,10 @@ Resumen:
 **Segmento Objetivo: Jóvenes Adultos y Profesionales en Formación Financiera:**
 
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
+
+Entrevista 1: 
+
+Emilio Chávarri, de 54 años, es una persona que quiere emprender en el rubro de comunicaciones, tiene experiencia en la obtención de préstamos a entidades bancarias pero presenta dificultades en cuanto a firma de documentos de préstamos, ya que hay muchos términos que se tiene que leer y entender. Lo que más le preocupa de solicitar préstamos es el interés que va a pagar por el mismo. El criterio que utiliza para identificar si una publicidad de préstamo es real, primeramente ve qué empresa es la que está publicitando, y luego por medio del internet va al mercado de valores para ver la condición financiera de la empresa. También utiliza ciertas aplicaciones de banca móvil y a su vez, siente que es muy segura y que conforme pasa el tiempo los bancos van mejorando en cuestión de seguridad. Finalmente, las condiciones con las que se sentiría seguro al momento de compartir información financiera es la seguridad de la misma aplicación, ver cuántas restricciones tiene para acceder a su información, conocer más a la empresa, su ubicación, el software que está utilizando, que tan fácil es usarlo.
     
 
 ## 2.3. Needfinding
@@ -509,14 +509,17 @@ Para esta sección se han creado personajes ficticios, cada uno diseñado para r
 
 #### User Persona 1: 
 
-![image](assets/Chapter-2/user2.png)
+![image](assets/Chapter-2/User2.png)
 *Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
 
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
 
 #### User Persona 2:
 
-![image](assets/Chapter-2/user1.png)
+![image](assets/Chapter-2/User1.png)
+*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
+
+![image](assets/Chapter-2/User3.png)
 *Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
 
 ### 2.3.2. User Task Matrix
