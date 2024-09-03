@@ -435,7 +435,7 @@ En la entrevista, José Adrián Luza, un joven de 19 años y estudiante de la ca
 - Nombre: Rafael Palomino
 - Edad:  19 años
 - Distrito: Molina
-- Duración:  minutos
+- Duración: 7:00 minutos
 
 ![image](assets/Chapter-2/Entrevi.png)
 
