@@ -128,64 +128,6 @@
 [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
 - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
 - [3.2. User Stories](#32-user-stories)
-  <div style="text-align:center;">
-    <table align="center" border="1" cellpadding="10" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="1">EPIC ID</td>
-            <td style="text-align:center;" colspan="1">TÍTULO</td>
-           <td style="text-align:center;" colspan ="1"> DESCRIPCIÓN</td>
-        </tr>
-        <tr>
-            <td>EPIC-001</td> 
-            <td>Gestión Simplificada de Deudas </td>
-            <td>Como usuario, quiero una interfaz intuitiva y fácil de usar que me permita ingresar y organizar mis deudas de manera rápida, para poder gestionar mis 
-                obligaciones financieras sin complicaciones y mejorar mi bienestar económico. </td>
-        </tr>
-         <tr>
-            <td>EPIC-002</td> 
-            <td>Seguimiento Personalizado de Ingresos y Gastos </td>
-            <td>Como usuario, quiero una herramienta que me permita rastrear mis ingresos y gastos de manera eficiente, para tener una visión clara de mi situación 
-                financiera y poder tomar decisiones informadas. </td>
-        </tr>
-         <tr>
-            <td>EPIC-003</td> 
-            <td> Creación de Presupuestos Personalizados </td>
-            <td>Como usuario, quiero poder crear presupuestos personalizados basados en mis ingresos y gastos, para administrar mejor mi dinero y evitar el 
-                endeudamiento excesivo.</td>
-        </tr>
-         <tr>
-            <td>EPIC-004</td> 
-            <td>Notificaciones y Recordatorios Financieros </td>
-            <td>Como usuario, quiero recibir notificaciones y recordatorios automáticos sobre mis pagos pendientes y fechas de vencimiento, para no olvidar mis 
-                compromisos y evitar penalidades.</td>
-        </tr>
-         <tr>
-            <td>EPIC-005</td> 
-            <td>Acceso a Contenido Educativo en Finanzas </td>
-            <td>Como usuario, quiero tener acceso a contenido educativo especializado en finanzas personales, para mejorar mi conocimiento financiero y tomar 
-                decisiones más acertadas. </td>
-        </tr>
-         <tr>
-            <td>EPIC-006</td> 
-            <td>Análisis Financiero Avanzado </td>
-            <td>Como usuario premium, quiero acceder a análisis financieros detallados que me proporcionen una visión profunda de mi situación económica, para 
-                optimizar mi planificación financiera y alcanzar mis metas a largo plazo. </td>
-        </tr>
-         <tr>
-            <td>EPIC-007</td> 
-            <td>Consultoría Financiera Personalizada </td>
-            <td>Como usuario, quiero tener la opción de acceder a consultoría financiera personalizada, para recibir asesoramiento adaptado a mis necesidades 
-                específicas y mejorar mi manejo de deudas.
-
- </td>
-        </tr>
-         <tr>
-            <td>EPIC-008</td> 
-            <td>Integración con Aplicaciones de Presupuesto  </td>
-            <td>Como usuario, quiero que la aplicación se integre con mis aplicaciones de presupuesto actuales, para consolidar todas mis finanzas en un solo lugar y 
-                tener un control más preciso de mi situación financiera.
-
-</td>
 - [3.3. Impact Mapping](#33-impact-mapping)
 - [3.4. Product Backlog](#34-product-backlog)
 
@@ -283,6 +225,65 @@
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
+
+  <div style="text-align:center;">
+    <table align="center" border="1" cellpadding="10" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="1">EPIC ID</td>
+            <td style="text-align:center;" colspan="1">TÍTULO</td>
+           <td style="text-align:center;" colspan ="1"> DESCRIPCIÓN</td>
+        </tr>
+        <tr>
+            <td>EPIC-001</td> 
+            <td>Gestión Simplificada de Deudas </td>
+            <td>Como usuario, quiero una interfaz intuitiva y fácil de usar que me permita ingresar y organizar mis deudas de manera rápida, para poder gestionar mis 
+                obligaciones financieras sin complicaciones y mejorar mi bienestar económico. </td>
+        </tr>
+         <tr>
+            <td>EPIC-002</td> 
+            <td>Seguimiento Personalizado de Ingresos y Gastos </td>
+            <td>Como usuario, quiero una herramienta que me permita rastrear mis ingresos y gastos de manera eficiente, para tener una visión clara de mi situación 
+                financiera y poder tomar decisiones informadas. </td>
+        </tr>
+         <tr>
+            <td>EPIC-003</td> 
+            <td> Creación de Presupuestos Personalizados </td>
+            <td>Como usuario, quiero poder crear presupuestos personalizados basados en mis ingresos y gastos, para administrar mejor mi dinero y evitar el 
+                endeudamiento excesivo.</td>
+        </tr>
+         <tr>
+            <td>EPIC-004</td> 
+            <td>Notificaciones y Recordatorios Financieros </td>
+            <td>Como usuario, quiero recibir notificaciones y recordatorios automáticos sobre mis pagos pendientes y fechas de vencimiento, para no olvidar mis 
+                compromisos y evitar penalidades.</td>
+        </tr>
+         <tr>
+            <td>EPIC-005</td> 
+            <td>Acceso a Contenido Educativo en Finanzas </td>
+            <td>Como usuario, quiero tener acceso a contenido educativo especializado en finanzas personales, para mejorar mi conocimiento financiero y tomar 
+                decisiones más acertadas. </td>
+        </tr>
+         <tr>
+            <td>EPIC-006</td> 
+            <td>Análisis Financiero Avanzado </td>
+            <td>Como usuario premium, quiero acceder a análisis financieros detallados que me proporcionen una visión profunda de mi situación económica, para 
+                optimizar mi planificación financiera y alcanzar mis metas a largo plazo. </td>
+        </tr>
+         <tr>
+            <td>EPIC-007</td> 
+            <td>Consultoría Financiera Personalizada </td>
+            <td>Como usuario, quiero tener la opción de acceder a consultoría financiera personalizada, para recibir asesoramiento adaptado a mis necesidades 
+                específicas y mejorar mi manejo de deudas.
+
+ </td>
+        </tr>
+         <tr>
+            <td>EPIC-008</td> 
+            <td>Integración con Aplicaciones de Presupuesto  </td>
+            <td>Como usuario, quiero que la aplicación se integre con mis aplicaciones de presupuesto actuales, para consolidar todas mis finanzas en un solo lugar y 
+                tener un control más preciso de mi situación financiera.
+
+</td>
 
 <div style="text-align:center;">
     <table align="center" border="1" cellpadding="10" cellspacing="0">
