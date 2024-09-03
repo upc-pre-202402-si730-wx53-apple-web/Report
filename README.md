@@ -492,8 +492,36 @@ En la versión mobile el navbar se reemplaza por un menu desplegable.
 </div>
 
 ## 4.4. Web Applications UX/UI Design
+El diseño UX/UI para aplicaciones web se centra en crear interfaces intuitivas y experiencias de usuario fluidas que maximicen la satisfacción y eficiencia al interactuar con una plataforma. Este enfoque combina la funcionalidad con la estética, asegurando que cada elemento visual no solo sea atractivo, sino que también facilite la navegación y el cumplimiento de los objetivos del usuario. En un entorno digital competitivo, un diseño UX/UI bien ejecutado es crucial para captar y retener usuarios, mejorando tanto la usabilidad como la percepción general de la aplicación.
+
+Para los wireframes en Genentech usamos algunos de los principios Heurísticos:
+
+1. Visibilidad del estado del sistema: los usuarios sabrán en qué parte de la aplicación se encuentran y cómo pueden utilizarla para traducir el lenguaje de señas. Esto podría
+implicar el uso de indicadores claros de estado y progreso.
+2. Coincidencia entre el sistema y el mundo real: Diseña los elementos de la interfaz de usuario de manera que se asemejan a los gestos y movimientos reales del lenguaje de señas. Esto facilitará la comprensión y la interacción de los usuarios.
+3. Control y libertad del usuario: Proporciona a los usuarios la capacidad de desplazarse fácilmente por la aplicación y de volver atrás si cometen errores. Los usuarios de lenguaje de señas deben sentir que tienen el control total de la traducción.
+4. Consistencia y estándares: los gestos y controles utilizados en la aplicación deben ser coherentes y que sigan estándares reconocidos en el lenguaje de señas.
+5. Prevención de errores: Implementa características que ayudan a prevenir errores comunes, como la selección incorrecta de gestos o la entrada de datos erróneos.
+6. Reconocimiento en lugar de recuerdo: Diseñar la aplicación de manera que los usuarios no tengan que recordar cómo realizar ciertas acciones o gestos. Debe ser intuitiva y fácil de usar.
+7. Flexibilidad y eficiencia de uso: los usuarios pueden personalizar la aplicación para adaptarla a sus necesidades específicas en el uso del lenguaje de señas. Además, optimiza la velocidad y la eficiencia de las traducciones.
+8. Diseño estético y minimalista: El diseño de la interfaz debe ser limpio y atractivo, pero no abrumador. Evitar la sobrecarga de información y priorizar la usabilidad sobre la estética.
+9. Ayuda y documentación: Proporciona recursos de ayuda y documentación accesibles para los usuarios, como tutoriales o guías para aprender a usar la aplicación de traducción de lenguaje de señas.
+10.  Feedback al usuario: Asegúrate de que los usuarios reciban retroalimentación clara y rápida sobre el progreso de la traducción y cualquier acción que realicen en la aplicación.
+
 ### 4.4.1. Web Applications Wireframes
+Los wireframes ayudan a los diseñadores y desarrolladores a planificar la arquitectura y la funcionalidad de la aplicación, permitiendo visualizar cómo los usuarios interactuarán con ella. Son esenciales en las primeras etapas de desarrollo, ya que facilitan la comunicación de ideas, la identificación de problemas potenciales y la alineación de todos los involucrados en el proyecto antes de pasar al diseño detallado y la programación.
+
+Utilizamos el tipo de patrón Z ya que opinamos que en la parte del inicio al utilizar el patrón Z hacia captar más la atención a la audiencia sobre que se trataba nuestra página.
+
+<img src="assets/Chapter-4/patron.png">
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+Los Web Applications Wireflow Diagrams son una combinación de wireframes y flujos de usuario (user flows) que ilustran no solo la estructura y disposición de las páginas de una aplicación web, sino también cómo los usuarios navegarán entre ellas. Estos diagramas proporcionan una visión detallada del recorrido del usuario, mostrando las interacciones clave y las transiciones de una página a otra dentro de la aplicación.
+
+Los wireflow diagrams son fundamentales en el proceso de diseño, ya que permiten a los equipos de desarrollo y diseño evaluar la lógica de navegación y la experiencia del usuario antes de la implementación completa. Al representar visualmente tanto la estructura como el flujo, estos diagramas aseguran que todos los involucrados tengan una comprensión clara del comportamiento de la aplicación y pueden ayudar a identificar y resolver problemas de usabilidad tempranamente.
+
+
+
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
