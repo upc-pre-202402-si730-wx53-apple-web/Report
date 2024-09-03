@@ -432,9 +432,9 @@ Resumen:
 En la entrevista, José Adrián Luza, un joven de 19 años y estudiante de la carrera Ing. Software, comparte sus perspectivas sobre la educación financiera y el uso de tecnologías en la gestión económica personal. Aunque no tiene experiencia profesional en economía o consultoría financiera, se muestra familiarizado con conceptos básicos como el ahorro y la generación de ingresos, los cuales considera fundamentales en su carrera. José utiliza frecuentemente su teléfono y laptop para administrar sus finanzas personales y prefiere Twitter para mantenerse actualizado en temas económicos. Expresa críticas hacia algunas aplicaciones financieras que considera incompletas y destaca la importancia de Infocorp para el control crediticio. Además, subraya la necesidad de una buena educación financiera para evitar problemas económicos y cree que una aplicación personalizada podría tener un impacto positivo en la gestión de las finanzas personales.
 
 **Entrevista #2**
-- Nombre: Rafael
+- Nombre: Rafael Palomino
 - Edad:  19 años
-- Distrito: Surco
+- Distrito: Molina
 - Duración:  minutos
 
 ![image](assets/Chapter-2/Entrevi.png)
@@ -507,16 +507,16 @@ Para esta sección se han creado personajes ficticios, cada uno diseñado para r
 
 **Segmento Objetivo: Jóvenes Adultos y Profesionales en Formación Financiera:**
 
-#### User Persona 1: Jose Luza
+#### User Persona 1: 
 
-![image](assets/Chapter-2/User2.png)
+![image](assets/Chapter-2/user2.png)
 *Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
 
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
 
 #### User Persona 1: Emilio Chávarri
 
-![image](assets/Chapter-2/User1.png)
+![image](assets/Chapter-2/user1.png)
 *Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
 
 ### 2.3.2. User Task Matrix
