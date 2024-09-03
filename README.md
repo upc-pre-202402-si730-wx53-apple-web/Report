@@ -225,6 +225,30 @@
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
+
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="10" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">01</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">01</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2">Ac...s </td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4"> C.. un trabajador a través de TaskLinker.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Visualización de Documentos Adjuntos"</p>
+           <p>Dado que estoy revisando el perfil de un trabajador en TaskLinker, Cua.....</p>
+            <p>Escenario 2: "Acceso a Documentos desde el Historial de Contrataciones"</p>
+            Dado que he contratado previamente a un trabajador a través de TaskLinker.....
+        </tr>
+    </table>
+</div>
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 
