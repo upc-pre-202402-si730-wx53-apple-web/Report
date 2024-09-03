@@ -514,7 +514,7 @@ Para esta sección se han creado personajes ficticios, cada uno diseñado para r
 
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
 
-#### User Persona 1: Emilio Chávarri
+#### User Persona 2:
 
 ![image](assets/Chapter-2/user1.png)
 *Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
@@ -587,10 +587,9 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
 
-![image](assets/Chapter-2/Segmento.png)
+![image](assets/Chapter-2/seg2.png)
 
-*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
-
+*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA. file:///C:/Users/USUARIO/Downloads/Customer%20journey%20map%201.png*
 
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
