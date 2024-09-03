@@ -284,7 +284,7 @@ A manera de escalabilidad, proponemos introducir a futuro el uso de inteligencia
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 
-Muchas personas enfrentan la falta de conocimiento y claridad en relación con las deudas que han adquirido, lo cual es un problema que afecta a una gran parte de la población. Esta situación no solo se debe a la falta de educación financiera, sino también a la complejidad con la que a menudo se presentan los términos y condiciones de los productos crediticios. Como resultado, muchas personas desconocen no solo las fuentes exactas de sus deudas, sino también los montos originales, los intereses acumulados, y las posibles penalidades por pagos tardíos o incumplimientos.
+Muchas personas enfrentan la falta de conocimiento y claridad en relación con el estado de sus finanzas, lo cual es un problema que afecta a una gran parte de la población. Esta situación no solo se debe a la falta de educación financiera, sino también a la complejidad con la que a menudo se presentan los términos y condiciones de los productos crediticios. Como resultado, muchas personas desconocen no solo las fuentes exactas de sus deudas, sino también los montos originales, los intereses acumulados, y las posibles penalidades por pagos tardíos o incumplimientos. Por otro lado, los emprendedores enfrentan el desafío de los préstamos bancarios, sus condiciones y lo que implica pagar estos préstamos de vuelta, o no pagarlos a tiempo.  
 
 Esta falta de información clara y accesible puede llevar a situaciones en las que los individuos no recuerdan cuándo adquirieron una deuda específica, cómo se calcularon los intereses o qué entidad financiera está gestionando sus pagos. Además, la carencia de recordatorios efectivos o herramientas que faciliten la gestión de sus obligaciones financieras puede hacer que las personas pierdan de vista las fechas de vencimiento de los pagos, lo que a su vez incrementa el riesgo de caer en mora. Este desconocimiento no solo afecta su historial crediticio, sino que también puede generar estrés significativo, impactos negativos en su salud mental y dificultades en su vida cotidiana.
 
@@ -292,19 +292,19 @@ A medida que las deudas se acumulan y se vuelven más difíciles de manejar, muc
 
 **5Ws y 2Hs:**
 
-**Qué:** DebtGo es una aplicación innovadora que proporciona a los usuarios herramientas avanzadas para comprender, monitorear y gestionar sus deudas de manera intuitiva, mientras fortalecen su educación financiera. Ofrece funcionalidades como la creación de presupuestos personalizados, seguimiento de ingresos y gastos, y acceso a contenido educativo.
+**Qué:** La falta de educación financiera en el público general conlleva a varios problemas en el futuro de las personas, y afecta sus prospectos al momento de adquirir préstamos - sean estos préstamos personales o empresariales. DebtGo es una aplicación innovadora que proporciona a los usuarios una plataforma para interactuar directamente con consultores financieros expertos, que ofrecen atención personalizada a los casos específicos de cada usuario. Adicionalmente, cuenta con herramientas avanzadas para comprender, monitorear y gestionar sus deudas de manera intuitiva, mientras fortalecen su educación financiera. Ofrece funcionalidades como la creación de presupuestos personalizados, seguimiento de ingresos y gastos, y acceso a contenido educativo.
 
-**Quién:** Está dirigida a dos segmentos principales: jóvenes adultos y profesionales (18-35 años) que buscan mejorar su educación financiera desde una edad temprana, y gestores de deudas y emprendedores (25-60 años) que necesitan soluciones efectivas para manejar sus deudas y mejorar su flujo de efectivo.
+**Quién:** Está dirigida a dos segmentos principales: consultores financieros, y emprendedores. El primer segmento está comprendido por jóvenes profesionales, entre 20-30 años, que están entrando en el mercado laboral en carreras de finanzas. El segundo segmento abarca a emprendedores que requieren soluciones efectivas para manejar la adquisición de préstamos, deudas y mejorar su flujo de efectivo.
 
-**Dónde:** La aplicación estará disponible globalmente a través de las tiendas virtuales de iOS y Android, permitiendo a los usuarios acceder a DebtGo desde cualquier lugar con conexión a Internet.
+**Dónde:** El problema nace de la falta de educación financiera, lo que afecta a las personas a largo plazo, y se observa más comúnmente en la creación de deudas por falta de pagos
 
-**Cuándo:** DebtGo estará disponible las 24 horas del día, brindando acceso continuo para que los usuarios puedan gestionar sus finanzas en cualquier momento que lo necesiten.
+**Cuándo:** Este problema se visualiza durante los procesos de obtención de préstamos y cancelación de deudas, lo que para varios de los afectados, ocurre una vez el problema ha existido por largo tiempo, y lo hace más difícil revertir.
 
-**Por qué:** DebtGo se enfoca en resolver la problemática de la falta de conocimiento financiero y la complejidad en la gestión de deudas. Muchas personas enfrentan estrés y dificultades financieras debido a la falta de claridad en sus obligaciones crediticias, lo que puede llevar a decisiones financieras deficientes y un ciclo de endeudamiento. La aplicación ofrece una solución integral para mejorar el bienestar financiero.
+**Por qué:** La falta de conocimiento financiero y la complejidad en la gestión de deudas lleva a muchas personas a enfrentar estrés y dificultades financieras debido a la falta de claridad en sus obligaciones crediticias, lo que puede llevar a decisiones financieras deficientes y un ciclo de endeudamiento. La aplicación ofrece una solución integral para mejorar el bienestar financiero.
 
-**Cómo:** Los usuarios podrán ingresar sus pagos pendientes en la sección de deudas, especificando detalles como cuotas, intereses, y plazos. DebtGo generará automáticamente planes de pago personalizados y estrategias para facilitar el cumplimiento de las deudas. Además, la aplicación cuenta con una interfaz amigable y secciones bien organizadas para una visión clara de las deudas, seguimiento de pagos, y contenido educativo. Notificaciones y recordatorios ayudarán a los usuarios a mantenerse al día con sus objetivos financieros.
+**Cómo:** La falta de educación financiera lleva a las personas a tomar decisiones desinformadas, lo que a su vez afecta su bienestar económico. Algunas de las consecuencias más comunes son la acumulación de deudas y la pérdida de ahorros. Esta situación de inestabilidad financiera impide alcanzar oportunidades y beneficios futuros. Mejorar la educación financiera es clave para romper estos patrones.
 
-**Cuánto:** DebtGo adoptará un modelo de monetización freemium, donde la aplicación básica será gratuita, permitiendo acceso a las funcionalidades esenciales. Los usuarios podrán suscribirse a un plan premium para desbloquear características avanzadas, como análisis financieros detallados y contenido educativo exclusivo. Además, se ofrecerán servicios adicionales de consultoría financiera personalizada y talleres en línea, disponibles por una tarifa adicional.
+**Cuánto:** Miles de personas enfrentan problemas financieros por falta de educación financiera todos los días. En Estados Unidos, por ejemplo, la deuda total de tarjetas de crédito supera el trillón de dólares, y el consumidor promedio tiene más de $6000 de deuda. Mejorar la educación financiera es crucial para minimizar la brecha creada por este problema.
 
 
 ### 1.2.2 Lean UX Process
@@ -378,17 +378,17 @@ Creemos que al no contar con un sistema de seguridad actualizado y moderno en nu
 
 ## 1.3. Segmentos objetivo
 
-<strong>1. Jóvenes Adultos y Profesionales en Formación Financiera:</strong>
+<strong>1. Consultores financieros:</strong>
 
-Descripción: Este segmento incluye a jóvenes adultos en edad universitaria (18-25 años) y jóvenes profesionales (25-35 años) que buscan mejorar su educación financiera. Estas personas van a estar interesadas en adquirir conocimientos sobre cómo gestionar sus finanzas de manera efectiva, evitar la acumulación de deudas innecesarias y planificar para su futuro financiero.
+Descripción: Este segmento incluye a jóvenes jóvenes profesionales, que se encuentran entrando al mercado laboral, o que se encuentren en los últimos ciclos de la universidad para carreras de finanzas, economía y afines. (20-30 años). Estas personas van a estar interesadas en adquirir ganancias extras y adquirir experiencia relevante en el mercado laboral.
 
-Necesidades Satisfechas: DebtGo les ofrece herramientas educativas y recursos que les permiten aprender sobre finanzas personales, crear y seguir un presupuesto, y establecer metas financieras. La aplicación les ayuda a tomar decisiones informadas sobre sus gastos e inversiones, promoviendo hábitos financieros saludables desde una edad temprana.
+Necesidades Satisfechas: DebtGo les ofrece la oportunidad para comprartir sus conocimientos de manera flexible y conveniente, mientras adquieren experiencia en el sector de consultoría que pueden utilizar para ampliar sus experiencias y habilidades al momento de aplicar para otros empleos en el futuro.
 
-<strong>2. Gestores de Deudas y Emprendedores</strong>
+<strong>2. Emprendedores</strong>
    
-Descripción: Este segmento abarca a personas con deudas existentes (25-60 años), emprendedores o propietarios de pequeñas empresas, y aquellos que necesitan préstamos para iniciar o expandir sus negocios. Estos individuos enfrentan situaciones financieras urgentes y buscan soluciones rápidas y efectivas para gestionar sus deudas y mejorar su flujo de efectivo.
+Descripción: Este segmento abarca a personas con emprendedimientos o propietarios de pequeñas empresas, y aquellos que necesitan préstamos para iniciar o expandir sus negocios. Estos individuos enfrentan situaciones financieras apremiantes y buscan soluciones rápidas y efectivas para gestionar sus negocios, sus deudas y mejorar su flujo de efectivo.
 
-Necesidades Satisfechas: DebtGo les proporciona una plataforma centralizada para gestionar y consolidar sus deudas, crear planes de pago personalizados, y evitar el pago de intereses adicionales. Además, la aplicación ofrece herramientas para optimizar el flujo de efectivo y planificar el crecimiento financiero, asegurando que puedan superar sus urgencias financieras de manera efectiva.
+Necesidades Satisfechas: DebtGo les proporciona una plataforma centralizada para gestionar y consolidar sus deudas, crear planes de pago personalizados, y evitar el pago de intereses adicionales. Además, se ofrece el servicio de consultoría personalizada con consultores financieros expertos, que tienen experiencia en el rubro y la habilidad para ayudar a estos emprendedores a realizar sus objetivos.
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
