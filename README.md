@@ -506,6 +506,8 @@ En la versión mobile el navbar se reemplaza por un menu desplegable.
 <img src="assets/Chapter-4/container-diagram.png">
 
 ### 4.6.3. Software Architecture Components Diagrams
+<img src="assets/Chapter-4/component-diagram.png">
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
