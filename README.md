@@ -226,6 +226,8 @@
 ## 3.1. To-Be Scenario Mapping
 
 **Segmento objetivo: Consultores financieros**
+![image](assets/Chapter-3/tobeMap-consultores.jpg)
+*Imagen (N°). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
 
 **Segmento objetivo: Emprendedores**
 ![image](assets/Chapter-3/tobeMap-emprendedores.jpg)
