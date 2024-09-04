@@ -670,7 +670,10 @@ Al diseñar user flow diagrams, puedo identificar posibles puntos de fricción o
 
 
 ## 4.8. Database Design
+Para el presente proyecto se ha seleccionado el motor de base de datos MySQL por ser una plataforma escalable con una
+interfaz sencilla y fácil de usar.
 ## 4.8.1. Database Diagram
+<img src="assets/Chapter-4/database-diagram.png">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
