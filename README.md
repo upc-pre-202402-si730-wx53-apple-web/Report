@@ -224,15 +224,23 @@
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
+
+**Segmento objetivo: Consultores financieros**
+
+**Segmento objetivo: Emprendedores**
+![image](assets/Chapter-3/tobeMap-emprendedores.jpg)
+*Imagen (N°). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
+
 ## 3.2. User Stories
 
 ### EPICS
+
   <div style="text-align:center;">
     <table align="center" border="1" cellpadding="10" cellspacing="0">
         <tr>
             <td style="text-align:center;" colspan="1">EPIC ID</td>
             <td style="text-align:center;" colspan="1">TÍTULO</td>
-           <td style="text-align:center;" colspan ="1"> DESCRIPCIÓN</td><
+           <td style="text-align:center;" colspan ="1"> DESCRIPCIÓN</td>
         </tr>
         <tr>
             <td>EP01</td> 
