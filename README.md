@@ -618,6 +618,9 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 ![image](assets/Chapter-2/asisMap-emprendedores.jpg)
 *Imagen (N°). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
 
+![image](assets/Chapter-2/ScenarioMapping3.jpg)
+*Imagen (N°). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
+
 ## 2.4. Ubiquitous Language
 
 # Capítulo III: Requirements Specification
