@@ -607,6 +607,8 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 ### 2.3.5. As-is Scenario Mapping
 
 **Segmento objetivo: Consultores financieros**
+![image](assets/Chapter-2/asisMap-consultores.jpg)
+*Imagen (N°). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
 
 
 **Segmento objetivo: Emprendedores**
