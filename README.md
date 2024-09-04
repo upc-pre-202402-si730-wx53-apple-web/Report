@@ -374,7 +374,7 @@ Creemos que al no contar con un sistema de seguridad actualizado y moderno en nu
 
  <img src="assets/Chapter-1/canva1.png" width="800px">
 
- *Imagen (N°). Elaboración propia. Realizado en Canva*
+ *Imagen (N°1). Elaboración propia. Realizado en Canva*
 
 ## 1.3. Segmentos objetivo
 
