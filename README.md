@@ -619,7 +619,7 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 *Imagen (N°). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
 
 ![image](assets/Chapter-2/ScenarioMapping3.jpg)
-*Imagen (N°). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
+*Imagen (N°). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKisf19Y=/).*
 
 ## 2.4. Ubiquitous Language
 
