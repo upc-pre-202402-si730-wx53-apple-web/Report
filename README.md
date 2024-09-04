@@ -519,9 +519,7 @@ implicar el uso de indicadores claros de estado y progreso.
 ### 4.4.1. Web Applications Wireframes
 Los wireframes ayudan a los diseñadores y desarrolladores a planificar la arquitectura y la funcionalidad de la aplicación, permitiendo visualizar cómo los usuarios interactuarán con ella. Son esenciales en las primeras etapas de desarrollo, ya que facilitan la comunicación de ideas, la identificación de problemas potenciales y la alineación de todos los involucrados en el proyecto antes de pasar al diseño detallado y la programación.
 
-Utilizamos el tipo de patrón Z ya que opinamos que en la parte del inicio al utilizar el patrón Z hacia captar más la atención a la audiencia sobre que se trataba nuestra página.
 
-<img src="assets/Chapter-4/patron.png">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 Los Web Applications Wireflow Diagrams son una combinación de wireframes y flujos de usuario (user flows) que ilustran no solo la estructura y disposición de las páginas de una aplicación web, sino también cómo los usuarios navegarán entre ellas. Estos diagramas proporcionan una visión detallada del recorrido del usuario, mostrando las interacciones clave y las transiciones de una página a otra dentro de la aplicación.
@@ -535,7 +533,7 @@ Los Web Applications Mock-ups son representaciones visuales detalladas y de alta
 
 Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia y la funcionalidad del producto antes de la codificación. Esto nos permite realizar ajustes en el diseño, asegurar la coherencia visual y comunicar la visión final de nuestro brand. 
 
-<img src="assets/Chapter-4/Mockup-Desktop.png">
+
 
 *Imagen(N°). Elaboración propia. Realizado en figma*
 
@@ -549,6 +547,8 @@ Al diseñar user flow diagrams, puedo identificar posibles puntos de fricción o
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Architecture
+
+
 ### 4.6.1. Software Architecture Context Diagram
 <img src="assets/Chapter-4/context-diagram.png">
 
