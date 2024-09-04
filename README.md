@@ -460,15 +460,19 @@ El prototipado de la landing page cuenta diversas secciones:
 - Contacto: Tiene un título y subtítulo, un pequeño input para la introducción de un email y un botón para el envio del correo.
 - Footer: Sección que da fin a la landing page, cuenta con las redes sociales de la plataforma.
 
-Wireframe Destkop
+**Wireframe Destkop**
 
 <img src="assets/Chapter-4/Wireframe-Desktop.png">
 
-Wireframe Mobile <br>
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Wireframe Mobile** <br>
 En la versión mobile el navbar se reemplaza por un menu desplegable.
 
 <div align="center">
 <img src="assets/Chapter-4/Wireframe-Mobile.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
 </div>
 
 ### 4.3.2. Landing Page Mock-up
@@ -480,15 +484,19 @@ Siguiendo los wireframes de la landing page se realizaron los mockups:
 - Contacto: Se tiene un CTA en color primario, siendo notorio al estar en un fondo claro.
 - Footer: Al igual que el header, utiliza los colores primarios de la plataforma para dar un fin estético a la página.
 
-Mock-up Destkop
+**Mock-up Destkop**
 
 <img src="assets/Chapter-4/Mockup-Desktop.png">
 
-Mock-up Mobile <br>
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Mock-up Mobile** <br>
 En la versión mobile el navbar se reemplaza por un menu desplegable.
 
 <div align="center">
 <img src="assets/Chapter-4/Mockup-Mobile.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
 </div>
 
 ## 4.4. Web Applications UX/UI Design
@@ -528,6 +536,8 @@ Los Web Applications Mock-ups son representaciones visuales detalladas y de alta
 Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia y la funcionalidad del producto antes de la codificación. Esto nos permite realizar ajustes en el diseño, asegurar la coherencia visual y comunicar la visión final de nuestro brand. 
 
 <img src="assets/Chapter-4/Mockup-Desktop.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
 
 ### 4.4.4. Web Applications User Flow Diagrams
 Los Web Applications User Flow Diagrams son diagramas que mapean el recorrido que un usuario sigue al interactuar con una aplicación web, desde el punto de entrada hasta la secuencia de una tarea específica. Estos diagramas permiten visualizar cada paso que toma el usuario, ayudándo a entender cómo navegan por la aplicación y cómo interactúan con las diferentes páginas y funciones.
