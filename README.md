@@ -594,6 +594,10 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 
 *Imagen (N°). Elaboración propia. Realizado en UXPRESSIA. file:///C:/Users/USUARIO/Downloads/Customer%20journey%20map%201.png*
 
+![image](assets/Chapter-2/JourneyMap3.png)
+
+*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA.
+
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
