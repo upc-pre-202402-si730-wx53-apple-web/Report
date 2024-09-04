@@ -522,6 +522,9 @@ Para esta sección se han creado personajes ficticios, cada uno diseñado para r
 ![image](assets/Chapter-2/User1.png)
 *Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
 
+![image](assets/Chapter-2/User3.png)
+*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
+
 ### 2.3.2. User Task Matrix
 En esta sección se presenta el user task matrix, herramienta centrada en los segmentos objetivos, que nos permitirá identificar las tareas y objetivos claves de los usuarios. Además, nos permitirá priorizar características y funcionalidades al momento de realizar el product backlog. Para la frecuencia se han considerado cinco opciones:nunca ,casi nunca, a veces, a menudo ,siempre; y para la importancia tres opciones: bajo, medio, alto". En relación con la matriz de tareas de los usuarios, podemos identificar tanto las tareas de mayor frecuencia como las de mayor importancia, así como las diferencias y similitudes entre los diferentes tipos de usuarios.
 
