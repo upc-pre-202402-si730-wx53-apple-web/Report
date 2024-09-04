@@ -377,7 +377,7 @@ Estas estrategias y tácticas nos ayudarán a posicionar a DebtGo de manera efec
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
-**Segmento Objetivo: Jóvenes Adultos y Profesionales en Formación Financiera:**
+**Segmento Objetivo: Consultores financieros:**
 
 1. ¿Cuál es su nombre completo?
 2. ¿Cuál es su edad?
@@ -414,7 +414,7 @@ Estas estrategias y tácticas nos ayudarán a posicionar a DebtGo de manera efec
 
 ### 2.2.2. Registro de entrevistas
 
-**Segmento Objetivo: Jóvenes Adultos y Profesionales en Formación Financiera:**
+**Segmento Objetivo: Consultores financieros:**
 
 **Entrevista #1**
 
@@ -490,7 +490,7 @@ Resumen:
 
 ### 2.2.3. Análisis de entrevistas
 
-**Segmento Objetivo: Jóvenes Adultos y Profesionales en Formación Financiera:**
+**Segmento Objetivo: Consultores financieros:**
 
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
 
@@ -508,7 +508,7 @@ Estrella, de 19 años, está interesada en iniciar una empresa tecnológica cent
 
 Para esta sección se han creado personajes ficticios, cada uno diseñado para representar a un segmento específico de usuarios. La información utilizada para desarrollar estos "User personas" proviene de entrevistas previas realizadas a cada segmento objetivo. Estas entrevistas tenían como objetivo comprender mejor a las personas a las que se dirige la aplicación. Se consideraron datos demográficos, metas, motivaciones frustraciones, marcas relacionadas con el tema de la aplicación canales digitales más utilizados, entre otros. La creación de esta sección se llevó a cabo utilizando la plataforma UXPressia.
 
-**Segmento Objetivo: Jóvenes Adultos y Profesionales en Formación Financiera:**
+**Segmento Objetivo: Consultores financieros:**
 
 #### User Persona 1: 
 
@@ -520,9 +520,6 @@ Para esta sección se han creado personajes ficticios, cada uno diseñado para r
 #### User Persona 2:
 
 ![image](assets/Chapter-2/User1.png)
-*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
-
-![image](assets/Chapter-2/User3.png)
 *Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
 
 ### 2.3.2. User Task Matrix
@@ -585,17 +582,17 @@ deudas o gastos personales
 ### 2.3.3. User Journey Mapping
 En esta sección, explicaremos en detalle los user journey mapping para dos tipos de usuarios distintos: Consultores Financieros/Economistas y Gestores de Deudas y Emprendedores. Estos mapas proporcionarán una visión exhaustiva de cómo cada segmento de usuario interactúa con la plataforma, desde su primer contacto hasta su uso continuo y el análisis de resultados. Mejoraremos la presentación de estos mapas, destacando las etapas clave y las necesidades específicas de cada usuario para garantizar una comprensión clara y concisa de su experiencia a lo largo de su viaje:
 
-**Segmento Objetivo: Jóvenes Adultos y Profesionales en Formación Financiera:**
+**Segmento Objetivo: Consultores financieros:**
 
 ![image](assets/Chapter-2/Segmento1.png)
 
-*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA file:///C:/Users/USUARIO/Downloads/Segmento%201.png* 
+*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA* 
 
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
 
 ![image](assets/Chapter-2/seg2.png)
 
-*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA. file:///C:/Users/USUARIO/Downloads/Customer%20journey%20map%201.png*
+*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA.*
 
 ![image](assets/Chapter-2/JourneyMap3.png)
 
@@ -608,6 +605,14 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 ![image](assets/Chapter-2/Empathy.png)
 
 ### 2.3.5. As-is Scenario Mapping
+
+**Segmento objetivo: Consultores financieros**
+
+
+**Segmento objetivo: Emprendedores**
+![image](assets/Chapter-2/asisMap-emprendedores.jpg)
+*Imagen (N°). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
+
 ## 2.4. Ubiquitous Language
 
 # Capítulo III: Requirements Specification
