@@ -599,6 +599,11 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 *Imagen (N°). Elaboración propia. Realizado en UXPRESSIA.
 
 ### 2.3.4. Empathy Mapping
+
+#### Empathy Map: Emilio Chávarri
+
+![image](assets/Chapter-2/Empathy.png)
+
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
 
