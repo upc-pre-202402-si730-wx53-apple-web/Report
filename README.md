@@ -635,6 +635,10 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 
 ### 2.3.4. Empathy Mapping
 
+**Segmento objetivo: Consultores financieros**
+
+![image](assets/Chapter-2/empathymap_2.png)
+
 **Segmento objetivo: Emprendedores**
 
 ![image](assets/Chapter-2/empathyM.png)
