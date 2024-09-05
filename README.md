@@ -200,6 +200,23 @@ Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los pu
 
 # Student Outcome
 
+<table>
+    <tr>
+    <td>Criterio específico</td>
+    <td>Acciones realizadas></td>
+    <td>Conclusiones</td>
+    </tr>
+    <tr>
+        <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Crea un entorno colaborativoo e inclusivo, establece metas, planifica tareas y cumple objetivos</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
