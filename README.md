@@ -543,6 +543,13 @@ La siguiente imagen presenta la sección “Elegir plan de pago”, la cual desp
 
 *Imagen(N°). Elaboración propia. Realizado en figma*
 
+**Pasarela de pagos**
+
+La siguiente imagen corresponde a la sección “Pasarela de pagos” donde las empresas son dirigidas a un formulario para seleccionar y registrar su método de pago. Esta sección también muestra el monto correspondiente al plan elegido. Una vez que el proceso de pago es completado exitosamente, se notifica al usuario con un mensaje confirmando la suscripción y fecha de registro. 
+
+<img src="assets/Chapter-4/frame4.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 Los Web Applications Wireflow Diagrams son una combinación de wireframes y flujos de usuario (user flows) que ilustran no solo la estructura y disposición de las páginas de una aplicación web, sino también cómo los usuarios navegarán entre ellas. Estos diagramas proporcionan una visión detallada del recorrido del usuario, mostrando las interacciones clave y las transiciones de una página a otra dentro de la aplicación.
