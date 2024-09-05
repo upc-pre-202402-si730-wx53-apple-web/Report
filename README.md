@@ -641,7 +641,8 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 
 **Segmento objetivo: Emprendedores**
 
-![image](assets/Chapter-2/empathyM.png)
+![image](assets/Chapter-2/empymap.png)
+*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA.*
 
 ### 2.3.5. As-is Scenario Mapping
 
