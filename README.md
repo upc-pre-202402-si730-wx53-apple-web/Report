@@ -227,11 +227,11 @@
 
 **Segmento objetivo: Consultores financieros**
 ![image](assets/Chapter-3/tobeMap-consultores.jpg)
-*Imagen (N°). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
+*Imagen (N°10). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
 
 **Segmento objetivo: Emprendedores**
 ![image](assets/Chapter-3/tobeMap-emprendedores.jpg)
-*Imagen (N°). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
+*Imagen (N°11). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
 
 ## 3.2. User Stories
 
@@ -330,14 +330,14 @@ En esta sección, se presenta el Impact Mapping elaborado para DebtGo, que busca
 #### Impact Mapping 1: 
 
 ![image](assets/Chapter-3/Impact%20map%201.png)
-*Imagen (N°8). Elaboración propia. Realizado en UXPRESSIA*
+*Imagen (N°12). Elaboración propia. Realizado en UXPRESSIA*
 
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
 
 #### Impact Mapping 2: 
 
 ![image](assets/Chapter-3/Impact%20map%202.png)
-*Imagen (N°9). Elaboración propia. Realizado en UXPRESSIA*
+*Imagen (N°13). Elaboración propia. Realizado en UXPRESSIA*
 
 
 ## 3.4. Product Backlog
