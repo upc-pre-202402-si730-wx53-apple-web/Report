@@ -464,7 +464,7 @@ El prototipado de la landing page cuenta diversas secciones:
 
 <img src="assets/Chapter-4/Wireframe-Desktop.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°14). Elaboración propia. Realizado en figma*
 
 **Wireframe Mobile** <br>
 En la versión mobile el navbar se reemplaza por un menu desplegable.
@@ -472,7 +472,7 @@ En la versión mobile el navbar se reemplaza por un menu desplegable.
 <div align="center">
 <img src="assets/Chapter-4/Wireframe-Mobile.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°15). Elaboración propia. Realizado en figma*
 </div>
 
 ### 4.3.2. Landing Page Mock-up
@@ -488,7 +488,7 @@ Siguiendo los wireframes de la landing page se realizaron los mockups:
 
 <img src="assets/Chapter-4/Mockup-Desktop.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°16). Elaboración propia. Realizado en figma*
 
 **Mock-up Mobile** <br>
 En la versión mobile el navbar se reemplaza por un menu desplegable.
@@ -496,7 +496,7 @@ En la versión mobile el navbar se reemplaza por un menu desplegable.
 <div align="center">
 <img src="assets/Chapter-4/Mockup-Mobile.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°17). Elaboración propia. Realizado en figma*
 </div>
 
 ## 4.4. Web Applications UX/UI Design
@@ -525,7 +525,7 @@ La siguiente imagen evidencia el wireframe de la sección de “inicio de sesió
 
 <img src="assets/Chapter-4/frame1.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°18). Elaboración propia. Realizado en figma*
 
 **Crear cuenta**
 
@@ -533,7 +533,7 @@ La siguiente imagen presenta la sección de “registro de usuario”, a través
 
 <img src="assets/Chapter-4/frame2.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°19). Elaboración propia. Realizado en figma*
 
 **Elegir plan de pago**
 
@@ -541,7 +541,7 @@ La siguiente imagen presenta la sección “Elegir plan de pago”, la cual desp
 
 <img src="assets/Chapter-4/frame3.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°20). Elaboración propia. Realizado en figma*
 
 **Pasarela de pagos**
 
@@ -549,7 +549,7 @@ La siguiente imagen corresponde a la sección “Pasarela de pagos” donde las 
 
 <img src="assets/Chapter-4/frame4.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°21). Elaboración propia. Realizado en figma*
 
 **Mi perfil**
 
