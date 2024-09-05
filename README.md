@@ -558,12 +558,12 @@ La sección titulada “Mi perfil” solicita al usuario que complete informaci�
 *Perfil Consultor*
 <img src="assets/Chapter-4/perfil1.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°22). Elaboración propia. Realizado en figma*
 
 *Perfil Emprendedor*
 <img src="assets/Chapter-4/perfil2.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°23). Elaboración propia. Realizado en figma*
 
 **My Workspace**
 
@@ -571,7 +571,7 @@ En la seccion "My Workspace" para el Consultor muestra un perfil con vista al us
 
 <img src="assets/Chapter-4/consultor1.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°24). Elaboración propia. Realizado en figma*
 
 **Categoría Metricas**
 
@@ -583,11 +583,11 @@ El consultor prodra Editar y Publicar sus servicios.
 
 <img src="assets/Chapter-4/servicios2.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°25). Elaboración propia. Realizado en figma*
 
 <img src="assets/Chapter-4/servicios1.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°26). Elaboración propia. Realizado en figma*
 
 **Mensaje**
 
@@ -595,7 +595,7 @@ En esta sección "Bandeja" ambas partes podran comunicarme directamente. El cons
 
 <img src="assets/Chapter-4/mensajeC.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°27). Elaboración propia. Realizado en figma*
 
 **Perfil Emprendedor**
 
@@ -607,7 +607,7 @@ Dado que el emprendedor adquiere una suscripción premium cuando ingresa a la se
 
 <img src="assets/Chapter-4/perfilem.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°28). Elaboración propia. Realizado en figma*
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
