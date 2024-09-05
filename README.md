@@ -433,7 +433,7 @@ Para este Sprint nos enfocaremos en los task para la elaboración de la landing 
             <td>Mostrar reseñas verificadas por segmento </td>
             <td>1</td>
             <td>Camila Sanchez</td>
-            <td></td>
+            <td>Done</td>
         </tr>
         <tr>
             <td>US05</td>
