@@ -521,11 +521,21 @@ Los wireframes ayudan a los diseñadores y desarrolladores a planificar la arqui
 
 **Iniciar sesión**
 
-La siguiente imagen evidencia el wireframe de la sección de “inicio de sesión” desde la vista desktop web browser. En ella, los
-usuarios deberán ingresar las credenciales necesarias para poder acceder a la aplicación, siempre y cuando posean con una cuenta previamente creada. 
+La siguiente imagen evidencia el wireframe de la sección de “inicio de sesión” desde la vista desktop web browser. En ella, los usuarios deberán ingresar las credenciales necesarias para poder acceder a la aplicación, siempre y cuando posean con una cuenta previamente creada. 
+
 <img src="assets/Chapter-4/frame1.png">
 
 *Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Crear cuenta**
+
+La siguiente imagen presenta la sección de “registro de usuario”, a través de la cual los administradores podrán remitir a la aplicación la información necesaria para crear una cuenta. 
+
+<img src="assets/Chapter-4/frame2.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 Los Web Applications Wireflow Diagrams son una combinación de wireframes y flujos de usuario (user flows) que ilustran no solo la estructura y disposición de las páginas de una aplicación web, sino también cómo los usuarios navegarán entre ellas. Estos diagramas proporcionan una visión detallada del recorrido del usuario, mostrando las interacciones clave y las transiciones de una página a otra dentro de la aplicación.
