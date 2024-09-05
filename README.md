@@ -435,11 +435,11 @@ En la entrevista, José Adrián Luza, un joven de 19 años y estudiante de la ca
 - Nombre: Rafael Palomino
 - Edad:  19 años
 - Distrito: Molina
-- Duración: 7:00 minutos
+- Duración: 7:55 minutos
 
-![image](assets/Chapter-2/Entrevi.png)
+![image](assets/Chapter-2/rafa2.png)
 
-[Entrevista 1 - video](https://bit.ly/3Z6sFbM): https://bit.ly/3Z6sFbM
+[Entrevista 1 - video](https://bit.ly/4cTGdur): https://bit.ly/4cTGdur
 
 Resumen: 
 
@@ -606,7 +606,7 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 
 ### 2.3.4. Empathy Mapping
 
-#### Empathy Map: Emilio Chávarri
+**Segmento objetivo: Emprendedores**
 
 ![image](assets/Chapter-2/Empathy.png)
 
