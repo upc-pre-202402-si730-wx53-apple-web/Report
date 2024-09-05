@@ -555,10 +555,73 @@ La siguiente imagen corresponde a la sección “Pasarela de pagos” donde las 
 
 La sección titulada “Mi perfil” solicita al usuario que complete información en cinco categorías para registrar sus datos. Adicionalmente, la categoría cuenta no requiere ingresar información, en su lugar, ofrece la opción de eliminar cuenta en caso el usuario desee abandonar la plataforma. 
 
+*Perfil Consultor*
+<img src="assets/Chapter-4/perfil1.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+*Perfil Emprendedor*
+<img src="assets/Chapter-4/perfil2.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**My Workspace**
+
+En la seccion "My Workspace" para el Consultor muestra un perfil con vista al usuario donde mostrara su nombre, establecer su horario, visualizar sus reseña, botón de bandeja de entrada y 2 categorías. 
+
+<img src="assets/Chapter-4/consultor1.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Categoría Metricas**
+
+Dado que el consultor ha trabajado por más de 1 mes cuando ingresa la sección Métricas en su perfil entonces visualiza las métricas del último mes.
+
+**Categoría Servicios**
+
+El consultor prodra Editar y Publicar sus servicios.
+
+<img src="assets/Chapter-4/servicios2.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+<img src="assets/Chapter-4/servicios1.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Mensaje**
+
+En esta sección "Bandeja" ambas partes podran comunicarme directamente. El consultor podra enviar archivos para apoyar al cliente y darle información necesaria y tambien ofrecer asesoramiento adecuado. La aplicación ofercera un botón para ver el "Historial de casos",  entonces puede revisar sus casos activos y archivados. 
+
+<img src="assets/Chapter-4/mensajeC.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Perfil Emprendedor**
+
+Para el perfil de Emprendedor podra visualizar un resumen del perfil y acceder a la bandeja de entrada como a una "Herramientas de simulación". 
+
+**Herramienta simulación**
+
+Dado que el emprendedor adquiere una suscripción premium cuando ingresa a la sección Herramientas entonces utiliza los simuladores de pago.
+
+<img src="assets/Chapter-4/perfilem.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 Los Web Applications Wireflow Diagrams son una combinación de wireframes y flujos de usuario (user flows) que ilustran no solo la estructura y disposición de las páginas de una aplicación web, sino también cómo los usuarios navegarán entre ellas. Estos diagramas proporcionan una visión detallada del recorrido del usuario, mostrando las interacciones clave y las transiciones de una página a otra dentro de la aplicación.
 
 Los wireflow diagrams son fundamentales en el proceso de diseño, ya que permiten a los equipos de desarrollo y diseño evaluar la lógica de navegación y la experiencia del usuario antes de la implementación completa. Al representar visualmente tanto la estructura como el flujo, estos diagramas aseguran que todos los involucrados tengan una comprensión clara del comportamiento de la aplicación y pueden ayudar a identificar y resolver problemas de usabilidad tempranamente.
+
+**User Goal: Registrar**
+
+**User Goal: Iniciar sesión**
+
+**User Goal: Navegar por el dashboard**
+
+
 
 [diagrama de web sin color]
 
@@ -567,8 +630,50 @@ Los Web Applications Mock-ups son representaciones visuales detalladas y de alta
 
 Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia y la funcionalidad del producto antes de la codificación. Esto nos permite realizar ajustes en el diseño, asegurar la coherencia visual y comunicar la visión final de nuestro brand. 
 
+**Web Application para Desktop Web Browser**
 
+**Iniciar sesión**
 
+<img src="assets/Chapter-4/mock1.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Crear cuenta**
+<img src="assets/Chapter-4/mock2.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Elegir plan de pago**
+<img src="assets/Chapter-4/mock3.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Pasarela de pagos**
+<img src="assets/Chapter-4/mock11.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Mi perfil**
+<img src="assets/Chapter-4/mock4.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**My Workspace**
+<img src="assets/Chapter-4/mock5.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Categoría Servicios**
+<img src="assets/Chapter-4/mock10.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+<img src="assets/Chapter-4/mock6.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Mensaje**
+<img src="assets/Chapter-4/mock7.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Perfil Emprendedor**
+<img src="assets/Chapter-4/mock8.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Herramienta simulación**
+<img src="assets/Chapter-4/mock9.png">
 *Imagen(N°). Elaboración propia. Realizado en figma*
 
 ### 4.4.4. Web Applications User Flow Diagrams
