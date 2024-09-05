@@ -592,7 +592,7 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 
 **Segmento Objetivo: Consultores financieros:**
 
-![image](assets/Chapter-2/Segmento1.png)
+![image](assets/Chapter-2/journeymap4.png)
 
 *Imagen (N°4). Elaboración propia. Realizado en UXPRESSIA* 
 
