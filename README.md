@@ -379,7 +379,7 @@ Para este Sprint nos enfocaremos en los task para la elaboración de la landing 
 #### 5.2.1.1. Sprint Planning 1
 | Sprint # | Sprint 1 |
 | -------- | -------- |
-| **Sprint Planning Background** |
+|**Sprint Planning Background**|
 | Date | 2024-08-29|
 | Time | 07:00 PM |
 | Location | Discord Virtual Meeting |
@@ -393,6 +393,91 @@ Para este Sprint nos enfocaremos en los task para la elaboración de la landing 
 | Sum of Story Points | 20 | 
 
 #### 5.2.1.2. Sprint Backlog 1
+<table>
+    <thead>
+        <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Description</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do/In-Process/To-Review/Done)</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Planes de la aplicación</td>
+            <td>UT01</td>
+            <td>Mostrar planes</td>
+            <td>Mostrar los planes de suscripción y sus descripciones</td>
+            <td>1</td>
+            <td>Karito Medina</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US02</td>
+            <td>Reseñas de la aplicación</td>
+            <td>UT02</td>
+            <td>Mostrar reseñas</td>
+            <td>Mostrar reseñas verificadas por segmento </td>
+            <td>1</td>
+            <td>Camila Sanchez</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Información de servicios</td>
+            <td>UT03</td>
+            <td>Mostrar información</td>
+            <td>Mostrar más información y beneficios</td>
+            <td>1</td>
+            <td>Emilia Durán</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Sporte de la aplicación</td>
+            <td>UT04</td>
+            <td>Mostrar formulario de consultas</td>
+            <td>Mostrar formulario para recibir consultas, con cuerpo de mensaje y correo para retornar respuesta</td>
+            <td>2</td>
+            <td>Daniel Chávarri</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US06</td>
+            <td>Normas de privacidad</td>
+            <td>UT05</td>
+            <td>Mostrar información de privacidad</td>
+            <td>Mostrar información de seguridad, privacidad, y de tratamiento de datos</td>
+            <td>2</td>
+            <td>Gianfranco Durand</td>
+            <td>In-Review</td>
+        </tr>
+        <tr>
+            <td>US08</td>
+            <td>Registro en aplicación</td>
+            <td>UT06</td>
+            <td>Formulario de registro</td>
+            <td>Mostrar y redirigir al formulario de registro para nuevos usuarios desde landing page.</td>
+            <td>2</td>
+            <td>Gianfranco Durand</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
+
 #### 5.2.1.3. Development Evidence for Sprint Review
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
