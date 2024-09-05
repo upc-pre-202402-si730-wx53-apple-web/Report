@@ -565,7 +565,33 @@ La sección titulada “Mi perfil” solicita al usuario que complete informaci�
 
 *Imagen(N°). Elaboración propia. Realizado en figma*
 
-En la seccion "My Workspace" 
+**My Workspace**
+
+En la seccion "My Workspace" para el Consultor muestra un perfil con vista al usuario donde mostrara su nombre, horario, reseña, mensaje y 2 categorias. 
+
+<img src="assets/Chapter-4/consultor1.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Categoria Servicios**
+
+El consultor prodra Editar y Publicar sus servicios.
+
+<img src="assets/Chapter-4/servicios2.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+<img src="assets/Chapter-4/servicios1.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Mensaje**
+
+En esta sección de mensaje ambas partes podran conversar el Termin de contrato
+
+<img src="assets/Chapter-4/mensajeC.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 Los Web Applications Wireflow Diagrams son una combinación de wireframes y flujos de usuario (user flows) que ilustran no solo la estructura y disposición de las páginas de una aplicación web, sino también cómo los usuarios navegarán entre ellas. Estos diagramas proporcionan una visión detallada del recorrido del usuario, mostrando las interacciones clave y las transiciones de una página a otra dentro de la aplicación.
