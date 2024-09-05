@@ -329,14 +329,14 @@ En esta sección, se presenta el Impact Mapping elaborado para DebtGo, que busca
 
 #### Impact Mapping 1: 
 
-![image](assets/Chapter-3/Impact map 1.png)
+![image](assets/Chapter-3/Impact%20map%201.png)
 *Imagen (N°8). Elaboración propia. Realizado en UXPRESSIA*
 
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
 
 #### Impact Mapping 2: 
 
-![image](assets/Chapter-3/Impact map 2.png)
+![image](assets/Chapter-3/Impact%20map%202.png)
 *Imagen (N°9). Elaboración propia. Realizado en UXPRESSIA*
 
 
