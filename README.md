@@ -392,7 +392,7 @@ llevará al Landing Page desplegado.
 # Conclusiones
 ## Conclusiones y recomendaciones
 
-<strong>Conclusiones</strong> <br>
+<strong>Conclusiones</strong> <br> <br>
 <strong>Resultados frente a los Problem Statements</strong>
 El equipo ha logrado abordar los desafíos definidos en los Problem Statements, logrando una comprensión profunda de las necesidades del usuario y los problemas subyacentes que afectan su experiencia. Los resultados obtenidos validan que el enfoque planteado desde el inicio es adecuado, aunque algunos ajustes deben ser considerados para mejorar aún más los resultados.
 
