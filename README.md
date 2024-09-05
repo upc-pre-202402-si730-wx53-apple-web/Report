@@ -493,12 +493,14 @@ Resumen:
 Estrella, de 19 años, está interesada en iniciar una empresa tecnológica centrada en el desarrollo de software y soluciones basadas en inteligencia artificial. Aunque no tiene experiencia profesional en economía o consultoría financiera, posee un alto nivel de conocimiento en finanzas, desde conceptos básicos hasta estrategias avanzadas. A pesar de no haber trabajado con consultores financieros, cree que la experiencia en el rubro es importante para ofrecer asesoría efectiva. Al momento de obtener un préstamo se preocupa principalmente por la claridad y transparencia de las condiciones, así como por las tasas de interés. Considera que la revelación de las tasas y las cláusulas del contrato son aspectos confusos. Prefiere plataformas como bancos móviles y fintechs reconocidos por su seguridad y transparencia. Utiliza la app del BCP para su banca móvil y se siente segura gracias a las medidas de seguridad, como la autenticación de dos factores. Está dispuesta a compartir sus datos financieros solo con aplicaciones que ofrezcan altos estándares de seguridad y políticas claras de privacidad.
 
 **Entrevista #3**
-- Nombre: 
-- Edad:  años
-- Distrito: 
-- Duración:  minutos
+- Nombre: Sebastian Silva
+- Edad:  19 años
+- Distrito: San Luis
+- Duración:  6:35 minutos
 
+![image](assets/Chapter-2/seg2Entri.png)
 
+[Entrevista 3 - video](https://bit.ly/4efz7Sn): https://bit.ly/4efz7Sn 
 
 Resumen: 
 
