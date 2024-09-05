@@ -615,6 +615,14 @@ Los Web Applications Wireflow Diagrams son una combinación de wireframes y fluj
 
 Los wireflow diagrams son fundamentales en el proceso de diseño, ya que permiten a los equipos de desarrollo y diseño evaluar la lógica de navegación y la experiencia del usuario antes de la implementación completa. Al representar visualmente tanto la estructura como el flujo, estos diagramas aseguran que todos los involucrados tengan una comprensión clara del comportamiento de la aplicación y pueden ayudar a identificar y resolver problemas de usabilidad tempranamente.
 
+**User Goal: Registrar**
+
+**User Goal: Iniciar sesión**
+
+**User Goal: Navegar por el dashboard**
+
+
+
 [diagrama de web sin color]
 
 ### 4.4.3. Web Applications Mock-ups
@@ -622,8 +630,50 @@ Los Web Applications Mock-ups son representaciones visuales detalladas y de alta
 
 Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia y la funcionalidad del producto antes de la codificación. Esto nos permite realizar ajustes en el diseño, asegurar la coherencia visual y comunicar la visión final de nuestro brand. 
 
+**Web Application para Desktop Web Browser**
 
+**Iniciar sesión**
 
+<img src="assets/Chapter-4/mock1.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Crear cuenta**
+<img src="assets/Chapter-4/mock2.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Elegir plan de pago**
+<img src="assets/Chapter-4/mock3.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Pasarela de pagos**
+<img src="assets/Chapter-4/mock1.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Mi perfil**
+<img src="assets/Chapter-4/mock4.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**My Workspace**
+<img src="assets/Chapter-4/mock5.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Categoría Servicios**
+<img src="assets/Chapter-4/mock10.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+<img src="assets/Chapter-4/mock6.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Mensaje**
+<img src="assets/Chapter-4/mock7.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Perfil Emprendedor**
+<img src="assets/Chapter-4/mock8.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Herramienta simulación**
+<img src="assets/Chapter-4/mock9.png">
 *Imagen(N°). Elaboración propia. Realizado en figma*
 
 ### 4.4.4. Web Applications User Flow Diagrams
