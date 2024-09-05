@@ -610,7 +610,7 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 
 **Segmento objetivo: Emprendedores**
 
-![image](assets/Chapter-2/Empathy.png)
+![image](assets/Chapter-2/empathyM.png)
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -728,3 +728,4 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 # Bibliografía
 
 # Anexos
+****
