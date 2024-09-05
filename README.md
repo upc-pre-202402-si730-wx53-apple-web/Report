@@ -535,6 +535,13 @@ La siguiente imagen presenta la sección de “registro de usuario”, a través
 
 *Imagen(N°). Elaboración propia. Realizado en figma*
 
+**Elegir plan de pago**
+
+La siguiente imagen presenta la sección “Elegir plan de pago”, la cual despliega las categorías de planes disponibles en la plataforma. Los dos planes están diseñados para adaptarse a las necesidades de los emprendedores acorde a las necesidades.
+
+<img src="assets/Chapter-4/frame3.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
