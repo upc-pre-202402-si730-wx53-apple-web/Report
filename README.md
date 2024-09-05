@@ -506,6 +506,33 @@ Resumen:
 
 **Segmento Objetivo: Consultores financieros:**
 
+*Perfil Profesional y Uso de Herramientas:*
+
+- Marisol, como consultora financiera con 5 años de experiencia, destaca el valor de la educación financiera y el uso de herramientas digitales (laptop y móvil) para su trabajo, similar a José Adrián y Rafael, quienes también priorizan el uso de tecnología (laptop y móvil) en la gestión de sus finanzas personales.
+- Todos los entrevistados utilizan dispositivos electrónicos para estar al día y realizar gestiones financieras, subrayando la importancia de crear aplicaciones optimizadas para diferentes plataformas (especialmente móviles y laptops).
+
+*Educación Financiera y Retos:*
+
+- Marisol ve la educación financiera como clave para evitar problemas financieros, un punto también mencionado por Rafael y José Adrián, quienes reconocen la falta de educación formal en finanzas personales, tanto en universidades como colegios.
+- Desconocimiento del crédito y la falta de planificación a largo plazo son desafíos comunes que Marisol observa en sus clientes. Esta carencia de conocimientos es igualmente resaltada por los otros entrevistados, lo que refleja una necesidad clara de más educación en este tema.
+
+*Percepción de Aplicaciones Financieras:*
+
+- Marisol critica las aplicaciones financieras que no ofrecen herramientas robustas para la gestión de deudas y presupuesto, una preocupación también reflejada por José Adrián, quien señala que las aplicaciones actuales son incompletas.
+
+*Uso de Infocorp y Control Crediticio:*
+
+- Todos los entrevistados, valoran el uso de Infocorp para el control de deudas y la evaluación crediticia. Esto demuestra la importancia de integrar herramientas para el control de créditos dentro de la aplicación que propone la startup.
+
+*Tecnología y Redes Sociales:*
+
+- Marisol utiliza LinkedIn y Twitter para mantenerse actualizada en temas financieros, lo que coincide con José Adrián, quien también prefiere Twitter para seguir tendencias económicas. Rafael, en cambio, opta por Instagram y YouTube. Esto indica que la educación financiera a través de redes sociales y formatos multimedia es clave para captar a diferentes grupos de usuarios.
+
+*Potencial de DebtGo:*
+
+- Todos coinciden en que una aplicación que ayude a gestionar y reducir deudas podría tener un impacto positivo. Marisol resalta el valor de una herramienta personalizada para mejorar la gestión financiera, una idea que también es respaldada por Rafael y José Adrián, quienes buscan soluciones prácticas y accesibles para jóvenes y profesionales.
+
+
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
 
 ## 2.3. Needfinding
