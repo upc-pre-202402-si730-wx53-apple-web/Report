@@ -516,17 +516,17 @@ Para esta sección se han creado personajes ficticios, cada uno diseñado para r
 #### User Persona 1: 
 
 ![image](assets/Chapter-2/User2.png)
-*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
+*Imagen (N°2). Elaboración propia. Realizado en UXPRESSIA*
 
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
 
 #### User Persona 2:
 
 ![image](assets/Chapter-2/User1.png)
-*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
+*Imagen (N°3). Elaboración propia. Realizado en UXPRESSIA*
 
-![image](assets/Chapter-2/User3.png)
-*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
+<!-- ![image](assets/Chapter-2/User3.png)
+*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA* -->
 
 ### 2.3.2. User Task Matrix
 En esta sección se presenta el user task matrix, herramienta centrada en los segmentos objetivos, que nos permitirá identificar las tareas y objetivos claves de los usuarios. Además, nos permitirá priorizar características y funcionalidades al momento de realizar el product backlog. Para la frecuencia se han considerado cinco opciones:nunca ,casi nunca, a veces, a menudo ,siempre; y para la importancia tres opciones: bajo, medio, alto". En relación con la matriz de tareas de los usuarios, podemos identificar tanto las tareas de mayor frecuencia como las de mayor importancia, así como las diferencias y similitudes entre los diferentes tipos de usuarios.
@@ -592,17 +592,17 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 
 ![image](assets/Chapter-2/Segmento1.png)
 
-*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA* 
+*Imagen (N°4). Elaboración propia. Realizado en UXPRESSIA* 
 
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
 
 ![image](assets/Chapter-2/seg2.png)
 
-*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA.*
+*Imagen (N°5). Elaboración propia. Realizado en UXPRESSIA.*
 
-![image](assets/Chapter-2/JourneyMap3.png)
+<!-- ![image](assets/Chapter-2/JourneyMap3.png)
 
-*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA.
+*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA. -->
 
 ### 2.3.4. Empathy Mapping
 
@@ -614,16 +614,16 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 
 **Segmento objetivo: Consultores financieros**
 ![image](assets/Chapter-2/asisMap-consultores.jpg)
-*Imagen (N°). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
+*Imagen (N°6). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
 
 
 **Segmento objetivo: Emprendedores**
 ![image](assets/Chapter-2/asisMap-emprendedores.jpg)
-*Imagen (N°). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
+*Imagen (N°7). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
 
-![image](assets/Chapter-2/ScenarioMapping3.jpg)
+<!-- ![image](assets/Chapter-2/ScenarioMapping3.jpg)
 *Imagen (N°). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKisf19Y=/).*
-
+ -->
 ## 2.4. Ubiquitous Language
 
 <strong>1. Debt Management (Gestión de Deudas):</strong> Proceso mediante el cual los usuarios monitorean, controlan y organizan el pago de sus deudas personales o empresariales para evitar caer en mora o aumentar los intereses acumulados.
