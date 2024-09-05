@@ -279,54 +279,7 @@
             <td>Funcionalidades adicionales</td>
             <td><b>Como</b> usuario <b>deseo</b> contar con herramientas adicionales y de educación <b>para</b> incrementar el conocimiento financiero</td>
         </tr>
-        <tr>
-            <td>EPIC-001</td> 
-            <td>Gestión Simplificada de Deudas </td>
-            <td>Como usuario, quiero una interfaz intuitiva y fácil de usar que me permita ingresar y organizar mis deudas de manera rápida, para poder gestionar mis 
-                obligaciones financieras sin complicaciones y mejorar mi bienestar económico. </td>
-        </tr>
-         <tr>
-            <td>EPIC-002</td> 
-            <td>Seguimiento Personalizado de Ingresos y Gastos </td>
-            <td>Como usuario, quiero una herramienta que me permita rastrear mis ingresos y gastos de manera eficiente, para tener una visión clara de mi situación 
-                financiera y poder tomar decisiones informadas. </td>
-        </tr>
-         <tr>
-            <td>EPIC-003</td> 
-            <td> Creación de Presupuestos Personalizados </td>
-            <td>Como usuario, quiero poder crear presupuestos personalizados basados en mis ingresos y gastos, para administrar mejor mi dinero y evitar el 
-                endeudamiento excesivo.</td>
-        </tr>
-         <tr>
-            <td>EPIC-004</td> 
-            <td>Notificaciones y Recordatorios Financieros </td>
-            <td>Como usuario, quiero recibir notificaciones y recordatorios automáticos sobre mis pagos pendientes y fechas de vencimiento, para no olvidar mis 
-                compromisos y evitar penalidades.</td>
-        </tr>
-         <tr>
-            <td>EPIC-005</td> 
-            <td>Acceso a Contenido Educativo en Finanzas </td>
-            <td>Como usuario, quiero tener acceso a contenido educativo especializado en finanzas personales, para mejorar mi conocimiento financiero y tomar 
-                decisiones más acertadas. </td>
-        </tr>
-         <tr>
-            <td>EPIC-006</td> 
-            <td>Análisis Financiero Avanzado </td>
-            <td>Como usuario premium, quiero acceder a análisis financieros detallados que me proporcionen una visión profunda de mi situación económica, para 
-                optimizar mi planificación financiera y alcanzar mis metas a largo plazo. </td>
-        </tr>
-         <tr>
-            <td>EPIC-007</td> 
-            <td>Consultoría Financiera Personalizada </td>
-            <td>Como usuario, quiero tener la opción de acceder a consultoría financiera personalizada, para recibir asesoramiento adaptado a mis necesidades 
-                específicas y mejorar mi manejo de deudas. </td>
-        </tr>
-         <tr>
-            <td>EPIC-008</td> 
-            <td>Integración con Aplicaciones de Presupuesto  </td>
-            <td>Como usuario, quiero que la aplicación se integre con mis aplicaciones de presupuesto actuales, para consolidar todas mis finanzas en un solo lugar y 
-                tener un control más preciso de mi situación financiera.</td> 
-        </tr> </table>
+       </table>
 </div>
 
 ### USER STORIES
@@ -365,6 +318,8 @@
 |US30|Articulos financieros|**Como** emprendedor, **deseo** tener acceso a artículos relacionados **para** incrementar mi conocimiento del tema|**Dado que** el emprendedor no tiene casos activos **cuando** ingresa a la sección Explorar **entonces** visualiza artículos relacionados a su rubro|EP07|
 |US31|Herramientas de simulación|**Como** emprendedor, **deseo** tener acceso a simuladores de pagos y cuotas **para** estimar los pagos de mis deudas|**Dado que** el emprendedor adquiere una suscripción premium **cuando** ingresa a la sección Herramientas **entonces** utiliza los simuladores de pago|EP07|
 |US32|Talleres gratuitos|**Como** consultor financiero, **deseo** otorgar talleres financieras gratuitos **para** atraer a posibles clientes|**Dado que** el consultor financiero desea proveer el servicio de talleres gratuitos **cuando** ingresa a su perfil de consultor **entonces** agrega el servicio "Talleres Gratuitos"|EP07|
+|US33|Seguimiento de Ingresos y Gastos|**Como** emprendedor, **deseo** una herramienta que me permita rastrear mis ingresos y gastos de manera eficiente, **para** tener una visión clara de mi situación financiera y poder tomar decisiones informadas|**Dado que** el emprendedor quiere hacer seguimiento a sus gastos, **cuando** ingresa a la sección Herramienta y a Tracker, **entonces** utiliza la herramienta para ingresar entradas y salidas de dinero|EP07|
+|US34|Creación de presupuestos|**Como** emprendedor, **deseo** poder crear presupuestos personalizados basados en mis ingresos y gastos, **para** administrar mejor mi dinero y evitar el endeudamiento excesivo|**Dado que** el emprendedor tiene subscripción premium **cuando** utiliz la aplicación por más de un mes **entonces** visualiza planes de presupuesto|EP07|
 
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
