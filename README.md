@@ -616,14 +616,17 @@ Los Web Applications Wireflow Diagrams son una combinación de wireframes y fluj
 Los wireflow diagrams son fundamentales en el proceso de diseño, ya que permiten a los equipos de desarrollo y diseño evaluar la lógica de navegación y la experiencia del usuario antes de la implementación completa. Al representar visualmente tanto la estructura como el flujo, estos diagramas aseguran que todos los involucrados tengan una comprensión clara del comportamiento de la aplicación y pueden ayudar a identificar y resolver problemas de usabilidad tempranamente.
 
 **User Goal: Registrar**
+<img src="assets/Chapter-4/diagram1.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
 
 **User Goal: Iniciar sesión**
+<img src="assets/Chapter-4/diagram4.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
 
 **User Goal: Navegar por el dashboard**
+<img src="assets/Chapter-4/diagram2.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
 
-
-
-[diagrama de web sin color]
 
 ### 4.4.3. Web Applications Mock-ups
 Los Web Applications Mock-ups son representaciones visuales detalladas y de alta fidelidad del diseño de una aplicación web. A diferencia de los wireframes, que son más esquemáticos, los mock-ups incorporan colores, tipografías, imágenes y otros elementos de diseño, ofreciéndonos una vista previa realista de cómo se verá la interfaz de usuario final.
