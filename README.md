@@ -638,22 +638,23 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 **Segmento objetivo: Consultores financieros**
 
 ![image](assets/Chapter-2/empathymap_2.png)
+*Imagen (N°6). Elaboración propia. Realizado en UXPRESSIA.*
 
 **Segmento objetivo: Emprendedores**
 
 ![image](assets/Chapter-2/empymap.png)
-*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA.*
+*Imagen (N°7). Elaboración propia. Realizado en UXPRESSIA.*
 
 ### 2.3.5. As-is Scenario Mapping
 
 **Segmento objetivo: Consultores financieros**
 ![image](assets/Chapter-2/asisMap-consultores.jpg)
-*Imagen (N°6). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
+*Imagen (N°8). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
 
 
 **Segmento objetivo: Emprendedores**
 ![image](assets/Chapter-2/asisMap-emprendedores.jpg)
-*Imagen (N°7). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
+*Imagen (N°9). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
 
 <!-- ![image](assets/Chapter-2/ScenarioMapping3.jpg)
 *Imagen (N°). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKisf19Y=/).*
