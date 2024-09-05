@@ -444,15 +444,20 @@ En la entrevista, José Adrián Luza, un joven de 19 años y estudiante de la ca
 Resumen: 
 
 **Entrevista #3**
-- Nombre: 
-- Edad:  años
-- Distrito: 
-- Duración:  minutos
+- Nombre: Marisol Ordoñez
+- Edad: 28 años
+- Distrito: San Juan de Lurigancho
+- Duración: 7:33 minutos
 
+![image](assets/Chapter-2/entrevista-3.png)
 
+[Entrevista 3 - video](https://shorturl.at/2eBIT): https://shorturl.at/2eBIT
 
 Resumen: 
 
+Marisol, economista y consultora financiera de 28 años con 5 años de experiencia, considera esencial la educación financiera para gestionar adecuadamente las finanzas personales y empresariales. Define la educación financiera como el proceso de adquirir conocimientos sobre ahorro, inversión, crédito y planificación a largo plazo. Utiliza su laptop y teléfono para su trabajo, destacando la laptop como la herramienta más importante. Para mantenerse actualizada, sigue a profesionales e instituciones en LinkedIn y a economistas en Twitter. Aunque ve anuncios de aplicaciones de gestión financiera, opina que deben ofrecer herramientas robustas para ser realmente útiles. 
+En su rol, asesora a empresas e individuos, y valora Infocorp y otras bases de datos para evaluar la solvencia crediticia. Señala la falta de planificación a largo plazo y el desconocimiento sobre el crédito como desafíos comunes. Recomienda aplicaciones que permiten el seguimiento automático de gastos y la creación de presupuestos personalizados. 
+Sobre DebtGo, Marisol cree que una aplicación que ayude a gestionar y reducir deudas puede ser muy beneficiosa, y que una herramienta personalizada puede mejorar significativamente la gestión financiera personal al ofrecer recomendaciones ajustadas a los hábitos y objetivos de los usuarios.
 
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
 
@@ -465,7 +470,11 @@ Resumen:
 
 ![image](assets/Chapter-2/Entrevista1.JPG)
 
-[Entrevista 1 - video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211108_upc_edu_pe/EYsHot_bR4FLtZs1tok9abIBf1ZfOJsBVIy0KEwKFc6AEA?e=bER0c8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi40OH19)
+[Entrevista 1 - video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211108_upc_edu_pe/EYsHot_bR4FLtZs1tok9abIBf1ZfOJsBVIy0KEwKFc6AEA?e=bER0c8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi40OH19): https://shorturl.at/M76Qv
+
+Resumen:
+
+Emilio Chávarri, de 54 años, es una persona que quiere emprender en el rubro de comunicaciones, tiene experiencia en la obtención de préstamos a entidades bancarias pero presenta dificultades en cuanto a firma de documentos de préstamos, ya que hay muchos términos que se tiene que leer y entender. Lo que más le preocupa de solicitar préstamos es el interés que va a pagar por el mismo. El criterio que utiliza para identificar si una publicidad de préstamo es real, primeramente ve qué empresa es la que está publicitando, y luego por medio del internet va al mercado de valores para ver la condición financiera de la empresa. También utiliza ciertas aplicaciones de banca móvil y a su vez, siente que es muy segura y que conforme pasa el tiempo los bancos van mejorando en cuestión de seguridad. Finalmente, las condiciones con las que se sentiría seguro al momento de compartir información financiera es la seguridad de la misma aplicación, ver cuántas restricciones tiene para acceder a su información, conocer más a la empresa, su ubicación, el software que está utilizando, que tan fácil es usarlo.
 
 **Entrevista #2** 
 - Nombre: Estrella Ticona
@@ -477,6 +486,9 @@ Resumen:
 
 [Entrevista 2 - video](https://shorturl.at/JQK2Y): https://shorturl.at/JQK2Y
 
+Resumen:
+
+Estrella, de 19 años, está interesada en iniciar una empresa tecnológica centrada en el desarrollo de software y soluciones basadas en inteligencia artificial. Aunque no tiene experiencia profesional en economía o consultoría financiera, posee un alto nivel de conocimiento en finanzas, desde conceptos básicos hasta estrategias avanzadas. A pesar de no haber trabajado con consultores financieros, cree que la experiencia en el rubro es importante para ofrecer asesoría efectiva. Al momento de obtener un préstamo se preocupa principalmente por la claridad y transparencia de las condiciones, así como por las tasas de interés. Considera que la revelación de las tasas y las cláusulas del contrato son aspectos confusos. Prefiere plataformas como bancos móviles y fintechs reconocidos por su seguridad y transparencia. Utiliza la app del BCP para su banca móvil y se siente segura gracias a las medidas de seguridad, como la autenticación de dos factores. Está dispuesta a compartir sus datos financieros solo con aplicaciones que ofrezcan altos estándares de seguridad y políticas claras de privacidad.
 
 **Entrevista #3**
 - Nombre: 
@@ -493,15 +505,6 @@ Resumen:
 **Segmento Objetivo: Consultores financieros:**
 
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
-
-**Entrevista 1:**
-
-Emilio Chávarri, de 54 años, es una persona que quiere emprender en el rubro de comunicaciones, tiene experiencia en la obtención de préstamos a entidades bancarias pero presenta dificultades en cuanto a firma de documentos de préstamos, ya que hay muchos términos que se tiene que leer y entender. Lo que más le preocupa de solicitar préstamos es el interés que va a pagar por el mismo. El criterio que utiliza para identificar si una publicidad de préstamo es real, primeramente ve qué empresa es la que está publicitando, y luego por medio del internet va al mercado de valores para ver la condición financiera de la empresa. También utiliza ciertas aplicaciones de banca móvil y a su vez, siente que es muy segura y que conforme pasa el tiempo los bancos van mejorando en cuestión de seguridad. Finalmente, las condiciones con las que se sentiría seguro al momento de compartir información financiera es la seguridad de la misma aplicación, ver cuántas restricciones tiene para acceder a su información, conocer más a la empresa, su ubicación, el software que está utilizando, que tan fácil es usarlo.
-  
-
-**Entrevista 2:**
-
-Estrella, de 19 años, está interesada en iniciar una empresa tecnológica centrada en el desarrollo de software y soluciones basadas en inteligencia artificial. Aunque no tiene experiencia profesional en economía o consultoría financiera, posee un alto nivel de conocimiento en finanzas, desde conceptos básicos hasta estrategias avanzadas. A pesar de no haber trabajado con consultores financieros, cree que la experiencia en el rubro es importante para ofrecer asesoría efectiva. Al momento de obtener un préstamo se preocupa principalmente por la claridad y transparencia de las condiciones, así como por las tasas de interés. Considera que la revelación de las tasas y las cláusulas del contrato son aspectos confusos. Prefiere plataformas como bancos móviles y fintechs reconocidos por su seguridad y transparencia. Utiliza la app del BCP para su banca móvil y se siente segura gracias a las medidas de seguridad, como la autenticación de dos factores. Está dispuesta a compartir sus datos financieros solo con aplicaciones que ofrezcan altos estándares de seguridad y políticas claras de privacidad.
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
