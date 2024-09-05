@@ -646,7 +646,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 *Imagen(N°). Elaboración propia. Realizado en figma*
 
 **Pasarela de pagos**
-<img src="assets/Chapter-4/mock1.png">
+<img src="assets/Chapter-4/mock11.png">
 *Imagen(N°). Elaboración propia. Realizado en figma*
 
 **Mi perfil**
