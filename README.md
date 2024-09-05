@@ -322,6 +322,24 @@
 |US34|Creación de presupuestos|**Como** emprendedor, **deseo** poder crear presupuestos personalizados basados en mis ingresos y gastos, **para** administrar mejor mi dinero y evitar el endeudamiento excesivo|**Dado que** el emprendedor tiene subscripción premium **cuando** utiliz la aplicación por más de un mes **entonces** visualiza planes de presupuesto|EP07|
 
 ## 3.3. Impact Mapping
+
+En esta sección, se presenta el Impact Mapping elaborado para DebtGo, que busca alcanzar el objetivo de aumentar la base de usuarios activos a 10,000 en los próximos 12 meses, con al menos un 30% suscritos a la tarifa mensual premium. El Impact Mapping se ha desglosado en función de dos segmentos de usuarios clave: Consultores Financieros y Gestores de Deudas y Emprendedores. Para cada segmento, se han identificado impactos específicos que contribuyen al logro del objetivo, junto con entregables necesarios para provocar dichos impactos. Además, se han definido historias de usuario que guiarán el desarrollo de las características y funcionalidades requeridas. Este enfoque asegura que DebtGo pueda proporcionar valor y cumplir con las expectativas de sus diversos usuarios, facilitando su crecimiento y sostenibilidad en el mercado. Esta sección se llevó a cabo utilizando la plataforma UXPressia.
+
+**Segmento Objetivo: Consultores financieros:**
+
+#### Impact Mapping 1: 
+
+![image](assets/Chapter-3/Impact map 1.png)
+*Imagen (N°8). Elaboración propia. Realizado en UXPRESSIA*
+
+**Segmento Objetivo: Gestores de Deudas y Emprendedores**
+
+#### Impact Mapping 2: 
+
+![image](assets/Chapter-3/Impact map 2.png)
+*Imagen (N°9). Elaboración propia. Realizado en UXPRESSIA*
+
+
 ## 3.4. Product Backlog
 
 |# Orden|User Story ID|Título|Descripción|Story Points (1 / 2 / 3 / 5 / 8)|
