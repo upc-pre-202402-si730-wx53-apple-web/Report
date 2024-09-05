@@ -439,9 +439,11 @@ En la entrevista, José Adrián Luza, un joven de 19 años y estudiante de la ca
 
 ![image](assets/Chapter-2/rafa2.png)
 
-[Entrevista 1 - video](https://bit.ly/4cTGdur): https://bit.ly/4cTGdur
+[Entrevista 2 - video](https://bit.ly/4cTGdur): https://bit.ly/4cTGdur
 
 Resumen: 
+
+Rafael, un joven de 19 años estudiante de comunicación y marketing, comparte sus opiniones sobre la educación financiera y el uso de la tecnología en la gestión personal de finanzas. Aunque no tiene experiencia directa en economía o consultoría financiera, ha estado interesado en el tema durante el último año y lo considera crucial para su futuro. Rafael utiliza con frecuencia su celular y laptop para buscar información financiera y sigue a referentes en Instagram y Youtube. Si bien no ha encontrado una aplicación financiera que considere completamente adecuada, destaca la relevancia de Infocorp para el control de deudas y la importancia de educarse financieramente, algo que no se enseña en colegios ni universidades. Además, cree que una aplicación bien estructurada podría tener un impacto positivo en la gestión de las finanzas personales y ayudar a las personas a manejar mejor su economía.
 
 **Entrevista #3**
 - Nombre: Marisol Ordoñez
