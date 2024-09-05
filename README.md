@@ -537,6 +537,26 @@ Resumen:
 
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
 
+1. Conocimiento y Experiencia Financiera
+
+Todos los entrevistados reconocen la importancia de tener asesores financieros con experiencia, y aunque algunos tienen un nivel básico de conocimiento, también muestran inseguridad y confusión, especialmente en temas como intereses y condiciones de préstamos.
+
+2. Preocupaciones al Solicitar Préstamos
+
+El interés y las condiciones del préstamo son factores clave para todos los entrevistados. Hay una necesidad de mayor claridad y seguridad en estos aspectos para reducir el miedo a incumplir o ser engañados.
+
+3. Confianza en Plataformas y Aplicaciones Bancarias: 
+
+Todos los entrevistados utilizan banca móvil y confían en su seguridad, especialmente con el uso de huellas digitales o sistemas de autenticación robustos. Aunque confían en la seguridad de las aplicaciones bancarias, hay una cierta desconfianza hacia plataformas nuevas o no tradicionales para la obtención de préstamos. Es importante ofrecer un nivel de transparencia y garantías de seguridad adicional en cualquier aplicación de asesoría financiera.
+
+4. Disponibilidad para Compartir Datos Financieros
+
+La privacidad y el control sobre los datos financieros son importantes para todos. Para fomentar la confianza en la plataforma, sería esencial ofrecer medidas de seguridad robustas y garantías de control sobre el tiempo que la información estará disponible.
+
+5. Percepciones sobre Publicidad y Estafas
+
+Los tres entrevistados adoptan un enfoque prudente para evitar estafas. La plataforma de asesoría financiera debe ofrecer transparencia en cuanto a sus políticas y contar con testimonios de clientes reales para aumentar la confianza.
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 
