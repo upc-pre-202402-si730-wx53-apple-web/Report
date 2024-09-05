@@ -567,13 +567,17 @@ La sección titulada “Mi perfil” solicita al usuario que complete informaci�
 
 **My Workspace**
 
-En la seccion "My Workspace" para el Consultor muestra un perfil con vista al usuario donde mostrara su nombre, horario, reseña, mensaje y 2 categorias. 
+En la seccion "My Workspace" para el Consultor muestra un perfil con vista al usuario donde mostrara su nombre, establecer su horario, visualizar sus reseña, botón de bandeja de entrada y 2 categorías. 
 
 <img src="assets/Chapter-4/consultor1.png">
 
 *Imagen(N°). Elaboración propia. Realizado en figma*
 
-**Categoria Servicios**
+**Categoría Metricas**
+
+Dado que el consultor ha trabajado por más de 1 mes cuando ingresa la sección Métricas en su perfil entonces visualiza las métricas del último mes.
+
+**Categoría Servicios**
 
 El consultor prodra Editar y Publicar sus servicios.
 
@@ -587,11 +591,24 @@ El consultor prodra Editar y Publicar sus servicios.
 
 **Mensaje**
 
-En esta sección de mensaje ambas partes podran conversar el Termin de contrato
+En esta sección "Bandeja" ambas partes podran comunicarme directamente. El consultor podra enviar archivos para apoyar al cliente y darle información necesaria y tambien ofrecer asesoramiento adecuado. La aplicación ofercera un botón para ver el "Historial de casos",  entonces puede revisar sus casos activos y archivados. 
 
 <img src="assets/Chapter-4/mensajeC.png">
 
 *Imagen(N°). Elaboración propia. Realizado en figma*
+
+**Perfil Emprendedor**
+
+Para el perfil de Emprendedor podra visualizar un resumen del perfil y acceder a la bandeja de entrada como a una "Herramientas de simulación". 
+
+**Herramienta simulación**
+
+Dado que el emprendedor adquiere una suscripción premium cuando ingresa a la sección Herramientas entonces utiliza los simuladores de pago.
+
+<img src="assets/Chapter-4/perfilem.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 Los Web Applications Wireflow Diagrams son una combinación de wireframes y flujos de usuario (user flows) que ilustran no solo la estructura y disposición de las páginas de una aplicación web, sino también cómo los usuarios navegarán entre ellas. Estos diagramas proporcionan una visión detallada del recorrido del usuario, mostrando las interacciones clave y las transiciones de una página a otra dentro de la aplicación.
