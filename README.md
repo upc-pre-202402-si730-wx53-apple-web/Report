@@ -479,6 +479,19 @@ Para este Sprint nos enfocaremos en los task para la elaboración de la landing 
 </table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review
+Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Landing-Page
+
+| Branch | Commit Id | Commit Message | Commited on (Date) |
+| ------ | ----------| -------------- | ------------------ |
+|feature/header-hero|15980848|feat: add header hero|4/9/24|
+|feature/segment-1|7ef72a3b|feat: added benefits-learning|5/9/24|
+|feature/segment-2|c60d0f89|chore: Update index.html|4/9/24|
+|feature/segment-2|65a6d628|chore: Add segmento2.css|4/9/24|
+|feature/testimonials|1042b6f87b5|feat: add testimonials|4/9/24|
+|feature/testimonials|d1da88d5220|feat: add estilos|4/9/24|
+|feature/contact-footer|ec5d7f793bc|Update index.html|4/9/24|
+
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
