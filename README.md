@@ -681,7 +681,18 @@ Los Web Applications User Flow Diagrams son diagramas que mapean el recorrido qu
 
 Al diseñar user flow diagrams, puedo identificar posibles puntos de fricción o áreas donde la experiencia del usuario podría mejorarse. Al comprender el flujo completo, puedo optimizar el diseño y la estructura de la aplicación, garantizando una experiencia de usuario fluida y coherente. 
 
-[diagrama de web color]
+**User Goal: Registrar**
+<img src="assets/Chapter-4/registrar.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**User Goal: Iniciar sesión**
+<img src="assets/Chapter-4/inicio.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
+**User Goal: Navegar por el dashboard**
+<img src="assets/Chapter-4/diagram3.png">
+*Imagen(N°). Elaboración propia. Realizado en figma*
+
 
 ## 4.5. Web Applications Prototyping
 
