@@ -517,7 +517,7 @@ Para esta sección se han creado personajes ficticios, cada uno diseñado para r
 
 #### User Persona 1: 
 
-![image](assets/Chapter-2/User2.png)
+![image](assets/Chapter-2/userpersona4.png)
 *Imagen (N°2). Elaboración propia. Realizado en UXPRESSIA*
 
 **Segmento Objetivo: Gestores de Deudas y Emprendedores**
