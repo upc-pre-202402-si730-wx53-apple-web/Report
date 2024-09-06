@@ -1652,19 +1652,243 @@ interfaz sencilla y fácil de usar.
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+En la siguiente sección se describe la ruta de referencia de cada uno de los productos de software para
+que cualquier miembro del equipo pueda desarrollar cada punto del trabajo.
+
+- **UXPressia:** Plataforma colaborativa que nos permitirá crear user personas e integrados con los
+múltiples mapas para evaluar sus prioridades.
+- **Figma:** Herramienta colaborativa que nos permitirá desarrollar wireframes y mockups.
+- **Vertabelo:** Plataforma colaborativa que nos permitirá crear nuestro diagrama de base de datos.
+- **LucidChart:** Aplicación web destinada a la elaboración de Wireflows, Users Flows y diagramas
+de clases.
+- **WebStorm:** IDE que utilizaremos para trabajar con javascript y desarrollar la landing page y web
+application.
+
 ### 5.1.2. Source Code Management
+El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará GitFlow como Workflow de control de versiones, además de proporcionar los URL de los repositorios de GitHub para cada producto: Landing Page, Web Services y Frontend Web Applications.
+
+-  [**Repositorio Landing Page:**](https://github.com/upc-pre-202402-si730-wx53-apple-web/Landing-Page)  https://github.com/upc-pre-202402-si730-wx53-apple-web/Landing-Page
+-  [**Repositorio Web Services:**](https://github.com/upc-pre-202402-si730-wx53-apple-web/Web-Services) https://github.com/upc-pre-202402-si730-wx53-apple-web/Web-Services
+-  [**Repositorio Frontend Web Applications:**](https://github.com/upc-pre-202402-si730-wx53-apple-web/Frontend-Web-Applications) https://github.com/upc-pre-202402-si730-wx53-apple-web/Frontend-Web-Applications
+
+**GitFlow**
+
+Estructura de branches (Ramas):
+
+**1. Master branch (Rama principal):** Esta rama será considerada como la principal para la aplicación, y contendrá versiones
+estables y finales del desarrollo. Solo se permitirán cambios que hayan sido previamente probados y verificados en otras
+ramas de prueba.
+
+**2. Develop branch (Rama de desarrollo):** El propósito de esta rama es llevar a cabo los avances del proyecto en equipo y
+de mantener los archivos centrales del desarrollo continuo.
+
+**3. Feature branches (Ramas de funcionalidad):** Cada funcionalidad desarrollada por el equipo o separada del enfoque
+actual del desarrollo tendrá su propia rama. Una vez que una funcionalidad esté completamente trabajada, se fusionará
+con la rama de desarrollo del proyecto. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón
+descriptivo y único, por ejemplo, "feature/nombre-de-la-funcionalidad".
+
+**4. Release branches (Ramas de lanzamiento):** Estas ramas se utilizarán para mantener una instancia de la rama develop
+que esté próxima a ser incluida en la rama principal. Se seguirá el sistema de versionamiento semántico (Semantic
+Versioning) para nombrar las Releases.
+
+**5. Hotfix branches (Ramas de corrección):** Se crearán para abordar de manera puntual y eficiente la corrección de errores
+identificados en la rama principal que afecten significativamente la experiencia de los usuarios.
+
+**Versionamiento Semántico:** Para nombrar las Releases, se aplicará el sistema de versionamiento semántico (Semantic
+Versioning 2.0.0).
+
+**Convenciones de Commits:** Para los mensajes de los commits realizados, se utilizará la especificación Conventional Commits
+basada en Angular Commit Guidelines. La estructura a seguir será la siguiente:
+
+
+```bash
+git commit -m "<type>[optional scope]:<title>" -m"<description>"
+```
+
 ### 5.1.3. Source Code Style Guide & Conventions
+
+**HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las
+siguientes:
+1. Cerrar todos los elementos HTML. Por ejemplo:
+``` html
+<p>Esto es un párrafo.</p>
+```
+
+2. A pesar de que HTML permite combinar mayúsculas y minúsculas en los nombrs de los elementos y atributos, se limitará
+al uso de minúsculas para mantener el orden y garantizar la legibilidad.
+
+3. Utilizar comillas en caso de que los atributos contengan espacios entre sí.
+
+4. Procurar especificar el texto alt y las dimensiones width y height de las imágenes, ya que de esta manera se facilitará la
+disponibilidad del contenido. Por ejemplo:
+``` html
+ <img src="abc.img" alt="image name"
+style="width:128px;height:128px">
+```
+
+**CSS:** Entre las prácticas empleadas se mencionan:
+
+1. Los nombres de las clases deben de ser breves y autodescriptivos.
+
+2. Separar los nombres de las clases y ID con un guión. Por ejemplo:
+```css
+#video-id .hero-shadow
+```
+
+3. Evitar especificar la unidad de medida luego de usar el valor 0.
+
+4. Separar las declaraciones y selectores en nuevas líneas para agilizar la legibilidad.
+
+**Gherkin:** Es un lenguaje de dominio específico, el cual busca solucionar un problema concreto, la comunicación entre los
+negocios y la parte técnica al trabajar con Behavior Driven Development, abreviado por sus siglas en ingles como BBD. En busca
+de una buena práctica, se ocuparon los saltos de línea para mejorar el orden de los diversos tipos de escenarios y diferenciarlos
+de forma más óptima. Adicionalmente, se utilizaron las palabras clave "Given", "When", "Then" y "And" para estructurar los
+escenarios.
+
 ### 5.1.4. Software Deployment Configuration
+
+**Landing Page**
+
+Para poder desplegar la Landing Page resulta necesario contar con una serie de requisitos, entre ellos, es necesario contar con
+una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible
+comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+1. Crear un repositorio para alojar el Landing Page.
+
+2. Asegurarse de que los archivos sigan las nomenclaturas "index.html", para el contenido de la landing page; "style.css" para los estilos. Se tendra una carpeta "assets" y dentro estaran las carpetas "styles" y "img".
+
+3. Cargar los archivos al repositorio mediante un commit.
+
+4. Dirigirse a Settings > Pages y seleccionar la branch correspondiente dentro de la cual se encuentra el proyecto,
+generalmente se trata de "main" o "master".
+
+5. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que
+llevará al Landing Page desplegado.
+
 ## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.X. Sprint 
-#### 5.2.X.1. Sprint Planning n
-#### 5.2.X.2. Sprint Backlog n
-#### 5.2.X.3. Development Evidence for Sprint Review
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review
-#### 5.2.X.5. Execution Evidence for Sprint Review
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review
-#### 5.2.X.8. Team Collaboration Insights during Sprint
+### 5.2.1. Sprint 1
+Para este Sprint nos enfocaremos en los task para la elaboración de la landing page. Nos dividiremos entre nosotros cada una de las tareas identificadas para el sprint.
+#### 5.2.1.1. Sprint Planning 1
+| Sprint # | Sprint 1 |
+| -------- | -------- |
+|**Sprint Planning Background**|
+| Date | 2024-08-29|
+| Time | 07:00 PM |
+| Location | Discord Virtual Meeting |
+| Prepared By | Camila Sanchez, Gianfranco Durand |
+|Attendees (to planning meeting) | Camila Sanchez, Gianfranco Durand, Daniel Chávarri , Karito Medina, Emilia Duran
+| Sprint n – 1 Review Summary | No hubo sprint anterior |
+| Sprint n – 1 Retrospective Summary | No hubo sprint anterior |
+| **Sprint Goal & User Stories** | 
+| Sprint 1 Goal | Realizar la Landing Page |
+| Sprint 1 Velocity | 20 |
+| Sum of Story Points | 20 | 
+
+#### 5.2.1.2. Sprint Backlog 1
+<table>
+    <thead>
+        <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Description</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do/In-Process/To-Review/Done)</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Planes de la aplicación</td>
+            <td>UT01</td>
+            <td>Mostrar planes</td>
+            <td>Mostrar los planes de suscripción y sus descripciones</td>
+            <td>1</td>
+            <td>Karito Medina</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US02</td>
+            <td>Reseñas de la aplicación</td>
+            <td>UT02</td>
+            <td>Mostrar reseñas</td>
+            <td>Mostrar reseñas verificadas por segmento </td>
+            <td>1</td>
+            <td>Camila Sanchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Información de servicios</td>
+            <td>UT03</td>
+            <td>Mostrar información</td>
+            <td>Mostrar más información y beneficios</td>
+            <td>1</td>
+            <td>Emilia Durán</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Sporte de la aplicación</td>
+            <td>UT04</td>
+            <td>Mostrar formulario de consultas</td>
+            <td>Mostrar formulario para recibir consultas, con cuerpo de mensaje y correo para retornar respuesta</td>
+            <td>2</td>
+            <td>Daniel Chávarri</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US06</td>
+            <td>Normas de privacidad</td>
+            <td>UT05</td>
+            <td>Mostrar información de privacidad</td>
+            <td>Mostrar información de seguridad, privacidad, y de tratamiento de datos</td>
+            <td>2</td>
+            <td>Gianfranco Durand</td>
+            <td>In-Review</td>
+        </tr>
+        <tr>
+            <td>US08</td>
+            <td>Registro en aplicación</td>
+            <td>UT06</td>
+            <td>Formulario de registro</td>
+            <td>Mostrar y redirigir al formulario de registro para nuevos usuarios desde landing page.</td>
+            <td>2</td>
+            <td>Gianfranco Durand</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.1.3. Development Evidence for Sprint Review
+Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Landing-Page
+
+| Branch | Commit Id | Commit Message | Commited on (Date) |
+| ------ | ----------| -------------- | ------------------ |
+|feature/header-hero|15980848|feat: add header hero|4/9/24|
+|feature/segment-1|7ef72a3b|feat: added benefits-learning|5/9/24|
+|feature/segment-2|c60d0f89|chore: Update index.html|4/9/24|
+|feature/segment-2|65a6d628|chore: Add segmento2.css|4/9/24|
+|feature/testimonials|1042b6f87b5|feat: add testimonials|4/9/24|
+|feature/testimonials|d1da88d5220|feat: add estilos|4/9/24|
+|feature/contact-footer|ec5d7f793bc|Update index.html|4/9/24|
+
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.1.8. Team Collaboration Insights during Sprint
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 ### 5.3.2. Registro de Entrevistas
@@ -1673,8 +1897,52 @@ interfaz sencilla y fácil de usar.
 
 # Conclusiones
 ## Conclusiones y recomendaciones
+
+<strong>Conclusiones</strong> <br> <br>
+<strong>Resultados frente a los Problem Statements</strong>
+El equipo ha logrado abordar los desafíos definidos en los Problem Statements, logrando una comprensión profunda de las necesidades del usuario y los problemas subyacentes que afectan su experiencia. Los resultados obtenidos validan que el enfoque planteado desde el inicio es adecuado, aunque algunos ajustes deben ser considerados para mejorar aún más los resultados.
+
+<strong>Assumptions frente al comportamiento real de los segmentos</strong>
+Al comparar los assumptions iniciales con el comportamiento real de los segmentos de usuarios, se identificaron varias discrepancias. Esto fue fundamental para reajustar las estrategias y adaptar el producto a las necesidades reales de los usuarios, ya que permitió optimizar la experiencia y obtener una mayor aceptación.
+
+<strong>Hypotheses Statements establecidos</strong>
+Las hipótesis planteadas inicialmente fueron validadas en su mayoría, esto demuestra que la comprensión inicial de los problemas y necesidades era adecuada. Sin embargo, algunas hipótesis requirieron ajustes basados en las validaciones con usuarios, revelando oportunidades para iterar sobre el diseño y la funcionalidad del producto.
+
+<strong>Criterios de éxito en el proceso de Lean UX</strong>
+Los criterios de éxito establecidos en el proceso de Lean UX se cumplieron en gran medida, con métricas clave que indican mejoras significativas en la satisfacción del usuario y la usabilidad del producto. Sin embargo, algunas áreas aún necesitan mejoras adicionales para cumplir con los objetivos más ambiciosos de la organización.
+
+<strong>Recomendaciones</strong>
+
+Es crucial seguir ajustando los procesos de recolección de feedback para asegurarse de que reflejen de manera precisa las necesidades cambiantes de los usuarios. Esto permitirá que los futuros ciclos de desarrollo sean aún más alineados con el mercado.
+
+Con base en los hallazgos obtenidos, se recomienda ajustar el roadmap de los productos digitales para priorizar características y funcionalidades que respondan a las nuevas necesidades identificadas durante las validaciones. También es importante tener en cuenta la implementación de mejoras continuas en áreas donde se encontraron deficiencias.
+
+El equipo debe continuar adoptando un enfoque iterativo, incorporando los aprendizajes de las validaciones en cada ciclo de desarrollo. Esto asegurará que el producto continúe evolucionando de manera efectiva y se adapte a los cambios en el comportamiento y expectativas de los usuarios.
+
+A medida que se avanza en el desarrollo, se recomienda aumentar la frecuencia de validaciones con usuarios reales. Esto ayudará a detectar posibles problemas de manera temprana y a iterar más rápido sobre las soluciones propuestas.
+
 ## Video About-the-Team.
 
 # Bibliografía
+
+1. Conexión ESAN. (s. f.). 7 de cada 10 peruanos están endeudados y no pueden cubrir sus gastos: ¿Cuáles son los factores? Recuperado de: (https://www.esan.edu.pe/conexion-esan/7-de-cada-10-peruanos-estan-endeudados-y-no-pueden-cubrir-sus-gastos-cuales-son-los-factores)
+
+2. Diario Oficial El Peruano. (s. f.). Peruanos tendrán más facilidades para pagar deudas por créditos. Recuperado de: (https://elperuano.pe/noticia/104634-peruanos-tendran-mas-facilidades-para-pagar-deudas-por-creditos)
+
+3. El Comercio Perú. (2022, 26 de abril). InfoCorp: Consulte AQUÍ tu reporte de deudas solo con tu número de DNI. Recuperado de: (https://elcomercio.pe/economia/personal/infocorp-consulta-aqui-tu-reporte-de-deudas-solo-con-el-documento-nacional-de-identidad-como-saber-mi-estado-crediticio-como-salir-de-infocorp-rmmn-noticia/#google_vignette)
+
+4. Infobae. (2022, 10 de octubre). Aumenta en más del 76% deuda morosa de los peruanos en los últimos tres años. Recuperado de: (https://www.infobae.com/america/peru/2022/10/10/aumenta-en-mas-del-76-deuda-morosa-de-los-peruanos-en-los-ultimos-tres-anos/)
+
+5. Infobae. (2022, 25 de mayo). SBS: Deudas de peruanos son cuatro veces más altas que sus ingresos. Recuperado de: (https://www.infobae.com/america/peru/2022/05/25/sbs-deudas-de-peruanos-son-cuatro-veces-mas-altas-que-sus-ingresos/)
+   
+6. Periche-Delgado, G. S. (2020). La morosidad ante un confinamiento del Covid-19 en la Caja Rural de Ahorro y Crédito Raíz, Perú. Recuperado de: (https://www.redalyc.org/journal/5860/586066112004/html/)
+   
+7. RPP. (2018, 6 de junio). Endeudamiento de peruanos sube sostenidamente, advierte el Banco Central. Recuperado de: (https://rpp.pe/economia/economia/endeudamiento-de-peruanos-sube-sostenidamenteadvierte-el-banco-central-noticia-1127473?ref=rpp)
+   
+8. RPP. (2022, 18 de julio). Más de 7 de cada 10 peruanos no pueden cubrir todos sus gastos y tienen deudas. Recuperado de: (https://rpp.pe/economia/economia/mas-de-7-de-cada-10-peruanos-no-pueden-cubrir-todos-sus-gastos-y-tienen-deudas-noticia-1418691)
+   
+9. RPP. (2022, 22 de agosto). Deudas: ¿Cuántos peruanos presentan atraso en sus pagos a bancos y servicios? Recuperado de: (https://rpp.pe/economia/economia/deudas-cuanto-peruanos-presentan-atraso-en-sus-pagos-a-bancos-y-servicios-noticia-1425578?ref=rpp)
+
+14. Terranova, J. (2023, 3 de enero). Economía familiar: 62% de peruanos se ha endeudado para cubrir gastos del hogar. Recuperado de: (https://gestion.pe/tu-dinero/economia-familiar-62-de-peruanos-se-ha-endeudado-paracubrir-gastos-del-hogar-noticia/)
 
 # Anexos
