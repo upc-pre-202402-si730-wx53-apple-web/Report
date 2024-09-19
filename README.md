@@ -494,9 +494,44 @@ Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Lan
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
+Durante este Sprint, completamos la implementación de la Landing Page de DebtGo, enfocándonos en un diseño atractivo y responsivo que mejora la experiencia del usuario. A continuación, se muestran capturas de las principales vistas que ilustra la visualización y navegación logradas.
+
+Hero y navbar
+<img src="./assets/Chapter-5/landing1.png"/>
+
+Sección para el segmento 1
+<img src="./assets/Chapter-5/landing2.png"/>
+
+Sección para el segmento 2
+<img src="./assets/Chapter-5/landing3.png"/>
+
+Sección sobre comentarios de nuestros usuarios
+<img src="./assets/Chapter-5/landing4.png"/>
+
+Sección para contactar con nosotros
+<img src="./assets/Chapter-5/landing5.png"/>
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+No se implementaron servicios en este sprint 1
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Para realizar el despliegue de la Landing Page se realizaron lo siguientes pasos:
+
+- 1: Hacer merges de las ramas *feature* en la rama *develop* y finalmente merge en la rama *main*
+<img src="./assets/Chapter-5/sprint1-evidencia1.png"/>
+
+- 2: Ir a la configuración del repositorio, luego a la seccion *Pages* y seleccionar la rama *main* para el despliegue
+<img src="./assets/Chapter-5/sprint1-evidencia2.png"/>
+
+[Link Landing Page:](https://upc-pre-202402-si730-wx53-apple-web.github.io/Landing-Page/) https://upc-pre-202402-si730-wx53-apple-web.github.io/Landing-Page/ 
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+<img src="./assets/Chapter-5/sprint1-insights1.png"/>
+
+<img src="./assets/Chapter-5/sprint1-insights2.png"/>
+
+<img src="./assets/Chapter-5/sprint1-insights3.png"/>
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 ### 5.3.2. Registro de Entrevistas
