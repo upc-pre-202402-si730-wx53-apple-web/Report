@@ -286,8 +286,8 @@
 
 | Story ID | Titulo | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) | 
 |---|---|------|------|---|
-|US01|Demostración de la aplicación|**Como** visitante, **deseo** ver una demostración de la aplicación **para** entender rápidamente lo que ofrece | **Dado** que el visitante se
-encuentra en el landing page, **Cuando** navega a la sección About-the-Product **Entonces** encuentra un video informativo del producto |EP01| 
+|US01|Demostración de la aplicación|**Como** visitante, **deseo** ver una demostración de la aplicación **para** entender rápidamente lo que ofrece|**Dado** que el visitante se
+encuentra en el landing page, **Cuando** navega a la sección About-the-Product **Entonces** encuentra un video informativo del producto|EP01| 
 |US02|Reseñas de la aplicación|**Como** visitante, **deseo** visualizar reseñas de la aplicación **para** decidir si quiero utilizarla|**Dado que** el visitante se encuentra en el landing page **cuando** navega a la sección Reviews **entonces** visualiza las reseñas realizadas por usuarios|EP01|
 |US03|Planes de la aplicación |**Como** visitante, **deseo** visualizar los planes de suscripción **para** decidir el más adecuado a mis necesidades|**Dado que** el visitante se encuentra en el landing page **cuando** navega a la sección Plans **entonces** visualiza de modo comparativo los planes de suscripción|EP01|
 |US04|Soporte de la aplicación|**Como** visitante, **deseo** poder contactarme con equipo de soporte **para** resolver cualquier duda o acceder a información adicional|**Dado que** el visitante se encuentra en el landing page **cuando** navega a la sección Contact **entonces** ingresa su correo para recibir mayor información|EP01|
