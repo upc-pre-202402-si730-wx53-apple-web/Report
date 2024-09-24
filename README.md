@@ -286,21 +286,7 @@
 
 | Story ID | Titulo | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) | 
 |---|---|------|------|---|
-|US01|Demostración de la aplicación|**Como** visitante, **deseo** ver una demostración de la aplicación **para** entender rápidamente lo que ofrece | **Dado que** el visitante se encuentra en el landing page, **cuando** navega a la sección About-the-Product **entonces** encuentra un video informativo del producto | | Technical Story: Endpoint para video de demostración
-
-**Como** Developer
-**Deseo** implementar un endpoint en el RESTful API que gestione la entrega del video de demostración 
-**Para** la sección About-the-Product.
-
-**Scenario 1: Successful video request**
-**Given** el visitante realiza un GET request al endpoint /api/demo-video
-**When** el request es exitoso
-**Then** el API devuelve un response con status 200 OK y el link del video en formato compatible (.mp4).
-**Scenario 2: Video not found**
-**Given** el visitante realiza un GET request al endpoint /api/demo-video
-**When** el video no está disponible
-**Then** el API devuelve un response con status 404 Not Found. | EP01| 
-
+|US01|Demostración de la aplicación|**Como** visitante, **deseo** ver una demostración de la aplicación **para** entender rápidamente lo que ofrece | EP01| 
 |US02|Reseñas de la aplicación|**Como** visitante, **deseo** visualizar reseñas de la aplicación **para** decidir si quiero utilizarla|**Dado que** el visitante se encuentra en el landing page **cuando** navega a la sección Reviews **entonces** visualiza las reseñas realizadas por usuarios|EP01|
 |US03|Planes de la aplicación |**Como** visitante, **deseo** visualizar los planes de suscripción **para** decidir el más adecuado a mis necesidades|**Dado que** el visitante se encuentra en el landing page **cuando** navega a la sección Plans **entonces** visualiza de modo comparativo los planes de suscripción|EP01|
 |US04|Soporte de la aplicación|**Como** visitante, **deseo** poder contactarme con equipo de soporte **para** resolver cualquier duda o acceder a información adicional|**Dado que** el visitante se encuentra en el landing page **cuando** navega a la sección Contact **entonces** ingresa su correo para recibir mayor información|EP01|
