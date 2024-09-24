@@ -284,9 +284,9 @@
 
 ### USER STORIES
 
-| Story ID | Titulo | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) | Technical Story |
+| Story ID | Titulo | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) | 
 |---|---|------|------|---|
-|US01|Demostración de la aplicación|**Como** visitante, **deseo** ver una demostración de la aplicación **para** entender rápidamente lo que ofrece | **Dado que** el visitante se encuentra en el landing page, **cuando** navega a la sección About-the-Product **entonces** encuentra un video informativo del producto | EP01| | TS01: Endpoint para video de demostración
+|US01|Demostración de la aplicación|**Como** visitante, **deseo** ver una demostración de la aplicación **para** entender rápidamente lo que ofrece | **Dado que** el visitante se encuentra en el landing page, **cuando** navega a la sección About-the-Product **entonces** encuentra un video informativo del producto | | Technical Story: Endpoint para video de demostración
 
 **Como** Developer
 **Deseo** implementar un endpoint en el RESTful API que gestione la entrega del video de demostración 
@@ -299,7 +299,7 @@
 **Scenario 2: Video not found**
 **Given** el visitante realiza un GET request al endpoint /api/demo-video
 **When** el video no está disponible
-**Then** el API devuelve un response con status 404 Not Found. |
+**Then** el API devuelve un response con status 404 Not Found. | EP01| 
 
 |US02|Reseñas de la aplicación|**Como** visitante, **deseo** visualizar reseñas de la aplicación **para** decidir si quiero utilizarla|**Dado que** el visitante se encuentra en el landing page **cuando** navega a la sección Reviews **entonces** visualiza las reseñas realizadas por usuarios|EP01|
 |US03|Planes de la aplicación |**Como** visitante, **deseo** visualizar los planes de suscripción **para** decidir el más adecuado a mis necesidades|**Dado que** el visitante se encuentra en el landing page **cuando** navega a la sección Plans **entonces** visualiza de modo comparativo los planes de suscripción|EP01|
