@@ -259,7 +259,7 @@ objetivos establecidos para este entregable.</p>
         <p>.</p>
         <p><b>Durán Santander, Emilia Mercedes.</b></p>
        <p><b>TB1:</b></p>
-        <p>...</p>
+        <p>..g.</p>
         <p><b>TP1:</b></p>
         <p>.</p>
         <p><b>TB2:</b></p>
@@ -1001,7 +1001,7 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 
 **Segmento objetivo: Emprendedores**
 
-![image](assets/Chapter-2/empymap.png)
+![image](assets/Chapter-2/emprendedores.png)
 *Imagen (N°7). Elaboración propia. Realizado en UXPRESSIA.*
 
 ### 2.3.5. As-is Scenario Mapping
@@ -1012,7 +1012,7 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 
 
 **Segmento objetivo: Emprendedores**
-![image](assets/Chapter-2/asisMap-emprendedores.jpg)
+![image](assets/Chapter-2/asisMap-emprendedores.png)
 *Imagen (N°9). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKilDDEs=/?share_link_id=237055566961).*
 
 <!-- ![image](assets/Chapter-2/ScenarioMapping3.jpg)
