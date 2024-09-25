@@ -212,7 +212,9 @@ Criterio: Capacidad de funcionar efectivamente en un equipo cuyos miembros junto
     </thead>
   <tbody>
     <tr>
-      <td><b>Trabaja en equipo para proporcionar liderazgo en forma conjunta</b></td>
+      <td><b>Trabaja en equipo para
+proporcionar liderazgo en
+forma conjunta</b></td>
       <td>
         <p><b>Medina Chocce, Dianeth Karito  </b></p>
         <p><b>TB1:</b></p>
@@ -227,7 +229,7 @@ Criterio: Capacidad de funcionar efectivamente en un equipo cuyos miembros junto
        <p><b>TB1:</b></p>
         <p>Realicé el Capítulo II: Requirements Elicitation & Analysis; también realicé lo sieguiente del Capítulo IV: 4.1. Style Guidelines, General Style Guidelines, Web Style Guidelines, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping.</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>Colaboración en el proyecto cumpliendo con las indicaciones realizadas por el equipo para lograr lo esperado. </p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
@@ -257,9 +259,9 @@ objetivos establecidos para este entregable.</p>
         <p>.</p>
         <p><b>Durán Santander, Emilia Mercedes.</b></p>
        <p><b>TB1:</b></p>
-        <p>Realicé el capítulo III: Requirements Specification, en concreto el To-Be Scenario, User Stories y Product Backlog, así cómo también los As-Is Scenarios y Sprint Backlog para esta entrega. Apoyé a mis compañeros y pedí su ayuda en distintas secciones del informe.</p>
+        <p>...</p>
         <p><b>TP1:</b></p>
-        <p>Realizamos las correcciones basadas en el feedback otorgado, reuniendonos inicialmente para ordenarlo en orden de prioridad y poder establecer metas realistas para la entrega</p>
+        <p>.</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
@@ -277,7 +279,10 @@ objetivos establecidos para este entregable.</p>
       </td>
     </tr>
     <tr>
-      <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</td>
+      <td>Crea un entorno colaborativo e
+inclusivo, establece metas,
+planifica tareas y cumple
+objetivostd>
       <td>
         <p><b>Medina Chocce, Dianeth Karito</b></p>
         <p><b>TB1:</b></p>
@@ -292,7 +297,7 @@ objetivos establecidos para este entregable.</p>
        <p><b>TB1:</b></p>
         <p>Realicé el Capítulo II: Requirements Elicitation & Analysis; también realicé lo sieguiente del Capítulo IV: 4.1. Style Guidelines, General Style Guidelines, Web Style Guidelines, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping.</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>Colaboración en el proyecto cumpliendo con las indicaciones realizadas por el equipo para lograr lo esperado.</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
@@ -318,9 +323,9 @@ objetivos establecidos para este entregable.</p>
         <p>.</p>
         <p><b>Durán Santander, Emilia Mercedes</b></p>
        <p><b>TB1:</b></p>
-        <p>Realicé el capítulo III: Requirements Specification, detallado en el punto anterior. En reuniones de proyecto, dividí lo restante del proyecto en equipos para poder llegar a las metas establecidas anteriormente. </p>
+        <p>...</p>
         <p><b>TP1:</b></p>
-        <p>Coordiné la reunión inicial para comenzar los avances de la entrega y la reunión subsecuente para mostrar los avances de la misma, con el propósito de cumplir las metas.</p>
+        <p>.</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
@@ -925,37 +930,46 @@ En esta sección se presenta el user task matrix, herramienta centrada en los se
 <td><b><i>A menudo</i></b></td>
 <td><b><i>Medio</i></b></td>
 </tr>
-<tr><td>Llenar datos sobre el usuario </td>
+<tr><td>Completar perfil de usuario</td>
 <td><b><i>Amenudo</i></b></td>
 <td><b><i>Alta</i></b></td>
 <td><b><i>A menudo</i></b></td>
 <td><b><i>Medio</i></b></td>
 </tr>
-<tr><td>Indicar el nivel de experiencia que tiene
-con la gestión financiera</td>
+<tr><td>Indicar nivel de experiencia en gestión financiera</td>
 <td><b><i>A menudo</i></b></td>
 <td><b><i>Muy alta</i></b></td>
 <td><b><i>A menudo</i></b></td>
 <td><b><i>Muy alta</i></b></td></tr>
-<tr><td>Buscar sus deudas pendientes</td>
+<tr><td>Consultar deudas pendientes</td>
 <td><b><i>Alta</i></b></td>
 <td><b><i>Medio</i></b></td>
 <td><b><i>Siempre</i></b></td>
 <td><b><i>Alta</i></b></td>
 </tr>
-<tr><td>Seleccionar sobre la opción gestión de
-deudas o gastos personales
-</td>
+<tr><td>Elegir opción entre gestión de deudas o gastos personales </td>
 <td><b><i>Alta</i></b></td>
 <td><b><i>Alta</i></b></td>
 <td><b><i>A menudo</i></b></td>
 <td><b><i>Alta</i></b></td>
 </tr>
-<tr><td>Chat online con un asesor</td>
+<tr><td>Interactuar con un asesor financiero online</td>
 <td><b><i>Casi nunca</i></b></td>
 <td><b><i>Baja</i></b></td>
 <td><b><i>Casi nunca</i></b></td>
 <td><b><i>Baja</i></b></td>
+</tr>
+<tr><td>Seleccionar servicios</td>
+<td><b><i>Alta</i></b></td>
+<td><b><i>Alta</i></b></td>
+<td><b><i>A menudo</i></b></td>
+<td><b><i>Alta</i></b></td>
+</tr>
+<tr><td>Explorar artículos</td>
+<td><b><i>A menudo</i></b></td>
+<td><b><i>Alta</i></b></td>
+<td><b><i>A menudo</i></b></td>
+<td><b><i>Alta</i></b></td>
 </tr>
 </table>
 
