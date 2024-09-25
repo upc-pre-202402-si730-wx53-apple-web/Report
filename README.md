@@ -218,9 +218,9 @@ forma conjunta</b></td>
       <td>
         <p><b>Medina Chocce, Dianeth Karito  </b></p>
         <p><b>TB1:</b></p>
-        <p> ...</p>
+        <p>En el TB1, colaboré con mi equipo para analizar a nuestros competidores, redactando un informe que detalla sus estrategias y tácticas. Además, realicé entrevistas y llevé a cabo un impact mapping, lo que nos permitió tener una visión más clara del mercado y fortalecer nuestro enfoque conjunto. Esta experiencia me ayudó a ejercer liderazgo y guiar al equipo en la toma de decisiones informadas.</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>En el TP1, me enfoqué en corregir el reporte y desarrollar el frontend para la gestión de usuarios, específicamente en la carga de registro y perfil. Durante esta etapa, asumí un rol activo para coordinar tareas y guiar al equipo en la implementación de soluciones, lo que contribuyó a un trabajo conjunto efectivo y a la consecución de nuestros objetivos comunes.</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
@@ -286,9 +286,9 @@ objetivostd>
       <td>
         <p><b>Medina Chocce, Dianeth Karito</b></p>
         <p><b>TB1:</b></p>
-        <p>...</p>
+        <p>En el TB1, trabajé en un análisis detallado de nuestros competidores, donde redacté un informe sobre sus estrategias y tácticas, realicé entrevistas y llevé a cabo un impact mapping. Este proceso no solo facilitó la colaboración entre los miembros del equipo, sino que también nos permitió establecer metas claras y planificar nuestras acciones de manera efectiva, creando un ambiente inclusivo que fomentó la participación de todos.</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>En el TP1, realicé correcciones al reporte y trabajé en el desarrollo del frontend para la gestión de usuarios, específicamente en la carga de registro y perfil. A través de una planificación cuidadosa y el establecimiento de metas claras, promoví un ambiente inclusivo donde cada miembro del equipo pudo aportar y colaborar, asegurando que alcanzáramos nuestros objetivos de manera efectiva.</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
