@@ -237,7 +237,11 @@ Criterio: Capacidad de funcionar efectivamente en un equipo cuyos miembros junto
         <p>Capítulo IV: Product Design y User Stories <br>Coordiné y realicé la reunión inicial del proyecto, explicando claramente los objetivos y el plan de trabajo. Cree diferentes reuniones para clarificar los roles de cada integrante del equipo.      
         </p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>He planificado las actividades del
+equipo, incluyendo la asignación de
+presentaciones y tareas para la segunda fase
+del proyecto, con el fin de lograr los
+objetivos establecidos para este entregable.</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
@@ -298,7 +302,7 @@ Criterio: Capacidad de funcionar efectivamente en un equipo cuyos miembros junto
         <p>Capítulo IV: Product Design y User Stories <br>Cree repositorios para almacenar nuestro informe con un registro de versiones constante, además de comenzar un registro de los puntos que nos falta completar.
         </p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>Cree el repositorio base para el desarrollo del Frontend, generando una plantilla y ramas base para que el equipo pueda empezar a realizar su trabajo.</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
