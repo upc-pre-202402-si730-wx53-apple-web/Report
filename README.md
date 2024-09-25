@@ -314,9 +314,9 @@ objetivostd>
         <p>.</p>
         <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
        <p><b>TB1:</b></p>
-        <p>...</p>
+        <p>Realicé todo el Capítulo I, para el Capítulo 2 hice el Ubiquitous Language y para el Capítulo 4 hice el Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tag, Searching Systems y Navigation Systems. También realicé la presentación del Canvas</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>Para el tp1 hice la parte de Messaging del Front-end y el Register del usuario, también agregué a los User Stories los Technical Stories.</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
