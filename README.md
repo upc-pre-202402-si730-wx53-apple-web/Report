@@ -282,7 +282,7 @@ objetivos establecidos para este entregable.</p>
       <td>Crea un entorno colaborativo e
 inclusivo, establece metas,
 planifica tareas y cumple
-objetivostd>
+objetivos</td>
       <td>
         <p><b>Medina Chocce, Dianeth Karito</b></p>
         <p><b>TB1:</b></p>
