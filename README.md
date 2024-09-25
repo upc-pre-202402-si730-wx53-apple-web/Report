@@ -212,9 +212,7 @@ Criterio: Capacidad de funcionar efectivamente en un equipo cuyos miembros junto
     </thead>
   <tbody>
     <tr>
-      <td><b>Trabaja en equipo para
-proporcionar liderazgo en
-forma conjunta</b></td>
+      <td><b>Trabaja en equipo para proporcionar liderazgo en forma conjunta</b></td>
       <td>
         <p><b>Medina Chocce, Dianeth Karito  </b></p>
         <p><b>TB1:</b></p>
@@ -255,7 +253,7 @@ forma conjunta</b></td>
         <p>.</p>
         <p><b>Durán Santander, Emilia Mercedes.</b></p>
        <p><b>TB1:</b></p>
-        <p>...</p>
+        <p>Realicé el capítulo III: Requirements Specification, en concreto el To-Be Scenario, User Stories y Product Backlog, así cómo también los As-Is Scenarios y Sprint Backlog para esta entrega. Apoyé a mis compañeros y pedí su ayuda en distintas secciones del informe.</p>
         <p><b>TP1:</b></p>
         <p>.</p>
         <p><b>TB2:</b></p>
@@ -275,10 +273,7 @@ forma conjunta</b></td>
       </td>
     </tr>
     <tr>
-      <td>Crea un entorno colaborativo e
-inclusivo, establece metas,
-planifica tareas y cumple
-objetivostd>
+      <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</td>
       <td>
         <p><b>Medina Chocce, Dianeth Karito</b></p>
         <p><b>TB1:</b></p>
@@ -319,7 +314,7 @@ objetivostd>
         <p>.</p>
         <p><b>Durán Santander, Emilia Mercedes</b></p>
        <p><b>TB1:</b></p>
-        <p>...</p>
+        <p>Realicé el capítulo III: Requirements Specification, detallado en el punto anterior. En reuniones de proyecto, dividí lo restante del proyecto en equipos para poder llegar a las metas establecidas anteriormente. </p>
         <p><b>TP1:</b></p>
         <p>.</p>
         <p><b>TB2:</b></p>
