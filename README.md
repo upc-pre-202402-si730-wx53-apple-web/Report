@@ -2515,9 +2515,134 @@ Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Lan
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
+Durante este Sprint, completamos la implementación de la Landing Page de DebtGo, enfocándonos en un diseño atractivo y responsivo que mejora la experiencia del usuario. A continuación, se muestran capturas de las principales vistas que ilustra la visualización y navegación logradas.
+
+Hero y navbar
+<img src="./assets/Chapter-5/landing1.png"/>
+
+Sección para el segmento 1
+<img src="./assets/Chapter-5/landing2.png"/>
+
+Sección para el segmento 2
+<img src="./assets/Chapter-5/landing3.png"/>
+
+Sección sobre comentarios de nuestros usuarios
+<img src="./assets/Chapter-5/landing4.png"/>
+
+Sección para contactar con nosotros
+<img src="./assets/Chapter-5/landing5.png"/>
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+No se implementaron servicios en este sprint 1
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Para realizar el despliegue de la Landing Page se realizaron lo siguientes pasos:
+
+- 1: Hacer merges de las ramas *feature* en la rama *develop* y finalmente merge en la rama *main*
+<img src="./assets/Chapter-5/sprint1-evidencia1.png"/>
+
+- 2: Ir a la configuración del repositorio, luego a la seccion *Pages* y seleccionar la rama *main* para el despliegue
+<img src="./assets/Chapter-5/sprint1-evidencia2.png"/>
+
+[Link Landing Page:](https://upc-pre-202402-si730-wx53-apple-web.github.io/Landing-Page/) https://upc-pre-202402-si730-wx53-apple-web.github.io/Landing-Page/ 
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+<img src="./assets/Chapter-5/sprint1-insights1.png"/>
+
+<img src="./assets/Chapter-5/sprint1-insights2.png"/>
+
+<img src="./assets/Chapter-5/sprint1-insights3.png"/>
+
+### 5.2.2. Sprint 2
+Para este Sprint nos enfocaremos desarrollar una primera version del Frontend.
+
+#### 5.2.2.1. Sprint Planning 2
+| Sprint # | Sprint 2 |
+| -------- | -------- |
+|**Sprint Planning Background**|
+| Date | 2024-09-18|
+| Time | 09:00 PM |
+| Location | Meet Virtual Meeting |
+| Prepared By | Emilia Duran |
+|Attendees (to planning meeting) | Camila Sanchez, Gianfranco Durand, Daniel Chávarri , Karito Medina, Emilia Duran
+| Sprint n – 1 Review Summary | Se logro completar la landing page |
+| Sprint n – 1 Retrospective Summary | Se tuvo que manejar mejor los tiempos para evitar inconvenientes en la entrega |
+| **Sprint Goal & User Stories** | 
+| Sprint 1 Goal | Realizar una primera version del Frontend. |
+| Sprint 1 Velocity | 20 |
+| Sum of Story Points | 20 | 
+
+#### 5.2.2.2. Sprint Backlog 2
+<table>
+    <thead>
+        <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Description</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do/In-Process/To-Review/Done)</td>
+        </tr>
+        <tr>
+            <td>US08</td>
+            <td>Registro en aplicación</td>
+            <td>UT06</td>
+            <td>Formulario de registro</td>
+            <td>Mostrar y redirigir al formulario de registro para nuevos usuarios desde la landing page.</td>
+            <td>2</td>
+            <td>Gianfranco Durand</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US020</td>
+            <td>Sistema de mensajes y casos</td>
+            <td>UT10</td>
+            <td>Mensajes entre usuarios</td>
+            <td>Desarrollar sistema de mensajería para consultas entre usuarios.</td>
+            <td>3</td>
+            <td>Daniel Chávarri</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US020</td>
+            <td>Sistema de mensajes y casos</td>
+            <td>UT11</td>
+            <td>Implementación de toolbar</td>
+            <td>Crear la barra de herramientas (toolbar) para la navegación del sistema.</td>
+            <td>1</td>
+            <td>Camila Sanchez</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Frontend-Web-Applications
+
+| Branch | Commit Id | Commit Message | Commited on (Date) |
+| ------ | --------- | -------------- | ------------------ |
+| feature/fake-api | 5c5d7931 | feat: add id to db.json, update route |21/09/24|   
+| feature/iam | 9c4d9322 | feat: add user model |21/09/24|   
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 ### 5.3.2. Registro de Entrevistas
