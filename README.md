@@ -199,7 +199,147 @@ Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los pu
 [Anexos](#anexos)
 
 # Student Outcome
+ABET – EAC - Student Outcome 5
 
+Criterio: Capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crear un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. 
+
+<table>
+  <tr>
+    <td><b>Criterio específico</b></td>
+    <td><b>Acciones realizadas</b></td>
+    <td><b>Conclusiones</b></td>
+  </tr>
+    </thead>
+  <tbody>
+    <tr>
+      <td><b>Trabaja en equipo para
+proporcionar liderazgo en
+forma conjunta</b></td>
+      <td>
+        <p><b>Medina Chocce, Dianeth Karito  </b></p>
+        <p><b>TB1:</b></p>
+        <p> ...</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Sanchez Rios, Camila Cristina</b></p>
+       <p><b>TB1:</b></p>
+        <p>Realicé el Capítulo II: Requirements Elicitation & Analysis; también realicé lo sieguiente del Capítulo IV: 4.1. Style Guidelines, General Style Guidelines, Web Style Guidelines, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Durand Vera, Gianfranco Angel</b></p>
+        <p><b>TB1:</b></p>
+        <p>Capítulo IV: Product Design y User Stories <br>Coordiné y realicé la reunión inicial del proyecto, explicando claramente los objetivos y el plan de trabajo. Cree diferentes reuniones para clarificar los roles de cada integrante del equipo.      
+        </p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
+       <p><b>TB1:</b></p>
+        <p>...</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Durán Santander, Emilia Mercedes.</b></p>
+       <p><b>TB1:</b></p>
+        <p>...</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+      </td>
+      <td>
+        <p><strong>TB1:</strong></p>
+        <p>En conclusión, en esta primera entrega se logró una buena comunicación entre los miembros del equipo. Cada participante estuvo activo y presento sus ideas de manera que todos pudieran entenderse entre sí. Concluimos que aún hay pequeñas dificultades para expresarnos con todos, pero que se puede solucionar con tiempo.</p>
+        <p><strong>TP1:</strong></p>
+        <p>En resumen, .</p>
+        <p><strong>TB2:</strong></p>
+        <p>En conclusión, </p>
+        <p><strong>TF:</strong></p>
+        <p>En conclusión, .</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Crea un entorno colaborativo e
+inclusivo, establece metas,
+planifica tareas y cumple
+objetivostd>
+      <td>
+        <p><b>Medina Chocce, Dianeth Karito</b></p>
+        <p><b>TB1:</b></p>
+        <p>...</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Sanchez Rios, Camila Cristina</b></p>
+       <p><b>TB1:</b></p>
+        <p>Realicé el Capítulo II: Requirements Elicitation & Analysis; también realicé lo sieguiente del Capítulo IV: 4.1. Style Guidelines, General Style Guidelines, Web Style Guidelines, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Durand Vera, Gianfranco Angel</b></p>
+        <p><b>TB1:</b></p>
+        <p>Capítulo IV: Product Design y User Stories <br>Cree repositorios para almacenar nuestro informe con un registro de versiones constante, además de comenzar un registro de los puntos que nos falta completar.
+        </p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
+       <p><b>TB1:</b></p>
+        <p>...</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Durán Santander, Emilia Mercedes</b></p>
+       <p><b>TB1:</b></p>
+        <p>...</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+      </td>
+       <td>
+        <p><strong>TB1:</strong></p>
+        <p>Se participó equitativamente el informe. En conclusión, estamos en camino para desempeñarnos de manera equitativa en el trabajo.</p>
+        <p><strong>TP1:</strong></p>
+        <p>En resumen, .</p>
+        <p><strong>TB2:</strong></p>
+        <p>En conclusión, </p>
+        <p><strong>TF:</strong></p>
+        <p>En conclusión, .</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
