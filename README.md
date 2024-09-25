@@ -532,6 +532,89 @@ Para realizar el despliegue de la Landing Page se realizaron lo siguientes pasos
 
 <img src="./assets/Chapter-5/sprint1-insights3.png"/>
 
+### 5.2.2. Sprint 2
+Para este Sprint nos enfocaremos desarrollar una primera version del Frontend.
+
+#### 5.2.2.1. Sprint Planning 2
+| Sprint # | Sprint 2 |
+| -------- | -------- |
+|**Sprint Planning Background**|
+| Date | 2024-09-18|
+| Time | 09:00 PM |
+| Location | Meet Virtual Meeting |
+| Prepared By | Emilia Duran |
+|Attendees (to planning meeting) | Camila Sanchez, Gianfranco Durand, Daniel Chávarri , Karito Medina, Emilia Duran
+| Sprint n – 1 Review Summary | Se logro completar la landing page |
+| Sprint n – 1 Retrospective Summary | Se tuvo que manejar mejor los tiempos para evitar inconvenientes en la entrega |
+| **Sprint Goal & User Stories** | 
+| Sprint 1 Goal | Realizar una primera version del Frontend. |
+| Sprint 1 Velocity | 20 |
+| Sum of Story Points | 20 | 
+
+#### 5.2.2.2. Sprint Backlog 2
+<table>
+    <thead>
+        <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Description</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do/In-Process/To-Review/Done)</td>
+        </tr>
+        <tr>
+            <td>US08</td>
+            <td>Registro en aplicación</td>
+            <td>UT06</td>
+            <td>Formulario de registro</td>
+            <td>Mostrar y redirigir al formulario de registro para nuevos usuarios desde la landing page.</td>
+            <td>2</td>
+            <td>Gianfranco Durand</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US020</td>
+            <td>Sistema de mensajes y casos</td>
+            <td>UT10</td>
+            <td>Mensajes entre usuarios</td>
+            <td>Desarrollar sistema de mensajería para consultas entre usuarios.</td>
+            <td>3</td>
+            <td>Daniel Chávarri</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US020</td>
+            <td>Sistema de mensajes y casos</td>
+            <td>UT11</td>
+            <td>Implementación de toolbar</td>
+            <td>Crear la barra de herramientas (toolbar) para la navegación del sistema.</td>
+            <td>1</td>
+            <td>Camila Sanchez</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 ### 5.3.2. Registro de Entrevistas
