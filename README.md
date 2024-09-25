@@ -1118,9 +1118,10 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 
 ### USER STORIES
 
-| Story ID | Titulo | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+| Story ID | Titulo | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) | 
 |---|---|------|------|---|
-|US01|Demostración de la aplicación|**Como** visitante, **deseo** ver una demostración de la aplicación **para** entender rápidamente lo que ofrece | **Dado que** el visitante se encuentra en el landing page, **cuando** navega a la sección About-the-Product **entonces** encuentra un video informativo del producto | EP01|
+|US01|Demostración de la aplicación|**Como** visitante, **deseo** ver una demostración de la aplicación **para** entender rápidamente lo que ofrece|**Dado que** el visitante se encuentra en el landing page **Cuando** navega a la sección About-the-Product **Entonces** encuentra un video informativo del producto|EP01| 
+|TS01|Endpoint para video de demostración|**Como** developer, **deseo** implementar un endpoint en el RESTful API que gestione la entrega del video de demostración **para** la sección About-the-Product|Escenario 1: Successful video request <br> **Dado que** el visitante realiza un GET request al endpoint /api/demo-video **cuando** el request es exitoso **entonces** el API devuelve un response con status 200 OK y el link del video en formato compatible (.mp4) <br>Escenario 2: Video no encontrado <br>**Dado que** el visitante realiza un GET request al endpoint /api/demo-video **cuando** el video no está disponible **entonces** el API devuelve un response con status 404 Not Found|EP01|
 |US02|Reseñas de la aplicación|**Como** visitante, **deseo** visualizar reseñas de la aplicación **para** decidir si quiero utilizarla|**Dado que** el visitante se encuentra en el landing page **cuando** navega a la sección Reviews **entonces** visualiza las reseñas realizadas por usuarios|EP01|
 |US03|Planes de la aplicación |**Como** visitante, **deseo** visualizar los planes de suscripción **para** decidir el más adecuado a mis necesidades|**Dado que** el visitante se encuentra en el landing page **cuando** navega a la sección Plans **entonces** visualiza de modo comparativo los planes de suscripción|EP01|
 |US04|Soporte de la aplicación|**Como** visitante, **deseo** poder contactarme con equipo de soporte **para** resolver cualquier duda o acceder a información adicional|**Dado que** el visitante se encuentra en el landing page **cuando** navega a la sección Contact **entonces** ingresa su correo para recibir mayor información|EP01|
@@ -1154,6 +1155,481 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 |US32|Talleres gratuitos|**Como** consultor financiero, **deseo** otorgar talleres financieras gratuitos **para** atraer a posibles clientes|**Dado que** el consultor financiero desea proveer el servicio de talleres gratuitos **cuando** ingresa a su perfil de consultor **entonces** agrega el servicio "Talleres Gratuitos"|EP07|
 |US33|Seguimiento de Ingresos y Gastos|**Como** emprendedor, **deseo** una herramienta que me permita rastrear mis ingresos y gastos de manera eficiente, **para** tener una visión clara de mi situación financiera y poder tomar decisiones informadas|**Dado que** el emprendedor quiere hacer seguimiento a sus gastos, **cuando** ingresa a la sección Herramienta y a Tracker, **entonces** utiliza la herramienta para ingresar entradas y salidas de dinero|EP07|
 |US34|Creación de presupuestos|**Como** emprendedor, **deseo** poder crear presupuestos personalizados basados en mis ingresos y gastos, **para** administrar mejor mi dinero y evitar el endeudamiento excesivo|**Dado que** el emprendedor tiene subscripción premium **cuando** utiliz la aplicación por más de un mes **entonces** visualiza planes de presupuesto|EP07|
+
+### Technical Stories
+
+#### US01 - Demostración de la aplicación
+**Technical Story:** Endpoint para video de demostración
+
+**Como** Developer
+**Deseo** implementar un endpoint en el RESTful API que gestione la entrega del video de demostración 
+**Para** la sección About-the-Product.
+
+- **Scenario 1:** Successful video request
+  - **Given** el visitante realiza un GET request al endpoint /api/demo-video
+  - **When** el request es exitoso
+  - **Then** el API devuelve un response con status 200 OK y el link del video en formato compatible (.mp4).
+- **Scenario 2:** Video not found
+  - **Given** el visitante realiza un GET request al endpoint /api/demo-video
+  - **When** el video no está disponible
+Then el API devuelve un response con status 404 Not Found.
+
+#### US02 - Reseñas de la aplicación
+**Technical Story:** Endpoint para obtener reseñas de usuarios
+
+**Como** Developer
+**Deseo** crear un endpoint 
+**Para** obtener las reseñas de los usuarios y mostrarlas en la sección Reviews de la aplicación.
+
+- **Scenario 1:** Fetch reviews successfully
+  - **Given** el visitante realiza un GET request al endpoint /api/reviews
+  - **When** el request es exitoso
+  - **Then** el API devuelve un response con status 200 OK y una lista de reseñas en formato JSON.
+- **Scenario 2:** No reviews available
+  - **Given** el visitante realiza un GET request al endpoint /api/reviews
+  - **When** no existen reseñas en la base de datos
+  - **Then** el API devuelve un response con status 204 No Content.
+
+
+#### US03 - Planes de la aplicación
+**Technical Story:**  Endpoint para obtener planes de suscripción
+
+**Como** Developer
+**Deseo** implementar un endpoint 
+**Para** gestionar la entrega de los planes de suscripción.
+
+
+- **Scenario 1:** Fetch subscription plans successfully
+  - **Given** el visitante realiza un GET request al endpoint /api/plans
+  - **When** el request es exitoso
+  - **Then** el API devuelve un response con status 200 OK y una lista de planes de suscripción en formato JSON.
+- **Scenario 2:** No subscription plans available
+  - **Given** el visitante realiza un GET request al endpoint /api/plans
+  - **When** no existen planes de suscripción
+  - **Then** el API devuelve un response con status 204 No Content.
+
+#### US04 - Soporte de la aplicación
+**Technical Story:** Endpoint para solicitud de contacto con soporte
+
+**Como** Developer
+**Deseo** crear un endpoint 
+**Para** enviar las solicitudes de contacto al equipo de soporte.
+
+**Acceptance Criteria** (Formato Gherkin):
+- **Scenario 1:** Contact request sent successfully
+  - **Given** el visitante realiza un POST request al endpoint /api/contact con su correo electrónico
+  - **When** el request es válido
+  - **Then** el API devuelve un response con status 200 OK y un mensaje de confirmación de que el soporte ha sido notificado.
+- **Scenario 2:** Invalid email format
+  - **Given** el visitante realiza un POST request al endpoint /api/contact con un formato de correo inválido
+  - **When** el formato de correo es incorrecto
+  - **Then** el API devuelve un response con status 400 Bad Request y un mensaje de error especificando que el correo no es válido.
+
+#### US05 - Información de servicios
+**Technical Story:**  Endpoint para información de servicios ofrecidos
+
+**Como** Developer
+**Deseo** crear un endpoint 
+**Para** mostrar la información de los servicios financieros que pueden ofrecerse a través de la plataforma.
+- **Scenario 1:** Fetch services information successfully
+  - **Given** el visitante realiza un GET request al endpoint /api/services
+  - **When** el request es exitoso
+  - **Then** el API devuelve un response con status 200 OK y una lista de servicios en formato JSON.
+- **Scenario 2:** No services available
+  - **Given** el visitante realiza un GET request al endpoint /api/services
+  - **When** no existen servicios en la base de datos
+  - **Then** el API devuelve un response con status 204 No Content.
+
+#### US06 - Normas de privacidad
+**Technical Story:** Endpoint para normas de privacidad
+
+**Como** Developer
+**Deseo** implementar un endpoint 
+**Para** gestionar la entrega de las normas de privacidad.
+- **Scenario 1:** Fetch privacy policies successfully
+  - **Given** el visitante realiza un GET request al endpoint api/privacy-policies
+  - **When** el request es exitoso
+  - **Then** el API devuelve un response con status 200 OK y las normas de privacidad en formato JSON.
+- **Scenario 2:** Privacy policies not found
+  - **Given** el visitante realiza un GET request al endpoint api/privacy-policies
+  - **When** no existen normas de privacidad en la base de datos
+  - **Then** el API devuelve un response con status 404 Not Found.
+
+#### US07 - Pago por servicios
+**Technical Story:** Endpoint para obtener información del sistema de pago
+
+**Como** Developer
+**Deseo** implementar un endpoint 
+**Para** obtener la información del sistema de pago a consultores financieros.
+- **Scenario 1:** Fetch payment system information successfully
+  - **Given** el visitante realiza un GET request al endpoint /api/payment-system
+  - **When** el request es exitoso
+  - **Then** el API devuelve un response con status 200 OK y la información del sistema de pago en formato JSON.
+- **Scenario 2:** Payment system information not found
+  - **Given** el visitante realiza un GET request al endpoint /api/payment-system
+  - **When** no hay información del sistema de pago disponible
+  - **Then** el API devuelve un response con status 404 Not Found.
+
+#### US08 - Registro en aplicación
+**Technical Story:** Endpoint para registro de usuarios
+
+**Como** Developer
+**Deseo** implementar un endpoint 
+**Para** registrar nuevos usuarios, capturando su rol y la información de registro.
+- **Scenario 1:** User registration successful
+  - **Given** el visitante realiza un POST request al endpoint /api/register con su información de registro
+  - **When** el request es válido
+  - **Then** el API devuelve un response con status 201 Created y el usuario es registrado exitosamente.
+- **Scenario 2:** User registration fails due to missing data
+  - **Given** el visitante realiza un POST request al endpoint /api/register con información incompleta
+  - **When** falta información requerida
+  - **Then** el API devuelve un response con status 400 Bad Request especificando los campos faltantes.
+
+#### US09 - Creación de perfil - Consultor financiero
+**Technical Story:** Endpoint para creación de perfil de consultor financiero
+
+**Como** Developer
+**Deseo** crear un endpoint 
+**Para** permitir al consultor financiero ingresar su experiencia y otra información relevante para su perfil.
+- **Scenario 1:** Consultant profile created successfully
+  - **Given** el consultor realiza un POST request al endpoint /api/profile/consultant con su experiencia e información relevante
+  - **When** el request es válido
+  - **Then** el API devuelve un response con status 201 Created y el perfil del consultor se crea exitosamente.
+- **Scenario 2:** Consultant profile creation fails
+  - **Given** el consultor realiza un POST request al endpoint /api/profile/consultant
+  - **When** la información proporcionada es incompleta o incorrecta
+  - **Then** el API devuelve un response con status 400 Bad Request indicando los errores.
+
+#### US10 - Creación de perfil - Emprendedor
+**Technical Story:** Endpoint para creación de perfil de emprendedor
+
+**Como** Developer
+**Deseo** crear un endpoint 
+**Para** permitir al emprendedor registrar su emprendimiento y necesidades para crear su perfil.
+- **Scenario 1:** Entrepreneur profile created successfully
+  - **Given** el emprendedor realiza un POST request al endpoint /api/profile/entrepreneur con la información de su emprendimiento
+  - **When** el request es válido
+  - **Then** el API devuelve un response con status 201 Created y el perfil del emprendedor se crea exitosamente.
+- **Scenario 2:** Entrepreneur profile creation fails
+  - **Given** el emprendedor realiza un POST request al endpoint /api/profile/entrepreneur
+  - **When** la información proporcionada es incompleta o incorrecta
+  - **Then** el API devuelve un response con status 400 Bad Request indicando los errores.
+
+#### US11: Elección y actualización de plan
+**Technical Story:** Gestión de Planes de Suscripción
+
+**Como** Developer
+**Deseo** implementar la funcionalidad 
+**Para** que los emprendedores puedan elegir o modificar su plan de suscripción mediante la API REST, asegurando la correcta validación y actualización de datos.
+- **Scenario 1:** Ingreso de un nuevo plan de suscripción
+  - **Given** que el usuario está autenticado con rol de emprendedor,
+  - **When** envía una solicitud POST /subscription con los datos del plan,
+  - **Then** la API debe registrar el nuevo plan asociado al user_id del emprendedor,
+  - **And** devolver un código de estado 201 con el mensaje "Plan registrado exitosamente".
+- **Scenario 2:** Modificación de un plan existente
+  - **Given** que el emprendedor está autenticado,
+  - **When** envía una solicitud PUT /subscription con los datos actualizados,
+  - **Then** la API debe actualizar los detalles del plan asociado al user_id,
+  - **And** devolver un código de estado 200 con el mensaje "Plan actualizado exitosamente".
+
+#### US12: Elección de pagos por servicios
+**Technical Story:** Gestión de Métodos de Pago
+
+**Como** Developer
+**Deseo** implementar la funcionalidad 
+**Para** que los consultores puedan registrar y modificar sus métodos de pago mediante la API REST, asegurando la correcta validación y cifrado de los datos.
+- **Scenario 1:** Ingreso de un nuevo método de pago
+  - **Given** que el usuario está autenticado como consultor,
+  - **When** envía una solicitud POST /payment-method con los detalles del método de pago (número de tarjeta, vencimiento, etc.),
+  - **Then** la API debe registrar el método de pago asociado al user_id del consultor,
+  - **And** devolver un código de estado 201 con el mensaje "Método de pago registrado exitosamente".
+- **Scenario 2:** Modificación de un método de pago existente
+  - **Given** que el consultor está autenticado,
+  - **When** envía una solicitud PUT /payment-method con los datos actualizados del método de pago,
+  - **Then** la API debe actualizar los detalles del método de pago existente,
+  - **And** devolver un código de estado 200 con el mensaje "Método de pago actualizado exitosamente".
+
+#### US13: Búsqueda de consultores
+**Technical Story:** Búsqueda y Filtrado de Consultores
+
+**Como** Developer
+**Deseo** implementar la funcionalidad de búsqueda de consultores en la API, 
+**Para** filtrar los resultados por su rubro de experiencia.
+- **Scenario 1:** Búsqueda de consultores por rubro de experiencia
+  - **Given** que el emprendedor está autenticado,
+  - **When** envía una solicitud GET /consultants?experience={rubro},
+  - **Then** la API debe devolver una lista de consultores que coinciden con el rubro especificado,
+  - **And** devolver un código de estado 200 con los resultados filtrados.
+- **Scenario 2:** No hay consultores que coincidan con el filtro
+  - **Given** que el emprendedor está autenticado,
+  - **When** envía una solicitud GET /consultants?experience={rubro} con un rubro inexistente,
+  - **Then** la API debe devolver un código de estado 404 con el mensaje "No se encontraron consultores".
+
+#### US14: Lista de servicios guardados
+**Technical Story:** Gestión de Lista de Servicios Guardados
+
+**Como** Developer
+**Deseo** implementar la funcionalidad de agregar y visualizar servicios guardados por el emprendedor en la API REST, 
+**Para** asegurar que solo el usuario pueda acceder a su lista privada.
+- **Scenario 1:** Agregar un servicio a la lista de servicios guardados
+  - **Given** que el emprendedor está autenticado,
+  - **When** envía una solicitud POST /saved-services con el service_id,
+  - **Then** la API debe agregar el servicio a la lista privada del emprendedor,
+  - **And** devolver un código de estado 201 con el mensaje "Servicio guardado exitosamente".
+
+- **Scenario 2:** Visualizar lista de servicios guardados
+  - **Given** que el emprendedor está autenticado,
+  - **When** envía una solicitud GET /saved-services,
+  - **Then** la API debe devolver la lista de servicios guardados por el usuario,
+  - **And** devolver un código de estado 200 con los resultados.
+
+#### US15: Publicación de servicios
+**Technical Story:** Publicación de servicios en RESTful API
+**Como** Developer
+**Deseo** implementar un endpoint que permita a los consultores financieros publicar y editar sus servicios en el sistema
+**Para** que los consultores puedan ofrecer varias opciones según las necesidades del cliente.
+- **Scenario 1:** Publicación de un nuevo servicio
+  - **Given** el consultor financiero ha ingresado a su perfil
+  - **When** envía una solicitud POST al endpoint /api/services con los detalles del servicio
+  - **Then** el sistema debe almacenar los detalles del servicio en la base de datos y devolver un código 201 con la información del servicio publicado.
+- **Scenario 2:** Modificación de un servicio existente
+  - **Given** el consultor financiero ha ingresado a su perfil
+  - **When** envía una solicitud PUT al endpoint /api/services/{serviceId} con los detalles actualizados
+  - **Then** el sistema debe actualizar los detalles del servicio en la base de datos y devolver un código 200 con la información actualizada.
+
+#### US16: Establecimiento de horario
+**Technical Story:** Establecimiento de horario en RESTful API
+**Como** Developer
+**Deseo** crear un endpoint que permita a los consultores financieros configurar sus horarios laborales
+**Para** que puedan establecer sus horas de trabajo y no recibir notificaciones fuera de esas horas.
+- **Scenario 1:** Configuración inicial de horario laboral
+  - **Given** el consultor financiero está en su perfil
+  - **When** envía una solicitud POST al endpoint /api/work-schedule con los detalles de su horario
+  - **Then** el sistema debe guardar el horario laboral en la base de datos y devolver un código 201 con la confirmación del horario registrado.
+- **Scenario 2:** Actualización del horario laboral
+  - **Given** el consultor financiero necesita modificar su horario
+  - **When** envía una solicitud PUT al endpoint /api/work-schedule/{consultantId} con el nuevo horario
+  - **Then** el sistema debe actualizar el horario en la base de datos y devolver un código 200 con la confirmación del horario actualizado.
+
+#### US17: Inicio de caso
+**Technical Story:** Inicio de caso en RESTful API
+**Como** Developer
+**Deseo** implementar un endpoint que permita a los emprendedores iniciar casos con los consultores financieros
+**Para** que puedan recibir asesoramiento personalizado para acceder a préstamos.
+- **Scenario 1:** Creación de un nuevo caso
+  - **Given** el emprendedor ha seleccionado un consultor
+  - **When** envía una solicitud POST al endpoint /api/cases con los detalles del caso
+  - **Then** el sistema debe crear el caso en la base de datos y devolver un código 201 con la información del caso creado.
+- **Scenario 2:** Visualización del caso creado
+  - **Given** el emprendedor quiere ver los detalles del caso
+  - **When** envía una solicitud GET al endpoint /api/cases/{caseId}
+  - **Then** el sistema debe devolver la información del caso con un código 200.
+
+#### US18: Aceptación de caso
+**Technical Story:** Aceptación de caso en RESTful API
+**Como** Developer
+**Deseo** implementar un endpoint que permita a los consultores financieros aceptar o rechazar los casos iniciados por los emprendedores
+**Para** que puedan entender las necesidades del cliente antes de aceptar el caso.
+Acceptance Criteria
+- **Scenario 1:** Aceptación del caso
+  - **Given** el consultor financiero revisa un nuevo caso
+  - **When** envía una solicitud PUT al endpoint /api/cases/{caseId}/accept
+  - **Then** el sistema debe actualizar el estado del caso a "aceptado" en la base de datos y devolver un código 200 con la confirmación.
+- **Scenario 2:** Rechazo del caso
+  - **Given** el consultor financiero revisa un nuevo caso
+  - **When** envía una solicitud PUT al endpoint /api/cases/{caseId}/reject
+  - **Then** el sistema debe actualizar el estado del caso a "rechazado" en la base de datos y devolver un código 200 con la confirmación.
+
+#### US19: Visualización de servicios
+**Technical Story:** Visualización de servicios en RESTful API
+**Como** Developer
+**Deseo** implementar un endpoint que permita a los consultores visualizar los servicios publicados por otros consultores
+**Para** que puedan comparar sus servicios con los de los demás.
+- **Scenario:** Visualización de servicios
+  - **Given** el consultor financiero accede a la sección de servicios
+  - **When** envía una solicitud GET al endpoint /api/services
+  - **Then** el sistema debe devolver una lista de servicios de otros consultores con un código 200.
+
+#### US20: Sistema de mensajes y casos
+**Technical Story:** Sistema de mensajes en RESTful API
+**Como** Developer
+**Deseo** crear endpoints que permita enviar y recibir mensajes entre consultores y emprendedores
+**Para** que puedan comunicarse directamente a través de la aplicación.
+- **Scenario 1:** Enviar mensaje
+  - **Given** el consultor financiero necesita comunicarse con un emprendedor
+  - **When** envía una solicitud POST al endpoint /api/messages con los detalles del mensaje
+  - **Then** el sistema debe guardar el mensaje en la base de datos y devolver un código 201 con la confirmación.
+- **Scenario 2:** Visualización de mensajes
+  - **Given** el consultor financiero necesita revisar sus mensajes
+  - **When** envía una solicitud GET al endpoint /api/messages?consultantId={id}
+  - **Then** el sistema debe devolver una lista de mensajes relacionados con el consultor con un código 200.
+
+#### US21: Historial de casos
+**Technical Story:** Historial de casos en RESTful API
+**Como** Developer
+**Deseo** implementar un endpoint que permita a los consultores visualizar el historial de casos y mensajes
+**Para** que puedan dar seguimiento a sus interacciones con los emprendedores.
+- **Scenario:** Visualización del historial de casos
+  - **Given** el consultor financiero necesita revisar su historial de casos
+  - **When** envía una solicitud GET al endpoint /api/cases/history?consultantId={id}
+  - **Then** el sistema debe devolver una lista de casos anteriores con un código 200.
+
+#### US22: Envío de documentos adjuntos
+**Technical Story:** Envío de documentos adjuntos en RESTful API
+**Como** Developer
+**Deseo** crear un endpoint que permita a los consultores enviar documentos adjuntos a través de la plataforma
+**Para** que puedan proporcionar información adicional a sus clientes.
+- **Scenario:** Envío de documento
+  - **Given** el consultor financiero necesita enviar un documento a un cliente
+  - **When** envía una solicitud POST al endpoint /api/documents con el archivo adjunto
+  - **Then** el sistema debe guardar el documento y devolver un código 201 con la confirmación del envío.
+
+#### US23 - Actualizaciones de solicitudes
+**Technical Story:** Implementación de endpoint para notificaciones de actualizaciones
+**Como** Developer
+**Deseo** implementar un endpoint en la API 
+**Para** enviar notificaciones de actualizaciones de solicitudes cuando el consultor responde.
+- **Scenario:** Enviar notificación de actualización de solicitud
+  - **Given** el consultor responde a una solicitud
+  - **When** la respuesta es almacenada en la base de datos
+  - **Then** se envía una notificación al emprendedor asociado a la solicitud
+  - **And** el emprendedor recibe el mensaje de actualización.
+
+#### US24 - Alertas de fechas importantes
+**Technical Story:**  Endpoint para envío de alertas de fechas importantes
+
+**Como** Developer
+**Deseo** crear un endpoint 
+**Para** que gestione el envío de alertas de fechas importantes cuando el plazo se acerque.
+**Scenario:** Enviar alerta por fecha límite cercana
+  - **Given** el emprendedor tiene una fecha límite asociada a una solicitud
+  **When** la fecha límite está a 3 días de distancia
+  **Then** el sistema envía una alerta de fecha al emprendedor
+  **And** el emprendedor recibe la notificación.
+
+#### US25 - Pedidos de reseñas
+**Technical Story:** Endpoint para solicitud de reseñas al cerrar un caso
+**Como** Developer
+**Deseo** implementar un endpoint
+**Para** que los consultores puedan solicitar reseñas al cerrar un caso.
+
+**Scenario:** Solicitar reseña tras cerrar un caso
+  - **Given** el consultor ha cerrado un caso
+  - **When** el caso se marca como "Cerrado" en la base de datos
+  - **Then** se envía una solicitud de reseña al emprendedor asociado
+  - **And** el consultor puede ver la reseña una vez completada.
+
+#### US26 - Reseñas de servicios realizados
+**Technical Story:**  Endpoint para envío y almacenamiento de reseñas
+**Como** Developer
+**Deseo** crear un endpoint que permita a  los emprendedores enviar y almacenar reseñas de los consultores tras el cierre de un caso o desde la sección de Casos Archivados.
+- **Scenario 1:** Enviar reseña tras cierre de caso
+  - **Given** el emprendedor ha aceptado la solución del caso
+  - **When** el caso se cierra
+  - **Then** el sistema muestra un formulario de reseña
+  - **And** el emprendedor envía su reseña sobre el consultor.
+- **Scenario 2:** Enviar reseña desde Casos Archivados
+  - **Given** el emprendedor tiene casos cerrados
+  - **When** ingresa a la sección Casos Archivados
+  - **Then** puede seleccionar un caso y hacer click en Dejar Reseña
+  - **And** el sistema permite enviar la reseña.
+
+#### US27 - Visualización de métricas propias.
+**Technical Story:** Endpoint para consulta de métricas del consultor
+
+**Como** Developer
+**Deseo** crear un endpoint 
+**Para** que los consultores puedan visualizar sus métricas de desempeño de los últimos 30 días.
+- **Scenario:** Consultar métricas del último mes
+  - **Given** el consultor ha trabajado por más de un mes
+  - **When** ingresa a la sección de Métricas en su perfil
+  - **Then** el sistema consulta y devuelve las métricas del último mes
+  - **And** las métricas son visibles en la interfaz del consultor.
+
+#### US28 - Terminación de contrato - consultor financiero
+**Technical Story:** Endpoint para terminación de contrato por parte del consultor
+**Como** Developer
+**Deseo** crear un endpoint 
+**Para** que los consultores puedan terminar el contrato cuando el cliente no siga las recomendaciones.
+- **Scenario:** Terminar contrato por incumplimiento
+  - **Given** el consultor ha enviado dos soluciones rechazadas
+  - **When** el consultor desea finalizar el contrato
+  - **Then** puede apelar al "Cancelamiento por Incumplimiento"
+  - **And** el contrato se termina en el sistema.
+
+#### US29 - Terminación de contrato - emprendedor
+**Technical Story:**  Endpoint para terminación de contrato por parte del emprendedor
+
+**Como** Developer
+**Deseo** implementar un endpoint 
+**Para** que los emprendedores puedan cancelar el contrato si el consultor no responde en más de 7 días.
+- **Scenario:** Cancelar contrato por falta de respuesta
+  - **Given** el emprendedor no ha recibido respuesta del consultor por 7 días
+  **When** ingresa a la sección "Más Opciones" del caso
+  **Then** puede seleccionar la opción de "Cancelamiento por Incumplimiento"
+  **And** el contrato se cancela en el sistema.
+
+#### US30 - Artículos financieros
+**Technical Story:** Endpoint para consulta y visualización de artículos financieros
+
+**Como** Developer
+**Deseo** crear un endpoint 
+**Para** poder consultar y visualizar artículos financieros relacionados cuando no hay casos activos.
+- **Scenario:** Visualizar artículos financieros relacionados
+  - **Given** el emprendedor no tiene casos activos
+  - **When** ingresa a la sección Explorar
+  - **Then** el sistema consulta artículos relacionados a su rubro
+  - **And** los artículos son visibles en la interfaz.
+
+#### US31 - Herramientas de simulación
+**Technical Story:** Endpoint para acceso a herramientas de simulación de pagos
+
+**Como** Developer, 
+**Deseo** crear un endpoint 
+**Para** que tenga el acceso a simuladores de pagos cuando el emprendedor tiene una suscripción premium.
+- **Scenario:** Acceso a simuladores de pagos
+  - **Given** el emprendedor tiene una suscripción premium
+  - **When** ingresa a la sección Herramientas
+  - **Then** puede acceder a los simuladores de pagos y cuotas
+  - **And** puede calcular los pagos de sus deudas.
+
+#### US32 - Resúmenes financieros
+**Technical Story:**  Endpoint para generación y envío de resúmenes financieros semanales
+
+**Como** Developer
+**Deseo** implementar un endpoint 
+**Para** que genere y envíe resúmenes financieros semanales a los emprendedores con casos activos.
+- **Scenario:** Enviar resumen semanal de casos activos
+  - **Given** el emprendedor tiene casos activos
+  - **When** comienza una nueva semana
+  - **Then** el sistema genera un resumen de los avances de sus casos
+  - **And** el resumen se envía al emprendedor.
+
+#### US33 - Seguimiento de Ingresos y Gastos
+**Technical Story:** Implementación de herramienta de seguimiento de ingresos y gastos
+
+**Como** Developer
+**Deseo** crear una herramienta dentro de la aplicación que permita a los emprendedores rastrear sus ingresos y gastos de manera eficiente
+**Para** que puedan gestionar sus finanzas.
+- **Scenario:** Rastreo de ingresos y gastos
+  - **Given** el emprendedor accede a la sección Herramienta
+  - **And** selecciona la opción Tracker
+  - **When** el emprendedor ingresa una nueva entrada o salida de dinero
+  - **Then** el sistema almacena la información financiera
+  - **And** el emprendedor puede visualizar un resumen de sus ingresos y gastos.
+
+#### US34 - Creación de presupuestos
+**Technical Story:** Creación de herramienta para generar presupuestos personalizados
+
+**Como** Developer
+**Deseo** implementar una herramienta que permita a los emprendedores con suscripción premium crear presupuestos personalizados basados en sus ingresos y gastos
+**Para** ayudarlos a administrar su dinero de manera efectiva.
+- **Scenario:** Crear presupuesto personalizado
+  - **Given** el emprendedor tiene una suscripción premium
+  - **And** ha utilizado la aplicación por más de un mes
+  - **When** accede a la herramienta de presupuestos
+  - **Then** el sistema genera planes de presupuesto basados en los datos de ingresos y gastos del emprendedor
+  - **And** el emprendedor puede ajustar los presupuestos según sus necesidades.
 
 ## 3.3. Impact Mapping
 
