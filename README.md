@@ -711,6 +711,24 @@ Al diseñar user flow diagrams, puedo identificar posibles puntos de fricción o
 ### 4.6.3. Software Architecture Components Diagrams
 <img src="assets/Chapter-4/component-diagram.png">
 
+#### Subscription BC
+<img src="assets/Chapter-4/subscription-bc.png">
+
+#### Consulting BC
+<img src="assets/Chapter-4/consulting-bc.png">
+
+#### Financial Education BC
+<img src="assets/Chapter-4/education-bc.png">
+
+#### User BC
+<img src="assets/Chapter-4/user-bc.png">
+
+#### Payment BC
+<img src="assets/Chapter-4/payment-bc.png">
+
+#### Notification BC
+<img src="assets/Chapter-4/notification-bc.png">
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 <img src="assets/Chapter-4/class-diagram.png">
