@@ -638,9 +638,29 @@ Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Fro
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 #### 5.2.2.5. Execution Evidence for Sprint Review
+- Login y register
+  
+- Pasarela de pagos
+  
+- Mi perfil
+  
+- My Workspace
+  
+- Mensaje
+
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+No se implementaron servicios en este sprint 2
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+Para realizar el despliegue del Frontend se realizaron lo siguientes pasos:
+1: Hacer merges de las ramas feature en la rama develop y finalmente merge en la rama main
+2: Ir a Netlify, seleccionar Add new site, seguidamente seleccionar Import an existing project
+3: Seleccionar el repositorio del Frontend
+4: Ingresar un nombre disponible para la página del frontend y seleccionar la rama main
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+
+<img src="./assets/Chapter-5/sprint2-insights5.png"/>
+<img src="./assets/Chapter-5/sprint2-insights4.png"/>
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
