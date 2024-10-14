@@ -393,6 +393,10 @@ Para este Sprint nos enfocaremos en los task para la elaboración de la landing 
 | Sum of Story Points | 20 | 
 
 #### 5.2.1.2. Sprint Backlog 1
+<img src="assets/Chapter-5/trello1.png">
+
+[Link Trello:](https://trello.com/b/cVhofK92/sprint-1) https://trello.com/b/cVhofK92/sprint-1
+
 <table>
     <thead>
         <tr>
@@ -421,7 +425,7 @@ Para este Sprint nos enfocaremos en los task para la elaboración de la landing 
             <td>UT01</td>
             <td>Mostrar planes</td>
             <td>Mostrar los planes de suscripción y sus descripciones</td>
-            <td>1</td>
+            <td>4</td>
             <td>Karito Medina</td>
             <td>Done</td>
         </tr>
@@ -431,7 +435,7 @@ Para este Sprint nos enfocaremos en los task para la elaboración de la landing 
             <td>UT02</td>
             <td>Mostrar reseñas</td>
             <td>Mostrar reseñas verificadas por segmento </td>
-            <td>1</td>
+            <td>4</td>
             <td>Camila Sanchez</td>
             <td>Done</td>
         </tr>
@@ -441,17 +445,17 @@ Para este Sprint nos enfocaremos en los task para la elaboración de la landing 
             <td>UT03</td>
             <td>Mostrar información</td>
             <td>Mostrar más información y beneficios</td>
-            <td>1</td>
+            <td>4</td>
             <td>Emilia Durán</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US04</td>
-            <td>Sporte de la aplicación</td>
+            <td>Soporte de la aplicación</td>
             <td>UT04</td>
             <td>Mostrar formulario de consultas</td>
             <td>Mostrar formulario para recibir consultas, con cuerpo de mensaje y correo para retornar respuesta</td>
-            <td>2</td>
+            <td>4</td>
             <td>Daniel Chávarri</td>
             <td>Done</td>
         </tr>
@@ -461,9 +465,9 @@ Para este Sprint nos enfocaremos en los task para la elaboración de la landing 
             <td>UT05</td>
             <td>Mostrar información de privacidad</td>
             <td>Mostrar información de seguridad, privacidad, y de tratamiento de datos</td>
-            <td>2</td>
+            <td>4</td>
             <td>Gianfranco Durand</td>
-            <td>In-Review</td>
+            <td>Done</td>
         </tr>
         <tr>
             <td>US08</td>
@@ -471,7 +475,7 @@ Para este Sprint nos enfocaremos en los task para la elaboración de la landing 
             <td>UT06</td>
             <td>Formulario de registro</td>
             <td>Mostrar y redirigir al formulario de registro para nuevos usuarios desde landing page.</td>
-            <td>2</td>
+            <td>4</td>
             <td>Gianfranco Durand</td>
             <td>Done</td>
         </tr>
@@ -479,7 +483,7 @@ Para este Sprint nos enfocaremos en los task para la elaboración de la landing 
 </table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review
-Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Landing-Page
+ [Link del repositorio:](https://github.com/upc-pre-202402-si730-wx53-apple-web/Landing-Page) https://github.com/upc-pre-202402-si730-wx53-apple-web/Landing-Page
 
 | Branch | Commit Id | Commit Message | Commited on (Date) |
 | ------ | ----------| -------------- | ------------------ |
@@ -493,6 +497,19 @@ Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Lan
 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+[Link del repositorio:](https://github.com/upc-pre-202402-si730-wx53-apple-web/acceptance-testing) https://github.com/upc-pre-202402-si730-wx53-apple-web/acceptance-testing
+
+
+| Branch | Commit Id | Commit Message             | Commited on (Date) |
+|--------|-----------|----------------------------|--------------------|
+| main   | 85b6471   | feat: add feature us08      | 13/10/24           |
+| main   | fc74b61   | feat: add feature us06      | 13/10/24           |
+| main   | 6d20901   | feat: add feature us05      | 13/10/24           |
+| main   | 159b90f   | feat: add feature us04      | 13/10/24           |
+| main   | 23733b8   | feat: add feature us03      | 13/10/24           |
+| main   | 21e8475   | feat: add feature us02      | 13/10/24           |
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 Durante este Sprint, completamos la implementación de la Landing Page de DebtGo, enfocándonos en un diseño atractivo y responsivo que mejora la experiencia del usuario. A continuación, se muestran capturas de las principales vistas que ilustra la visualización y navegación logradas.
 
@@ -552,6 +569,9 @@ Para este Sprint nos enfocaremos desarrollar una primera version del Frontend.
 | Sum of Story Points | 20 | 
 
 #### 5.2.2.2. Sprint Backlog 2
+<!-- TODO
+img link trello -->
+
 <table>
     <thead>
         <tr>
