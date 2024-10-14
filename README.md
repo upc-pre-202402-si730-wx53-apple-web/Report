@@ -97,6 +97,10 @@ Link del repositorio del reporte del TB1: https://github.com/upc-pre-202402-si73
 Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los puntos a elaborar para la entrega actual, correspondientes a los Capítulos I hasta el Capítulo V: Sprint 1. Quedando de la siguiente manera:
 - Imágen de las Contribuciones del equipo:
 
+TP:
+<img src="./assets/Chapter-1/tp-insights1.png">
+<img src="./assets/Chapter-1/tp-insights2.png">
+
 <p></p>
 <br><br>
 
