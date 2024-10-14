@@ -617,11 +617,88 @@ img link trello -->
         <tr>
             <td>US020</td>
             <td>Sistema de mensajes y casos</td>
-            <td>UT11</td>
-            <td>Implementación de toolbar</td>
+            <td>UT1
+            UT2
+            UT3</td>
+            <td>Implementación de Idioma
+            Implementación de Notificaciones
+            Implementación de Log out, Profile</td>
             <td>Crear la barra de herramientas (toolbar) para la navegación del sistema.</td>
             <td>4</td>
             <td>Camila Sanchez</td>
+            <td>Done</td>
+            <tr>
+        <td>US009</td>
+            <td>Creación de perfil - Consultor financiero</td>
+            <td>UT1
+            UT2
+            UT3
+            </td>
+            <td>Completar información personal
+            Agregar experiencia profesional
+            Tipo de Plan
+            </td>
+            <td>Recolectar datos personales básicos (nombre, email, etc.).
+            Permitir al consultor agregar
+            Poder cambiar el tipo de Plan (Basico y Premium)
+            </td>
+            <td>4</td>
+            <td>Karito Medina</td>
+            <td>Done</td>
+        </tr>
+        <td>US010</td>
+            <td>Creación de perfil - Emprendedor</td>
+            <td>UT1
+            UT2
+            UT3
+            </td>
+            <td>Completar información personal
+            Agregar experiencia profesional
+            Tipo de Plan</td>
+            <td>Recolectar datos personales básicos (nombre, email, etc.).
+            Permitir al consultor agregar
+            Poder cambiar el tipo de Plan (Basico y Premium)</td>
+            <td>4</td>
+            <td>Karito Medina</td>
+            <td>Done</td>
+        </tr>
+        <td>US015</td>
+            <td>Publicación de servicios</td>
+            <td>UT1
+            UT2
+            UT3</td>
+            <td>Crear nuevo servicio<br>
+            Definir precios del servicio
+            Agregar descripción del servicio</td>
+            <td>Permitir al consultor crear un nuevo servicio a publicar
+            Permitir al consultor definir el precio de su servicio. Permitir al consultor agregar una descripción detallada del servicio</td>
+            <td>6</td>
+            <td>Emilia Duran</td>
+            <td>Done</td>
+        </tr>
+        <td>US022</td>
+            <td>Envío de documentos adjuntos</td>
+            <td>UT1
+            UT2</td>
+            <td>Adjuntar imágenes al servicio<br>
+            Publicar servicio</td>
+            <td>Permitir al consultor adjuntar imágenes que describan su servicio. Finalizar la publicación del servicio y ponerlo disponible para los usuarios</td>
+            <td>4</td>
+            <td>Emilia Duran</td>
+            <td>Done</td>
+        </tr>
+        </tr>
+        <td>US027</td>
+            <td>Visualización de métricas propias</td>
+            <td>UT1
+            UT2 
+            </td>
+            <td>Ver métricas de ingresos<br>
+            Ver evolución de métricas</td>
+            <td>Mostrar los ingresos generados por los servicios prestados. 
+            Mostrar gráficas con la evolución de las métricas a lo largo del tiempo</td>
+            <td>5</td>
+            <td>Emilia Duran</td>
             <td>Done</td>
         </tr>
     </tbody>
