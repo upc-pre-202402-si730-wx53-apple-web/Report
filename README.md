@@ -600,7 +600,7 @@ img link trello -->
             <td>UT06</td>
             <td>Formulario de registro</td>
             <td>Mostrar y redirigir al formulario de registro para nuevos usuarios desde la landing page.</td>
-            <td>2</td>
+            <td>4</td>
             <td>Gianfranco Durand</td>
             <td>Done</td>
         </tr>
@@ -610,7 +610,7 @@ img link trello -->
             <td>UT10</td>
             <td>Mensajes entre usuarios</td>
             <td>Desarrollar sistema de mensajería para consultas entre usuarios.</td>
-            <td>3</td>
+            <td>4</td>
             <td>Daniel Chávarri</td>
             <td>Done</td>
         </tr>
@@ -620,7 +620,7 @@ img link trello -->
             <td>UT11</td>
             <td>Implementación de toolbar</td>
             <td>Crear la barra de herramientas (toolbar) para la navegación del sistema.</td>
-            <td>1</td>
+            <td>4</td>
             <td>Camila Sanchez</td>
             <td>Done</td>
         </tr>
@@ -634,7 +634,21 @@ Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Fro
 | Branch | Commit Id | Commit Message | Commited on (Date) |
 | ------ | --------- | -------------- | ------------------ |
 | feature/fake-api | 5c5d7931 | feat: add id to db.json, update route |21/09/24|   
-| feature/iam | 9c4d9322 | feat: add user model |21/09/24|   
+| feature/iam | 9c4d9322 | feat: add user model |24/09/24|   
+| feature/iam | a386f446 | feat: add login component |24/09/24|
+| feature/iam | 482e16ae | feat: add register component |24/09/24|
+| feature/iam | ec93716c |feat: add authentication service |24/09/24|
+| feature/iam | 883b586f |feat: add global styles |24/09/24|
+| feature/public | 796ac959 |feat: add toolbar|24/09/24|
+| feature/public | 1db5b029 |feat: add toolbar |27/09/24|
+| feature/routes | 87057be1 |feat: add routes login, register, messages|24/09/24|
+| feature/users | 42a1a805 |feat: Create Register.vue |24/09/24|
+| feature/users | 333356ee |chore: Added UserProfile in App.vue |24/09/24|
+| feature/users | 1375d4f0 |feat: update message panel |24/09/24|
+| feature/workspace | 83ad4cff |feat: added services and metrics cards |24/09/24|
+| feature/workspace | 8eb70039 |feat: added information panel |24/09/24|
+| feature/workspace | dbea978e |feat: added workspace information component |24/09/24|
+| feature/workspace | d3f2dfaf |feat: added metrics card & workspace view |24/09/24|
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 #### 5.2.2.5. Execution Evidence for Sprint Review
@@ -653,9 +667,13 @@ Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Fro
 No se implementaron servicios en este sprint 2
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 Para realizar el despliegue del Frontend se realizaron lo siguientes pasos:
+
 1: Hacer merges de las ramas feature en la rama develop y finalmente merge en la rama main
+
 2: Ir a Netlify, seleccionar Add new site, seguidamente seleccionar Import an existing project
+
 3: Seleccionar el repositorio del Frontend
+
 4: Ingresar un nombre disponible para la página del frontend y seleccionar la rama main
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
