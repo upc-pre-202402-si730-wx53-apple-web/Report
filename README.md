@@ -351,83 +351,15 @@
 |TS23|Implementación de endpoint para notificaciones de actualizaciones|**Como** Developer **deseo** implementar un endpoint en la API **para** enviar notificaciones de actualizaciones de solicitudes cuando el consultor responde.|**Escenario:** Enviar notificación de actualización de solicitud<br>**Dado que** el consultor responde a una solicitud **cuando** la respuesta es almacenada en la base de datos **entonces** se envía una notificación al emprendedor asociado a la solicitud **y** el emprendedor recibe el mensaje de actualización|EP04|
 |TS24|Endpoint para envío de alertas de fechas importantes|**Como** Developer **deseo** crear un endpoint **para** que gestione el envío de alertas de fechas importantes cuando el plazo se acerque.|**Escenario:** Enviar alerta por fecha límite cercana<br>**Dado que** el emprendedor tiene una fecha límite asociada a una solicitud **cuando** la fecha límite está a 3 días de distancia **entonces** el sistema envía una alerta de fecha al emprendedor **y** el emprendedor recibe la notificación.|EP05|
 |TS25|Endpoint para solicitud de reseñas al cerrar un caso|**Como** Developer **deseo** implementar un endpoint **para** que los consultores puedan solicitar reseñas al cerrar un caso.|**Escenario:** Solicitar reseña tras cerrar un caso<br>**Dado que** el consultor ha cerrado un caso **cuando** el caso se marca como "Cerrado" en la base de datos **entonces** se envía una solicitud de reseña al emprendedor asociado **y** el consultor puede ver la reseña una vez completada|EP06|
-|TA26|Endpoint para envío y almacenamiento de reseñas|**Como** Developer **deseo** crear un endpoint que permita a  los emprendedores enviar y almacenar reseñas de los consultores tras el cierre de un caso o desde la sección de Casos Archivados|**Escenario 1:** Enviar reseña tras cierre de caso<br>**Dado que** el emprendedor ha aceptado la solución del caso **cuando** el caso se cierra **entonces** el sistema muestra un formulario de reseña **y** el emprendedor envía su reseña sobre el consultor<br>**Escenario 2:** Enviar reseña desde Casos Archivados<br>**Dado que** el emprendedor tiene casos cerrados **cuando** ingresa a la sección Casos Archivados **entonces** puede seleccionar un caso y hacer click en Dejar Reseña **y** el sistema permite enviar la reseña.|EP06|
+|TS26|Endpoint para envío y almacenamiento de reseñas|**Como** Developer **deseo** crear un endpoint que permita a  los emprendedores enviar y almacenar reseñas de los consultores tras el cierre de un caso o desde la sección de Casos Archivados|**Escenario 1:** Enviar reseña tras cierre de caso<br>**Dado que** el emprendedor ha aceptado la solución del caso **cuando** el caso se cierra **entonces** el sistema muestra un formulario de reseña **y** el emprendedor envía su reseña sobre el consultor<br>**Escenario 2:** Enviar reseña desde Casos Archivados<br>**Dado que** el emprendedor tiene casos cerrados **cuando** ingresa a la sección Casos Archivados **entonces** puede seleccionar un caso y hacer click en Dejar Reseña **y** el sistema permite enviar la reseña.|EP06|
 |TS27|Endpoint para consulta de métricas del consultor|**Como** Developer **deseo** crear un endpoint **para** que los consultores puedan visualizar sus métricas de desempeño de los últimos 30 días.|**Escenario:** Consultar métricas del último mes<br> **Dado que** el consultor ha trabajado por más de un mes **cuando** ingresa a la sección de Métricas en su perfil **entonces** el sistema consulta y devuelve las métricas del último mes **y** las métricas son visibles en la interfaz del consultor.|EP06|
 |TS28|Endpoint para terminación de contrato por parte del consultor|**Como** Developer **deseo** crear un endpoint **para** que los consultores puedan terminar el contrato cuando el cliente no siga las recomendaciones.|**Escenario:** Terminar contrato por incumplimiento<br>**Dado que** el consultor ha enviado dos soluciones rechazadas **cuando** el consultor desea finalizar el contrato **entonces** puede apelar al "Cancelamiento por Incumplimiento" **y** el contrato se termina en el sistema. |EP06|
-
-#### US29 - Terminación de contrato - emprendedor
-**Technical Story:**  Endpoint para terminación de contrato por parte del emprendedor
-
-**Como** Developer
-**deseo** implementar un endpoint 
-**para** que los emprendedores puedan cancelar el contrato si el consultor no responde en más de 7 días.
-- **Escenario:** Cancelar contrato por falta de respuesta
-  - **Dado que** el emprendedor no ha recibido respuesta del consultor por 7 días
-  **cuando** ingresa a la sección "Más Opciones" del caso
-  **entonces** puede seleccionar la opción de "Cancelamiento por Incumplimiento"
-  **y** el contrato se cancela en el sistema.
-
-#### US30 - Artículos financieros
-**Technical Story:** Endpoint para consulta y visualización de artículos financieros
-
-**Como** Developer
-**deseo** crear un endpoint 
-**para** poder consultar y visualizar artículos financieros relacionados cuando no hay casos activos.
-- **Escenario:** Visualizar artículos financieros relacionados
-  - **Dado que** el emprendedor no tiene casos activos
-  - **cuando** ingresa a la sección Explorar
-  - **entonces** el sistema consulta artículos relacionados a su rubro
-  - **y** los artículos son visibles en la interfaz.
-
-#### US31 - Herramientas de simulación
-**Technical Story:** Endpoint para acceso a herramientas de simulación de pagos
-
-**Como** Developer, 
-**deseo** crear un endpoint 
-**para** que tenga el acceso a simuladores de pagos cuando el emprendedor tiene una suscripción premium.
-- **Escenario:** Acceso a simuladores de pagos
-  - **Dado que** el emprendedor tiene una suscripción premium
-  - **cuando** ingresa a la sección Herramientas
-  - **entonces** puede acceder a los simuladores de pagos y cuotas
-  - **y** puede calcular los pagos de sus deudas.
-
-#### US32 - Resúmenes financieros
-**Technical Story:**  Endpoint para generación y envío de resúmenes financieros semanales
-
-**Como** Developer
-**deseo** implementar un endpoint 
-**para** que genere y envíe resúmenes financieros semanales a los emprendedores con casos activos.
-- **Escenario:** Enviar resumen semanal de casos activos
-  - **Dado que** el emprendedor tiene casos activos
-  - **cuando** comienza una nueva semana
-  - **entonces** el sistema genera un resumen de los avances de sus casos
-  - **y** el resumen se envía al emprendedor.
-
-#### US33 - Seguimiento de Ingresos y Gastos
-**Technical Story:** Implementación de herramienta de seguimiento de ingresos y gastos
-
-**Como** Developer
-**deseo** crear una herramienta dentro de la aplicación que permita a los emprendedores rastrear sus ingresos y gastos de manera eficiente
-**para** que puedan gestionar sus finanzas.
-- **Escenario:** Rastreo de ingresos y gastos
-  - **Dado que** el emprendedor accede a la sección Herramienta
-  - **y** selecciona la opción Tracker
-  - **cuando** el emprendedor ingresa una nueva entrada o salida de dinero
-  - **entonces** el sistema almacena la información financiera
-  - **y** el emprendedor puede visualizar un resumen de sus ingresos y gastos.
-
-#### US34 - Creación de presupuestos
-**Technical Story:** Creación de herramienta para generar presupuestos personalizados
-
-**Como** Developer
-**deseo** implementar una herramienta que permita a los emprendedores con suscripción premium crear presupuestos personalizados basados en sus ingresos y gastos
-**para** ayudarlos a administrar su dinero de manera efectiva.
-- **Escenario:** Crear presupuesto personalizado
-  - **Dado que** el emprendedor tiene una suscripción premium
-  - **y** ha utilizado la aplicación por más de un mes
-  - **cuando** accede a la herramienta de presupuestos
-  - **entonces** el sistema genera planes de presupuesto basados en los datos de ingresos y gastos del emprendedor
-  - **y** el emprendedor puede ajustar los presupuestos según sus necesidades.
+|TS29|Endpoint para terminación de contrato por parte del emprendedor|**Como** Developer **deseo** implementar un endpoint **para** que los emprendedores puedan cancelar el contrato si el consultor no responde en más de 7 días.|**Escenario:** Cancelar contrato por falta de respuesta<br>**Dado que** el emprendedor no ha recibido respuesta del consultor por 7 días  **cuando** ingresa a la sección "Más Opciones" del caso **entonces** puede seleccionar la opción de "Cancelamiento por Incumplimiento" **y** el contrato se cancela en el sistema.|EP06|
+|TS30|Endpoint para consulta y visualización de artículos financieros|**Como** Developer **deseo** crear un endpoint **para** poder consultar y visualizar artículos financieros relacionados cuando no hay casos activos.|**Escenario:** Visualizar artículos financieros relacionados <br> **Dado que** el emprendedor no tiene casos activos **cuando** ingresa a la sección Explorar **entonces** el sistema consulta artículos relacionados a su rubro **y** los artículos son visibles en la interfaz.|EP07|
+|TS31|Endpoint para acceso a herramientas de simulación de pagos|**Como** Developer **deseo** crear un endpoint **para** que tenga el acceso a simuladores de pagos cuando el emprendedor tiene una suscripción premium.|**Escenario:** Acceso a simuladores de pagos <br> **Dado que** el emprendedor tiene una suscripción premium **cuando** ingresa a la sección Herramientas **entonces** puede acceder a los simuladores de pagos y cuotas **y** puede calcular los pagos de sus deudas.|EP07|
+|TS32|Endpoint para generación y envío de resúmenes financieros semanales|**Como** Developer **deseo** implementar un endpoint **para** que genere y envíe resúmenes financieros semanales a los emprendedores con casos activos.|**Escenario:** Enviar resumen semanal de casos activos <br> **Dado que** el emprendedor tiene casos activos **cuando** comienza una nueva semana **entonces** el sistema genera un resumen de los avances de sus casos **y** el resumen se envía al emprendedor.|EP07|
+|TS33|Implementación de herramienta de seguimiento de ingresos y gastos|**Como** Developer **deseo** crear una herramienta dentro de la aplicación que permita a los emprendedores rastrear sus ingresos y gastos de manera eficiente **para** que puedan gestionar sus finanzas.|**Escenario:** Rastreo de ingresos y gastos <br>**Dado que** el emprendedor accede a la sección Herramienta **y** selecciona la opción Tracker **cuando** el emprendedor ingresa una nueva entrada o salida de dinero **entonces** el sistema almacena la información financiera **y** el emprendedor puede visualizar un resumen de sus ingresos y gastos.|EP07|
+|TS34|Creación de herramienta para generar presupuestos personalizados|**Como** Developer **deseo** implementar una herramienta que permita a los emprendedores con suscripción premium crear presupuestos personalizados basados en sus ingresos y gastos **para** ayudarlos a administrar su dinero de manera efectiva.|**Escenario:** Crear presupuesto personalizado <br> **Dado que** el emprendedor tiene una suscripción premium **y** ha utilizado la aplicación por más de un mes **cuando** accede a la herramienta de presupuestos **entonces** el sistema genera planes de presupuesto basados en los datos de ingresos y gastos del emprendedor **y** el emprendedor puede ajustar los presupuestos según sus necesidades.|EP07|
 
 ## 3.3. Impact Mapping
 
