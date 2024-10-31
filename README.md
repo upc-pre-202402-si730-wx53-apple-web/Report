@@ -939,7 +939,7 @@ Para este Sprint nos enfocaremos desarrollar una primera version del Web-Service
 </table>
 
 #### 5.2.3.3. Development Evidence for Sprint Review
-Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Frontend-Web-Applications
+Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Web-Services
 
 | Branch | Commit Id | Commit Message | Commited on (Date) |
 | ------ | --------- | -------------- | ------------------ |
