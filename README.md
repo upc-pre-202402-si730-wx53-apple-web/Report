@@ -792,6 +792,10 @@ Para este Sprint nos enfocaremos desarrollar una primera version del Web-Service
 | Sum of Story Points | 20 | 
 
 #### 5.2.3.2. Sprint Backlog 3
+Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte del back end de la aplicación web y completar las funcionalidades del front end.
+
+<img src="assets/Chapter-5/trello3.png">
+
 [Link Trello:](https://trello.com/b/z15MxWUY/sprint-3) https://trello.com/b/z15MxWUY/sprint-3
 
 <table>
@@ -816,123 +820,86 @@ Para este Sprint nos enfocaremos desarrollar una primera version del Web-Service
             <td>Status (To-do/In-Process/To-Review/Done)</td>
         </tr>
         <tr>
-            <td>US08</td>
-            <td>Registro en aplicación</td>
-            <td>UT06</td>
-            <td>Formulario de registro</td>
-            <td>Mostrar y redirigir al formulario de registro para nuevos usuarios desde la landing page.</td>
-            <td>4</td>
+            <td>TS12</td>
+            <td>Gestión de Métodos de Pago</td>
+            <td>UT01
+            UT02
+            UT03</td>
+            <td>Implementar validación de métodos de pago soportados (tarjeta de crédito, débito, PayPal).
+            <br>Crear endpoint para agregar método de pago.</br>
+            Crear endpoint para eliminar método de pago.</td>
+            <td>Permitir al usuario agregar, actualizar y eliminar métodos de pago en su cuenta de usuario.</td>
+            <td>6</td>
             <td>Gianfranco Durand</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US020</td>
-            <td>Sistema de mensajes y casos</td>
-            <td>UT10</td>
-            <td>Mensajes entre usuarios</td>
-            <td>Desarrollar sistema de mensajería para consultas entre usuarios.</td>
-            <td>4</td>
-            <td>Daniel Chávarri</td>
+            <td>TS23</td>
+            <td>Implementación de endpoint para notificaciones de actualizaciones</td>
+            <td>UT01
+            UT02
+            UT03</td>
+            <td>Crear endpoint para envío de notificaciones de actualizaciones.
+            <br> Diseñar interfaz de usuario para activar/desactivar notificaciones.</br>
+            Implementar sistema de preferencias de notificaciones por usuario.</td>
+            <td>Desarrollar un endpoint que permita notificar a los usuarios sobre actualizaciones en la plataforma (nuevas funciones, mejoras de seguridad, etc.).</td>
+            <td>6</td>
+            <td>Camila Sanchez</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US020</td>
-            <td>Sistema de mensajes y casos</td>
+            <td>TS24</td>
+            <td>Endpoint para envío de alertas de fechas importantes</td>
             <td>UT1
             UT2
             UT3</td>
-            <td>Implementación de Idioma
-            Implementación de Notificaciones
-            Implementación de Log out, Profile</td>
-            <td>Crear la barra de herramientas (toolbar) para la navegación del sistema.</td>
-            <td>4</td>
+            <td>Crear lógica para envío de alertas en diferentes formatos (email, push notification).
+            Diseñar interfaz para visualización de alertas en la aplicación.
+           Crear endpoint para alertas de vencimiento de suscripciones.</td>
+            <td>Implementar un endpoint que permita enviar alertas sobre fechas importantes (vencimiento de suscripción, fechas de pago, publicacion nueva, etc.).</td>
+            <td>6</td>
             <td>Camila Sanchez</td>
             <td>Done</td>
             <tr>
-        <td>US009</td>
-            <td>Creación de perfil - Consultor financiero</td>
+        <td>TS08</td>
+            <td>Endpoint para registro de usuarios</td>
             <td>UT1
             UT2
             UT3
             </td>
-            <td>Completar información personal
-            Agregar experiencia profesional
-            Tipo de Plan
+            <td> Implementar verificación de correo electrónico.
+            Diseñar interfaz para formulario de registro de usuario.
+            Agregar lógica para contraseñas.
             </td>
-            <td>Recolectar datos personales básicos (nombre, email, etc.).
-            Permitir al consultor agregar
-            Poder cambiar el tipo de Plan (Basico y Premium)
+            <td>Desarrollar un endpoint para permitir el registro de nuevos usuarios en la plataforma.
             </td>
-            <td>3</td>
+            <td>6</td>
             <td>Karito Medina</td>
             <td>Done</td>
         </tr>
-        <td>US010</td>
-            <td>Creación de perfil - Emprendedor</td>
+        <td>TS03</td>
+            <td>Endpoint para obtener planes de suscripción</td>
             <td>UT1
             UT2
-            UT3
             </td>
-            <td>Completar información personal
-            Agregar experiencia profesional
-            Tipo de Plan</td>
-            <td>Recolectar datos personales básicos (nombre, email, etc.).
-            Permitir al consultor agregar
-            Poder cambiar el tipo de Plan (Basico y Premium)</td>
-            <td>3</td>
-            <td>Karito Medina</td>
+            <td>Crear endpoint para consulta de planes de suscripción.
+            Crear pruebas de integración para el endpoint de planes de suscripción.</td>
+            <td>Crear un endpoint que permita obtener los diferentes planes de suscripción disponibles en la plataforma.</td>
+            <td>6</td>
+            <td>Daniel Chávarri </td>
             <td>Done</td>
         </tr>
-        <td>US015</td>
-            <td>Publicación de servicios</td>
+        <td>TS11</td>
+            <td>Gestión de Planes de Suscripción</td>
             <td>UT1
             UT2
             UT3</td>
-            <td>Crear nuevo servicio<br>
-            Definir precios del servicio
-            Agregar descripción del servicio</td>
-            <td>Permitir al consultor crear un nuevo servicio a publicar
-            Permitir al consultor definir el precio de su servicio. Permitir al consultor agregar una descripción detallada del servicio</td>
-            <td>4</td>
-            <td>Emilia Duran</td>
-            <td>Done</td>
-        </tr>
-        <td>US022</td>
-            <td>Envío de documentos adjuntos</td>
-            <td>UT1
-            UT2</td>
-            <td>Adjuntar imágenes al servicio<br>
-            Publicar servicio</td>
-            <td>Permitir al consultor adjuntar imágenes que describan su servicio. Finalizar la publicación del servicio y ponerlo disponible para los usuarios</td>
-            <td>5</td>
-            <td>Emilia Duran</td>
-            <td>Done</td>
-        </tr>
-        </tr>
-        <td>US027</td>
-            <td>Visualización de métricas propias</td>
-            <td>UT1
-            UT2 
-            </td>
-            <td>Ver métricas de ingresos<br>
-            Ver evolución de métricas</td>
-            <td>Mostrar los ingresos generados por los servicios prestados. 
-            Mostrar gráficas con la evolución de las métricas a lo largo del tiempo</td>
+            <td>Crear endpoint para actualizar el plan de suscripción del usuario.<br>
+            Crear endpoint para cancelar suscripciones.
+            Diseñar interfaz de usuario para gestión de planes en la app.</td>
+            <td>Proporcionar funcionalidades para que los usuarios gestionen sus planes de suscripción (actualizar, cancelar, etc.).</td>
             <td>6</td>
-            <td>Emilia Duran</td>
-            <td>Done</td>
-        </tr>
-         </tr>
-        <td>US03</td>
-            <td>Planes de la aplicación</td>
-            <td>UT1
-            UT2 
-            </td>
-            <td>Ver descripción de planes<br>
-            Seleccionar plan preferente </td>
-            <td>Se encuentra en el landing page cuando navega a la sección Plans entonces visualiza de modo comparativo los planes de suscripción</td>
-            <td>1</td>
-            <td>Camila Sanchez</td>
+            <td>Daniel Chávarri </td>
             <td>Done</td>
         </tr>
     </tbody>
@@ -972,6 +939,8 @@ No se implementaron servicios en este sprint 3
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+<img src="./assets/Chapter-5/sprint2-insights5.png"/>
+<img src="./assets/Chapter-5/sprint2-insights4.png"/>
 
 ## 5.3. Validation Interviews
 En esta sección se detalla el proceso de validación mediante entrevistas con usuarios y expertos. Estas entrevistas son cruciales para evaluar la usabilidad, funcionalidad y eficacia de la aplicación DebtGo, garantizando que cumple con las necesidades y expectativas de nuestros segmentos de mercado.
