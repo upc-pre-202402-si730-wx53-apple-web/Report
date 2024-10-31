@@ -758,10 +758,143 @@ Para realizar el despliegue del Frontend se realizaron lo siguientes pasos:
 <img src="./assets/Chapter-5/sprint2-insights4.png"/>
 
 ## 5.3. Validation Interviews
+En esta sección se detalla el proceso de validación mediante entrevistas con usuarios y expertos. Estas entrevistas son cruciales para evaluar la usabilidad, funcionalidad y eficacia de la aplicación DebtGo, garantizando que cumple con las necesidades y expectativas de nuestros segmentos de mercado.
+
 ### 5.3.1. Diseño de Entrevistas
+Se decribe la metodología utilizada para diseñar las entrevistas de validación, incluyendo la selección de participantes, la formulación de preguntas y el enfoque adaptaddo para obtener información relevante y precisa sobre la experiencia del usuario con la aplicación DebtGo.
+
+### Segmento Objetivo 1: Consultores Financieros
+
+- **Preguntas Generales**
+  - ¿Cuál es su nombre?
+  - ¿Cuál es su sexo?
+  - ¿Cuántos años tiene?
+  - ¿Cuál es su ocupación?
+  
+- **Preguntas Específicas**
+  - Según lo visto, ¿qué te pareció la estructuración de la página?
+  - ¿Cuáles son los puntos de mejora?
+  - ¿Crees que la aplicación es intuitiva y fácil de usar?
+  - ¿Hubo alguna sección de la aplicación que te resultó complicada?
+  - ¿Cuáles son los aspectos positivos y negativos que destacarías de la aplicación?
+  - ¿Qué funcionalidades consideras esenciales para tu trabajo como consultor financiero?
+  - ¿La información presentada es relevante y útil para tu labor profesional?
+
+### Segmento Objetivo 2: Emprendedores
+
+- **Preguntas Generales**
+  - ¿Cuál es su nombre?
+  - ¿Cuál es su sexo?
+  - ¿Cuántos años tiene?
+  - ¿Cuál es su ocupación?
+  
+- **Preguntas Específicas**
+  - Según lo visto, ¿qué te pareció la estructuración de la página?
+  - ¿Cuáles son los puntos de mejora?
+  - ¿Crees que la aplicación es intuitiva y fácil de usar?
+  - ¿Hubo alguna sección de la aplicación que te resultó complicada?
+  - ¿Cuáles son los aspectos positivos y negativos que destacarías de la aplicación?
+  - ¿Qué características adicionales crees que serían útiles para emprendedores?
+  - ¿Cómo la aplicación podría apoyarte en el crecimiento de tu negocio?
+
+
 ### 5.3.2. Registro de Entrevistas
-### 5.3.3. Evaluaciones según heurísticas
-# 5.4. Video About-the-Product
+Esta subsección presenta un registro detallado de las entrevistas realizadas, documentando las respuestas de los participantes, las observaciones clave y los comentarios obtenidos durante las sesiones de validación. Estos registros proporcionan una base sólida para el análisis y la mejora del producto.
+
+**Segmento Objetivo 1: Consultores Financieros**
+-------------------------------------------
+**Entrevistado(a) #1:** <br>
+**Sexo:** <br>
+**Edad:**  años<br>
+**Ocupación**<br>
+**Minuto de la entrevista:**<br>
+**Enlace del video completo de las entrevistas:**<br>
+
+<br>
+
+**Resumen de la entrevista:**<br>
+El entrevistado mostró ...
+<br><br>
+
+**Segmento Objetivo 2: Emprendedores**
+-------------------------------------------
+**Entrevistado(a) #1:**<br>
+**Sexo:**<br>
+**Edad:** años<br>
+**Ocupación**<br>
+**Minuto de la entrevista:**<br>
+**Enlace del video completo de las entrevistas:**<br>
+
+<br>
+
+**Resumen de la entrevista:**
+
+<br><br>
+
+
+### 5.3.3. Evaluación según heurísticas
+Aquí se explican las evaluaciones realizadas utilizando principios heurísticos de usabilidad. Se analizan los resultados obtenidos y se identifican áreas de mejora en la interfaz y la funcionalidad de la aplicación, con el fin de optimizar la experiencia del usuario y asegurar la eficacia del producto.
+
+**UX Heuristics & Principles Evaluation Usability - Inclusive Design - Information Architecture**
+
+**Carrera:** Ingeniería de Software
+**Curso:** Aplicaciones Web
+**Sección:** WX53
+**Profesores:** Todos
+**Cliente(s):** ,
+
+**Site o App a Evaluar:** DebtGo
+
+**Tareas a Evaluar:**
+**Escala de Severidad:**
+Los errores serán puntiados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+|   1   | Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+|   2   | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja de cara resolverlo al siguiente release. |
+|   3   | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+|   4   | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+**Tabla Resumen:**
+
+| # | Problema | Escala de Severidad | Heurística/Principio violada(o) |
+|---|----------|---------------------|---------------------|
+| 1 |  |  |  |
+| 2 |  |  |  |
+| 3 |  |  |  |
+
+----
+<br>
+
+**Descripción del Problemas:**
+
+- **Problema #1:**
+- **Severidad:** 
+- **Heurística/Principio violado(a):** 
+- **Problema:** 
+- **Recomendación:** 
+
+---
+
+- **Problema #2:**
+- **Severidad:** 
+- **Heurística/Principio violado(a):** 
+- **Problema:** 
+- **Recomendación:** 
+
+---
+
+- **Problema #3:**
+- **Severidad:** 
+- **Heurística/Principio violado(a):** 
+- **Problema:** 
+- **Recomendación:** 
+<br>
+
+
+## 5.4. Video About-The-Product
+En esta sección se presenta un video explicatiovo sobre la aplicación DebtGo. El video destaca las principales características y beneficios del producto, demostrando cómo satisface las necesidad de los clientes. Este recurso visual es esencial para comunicar de manera efectiva el valor de la apliación a potenciales usuarios e inversores.
 
 # Conclusiones
 ## Conclusiones y recomendaciones
