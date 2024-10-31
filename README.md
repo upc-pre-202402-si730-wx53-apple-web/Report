@@ -569,14 +569,16 @@ Para este Sprint nos enfocaremos desarrollar una primera version del Frontend.
 | Sum of Story Points | 20 | 
 
 #### 5.2.2.2. Sprint Backlog 2
-<!-- TODO
-img link trello -->
+Durante el segundo sprint, el equipo tuvo como meta implementar el frontend de TaskLinker utilizando JavaScript, Vue. CSS y HTML. El enfoque se centró en desarrollar funcionalidades clave en varias páginas. Además, el equipo se enfocó en las historias de usuario relacionadas con este desarrollo, asegurando que cada nueva característica no solo fuera funcional, sino también alineada con las necesidades de los usuarios. Se utilizó Trello para organizar y distribuir las tareas, permitiendo que cada integrante del equipo se especializara en áreas que se correspondían con sus competencias, lo que facilitó un avance eficiente y coordinado hacia el objetivo del sprint.
+
+ <img src="assets/Chapter-5/trello2.png">
+
+[Link Trello:](https://trello.com/b/ZCrrjFlj/sprint-2) https://trello.com/b/ZCrrjFlj/sprint-2
 
 <table>
     <thead>
         <tr>
-        <th>Sprint #</th>
-        <th colspan="7">Sprint 1</th>
+        <th colspan="7">Sprint 2</th>
         </tr>
     </thead>
     <tbody>
@@ -642,7 +644,7 @@ img link trello -->
             Permitir al consultor agregar
             Poder cambiar el tipo de Plan (Basico y Premium)
             </td>
-            <td>4</td>
+            <td>3</td>
             <td>Karito Medina</td>
             <td>Done</td>
         </tr>
@@ -658,7 +660,7 @@ img link trello -->
             <td>Recolectar datos personales básicos (nombre, email, etc.).
             Permitir al consultor agregar
             Poder cambiar el tipo de Plan (Basico y Premium)</td>
-            <td>4</td>
+            <td>3</td>
             <td>Karito Medina</td>
             <td>Done</td>
         </tr>
@@ -672,7 +674,7 @@ img link trello -->
             Agregar descripción del servicio</td>
             <td>Permitir al consultor crear un nuevo servicio a publicar
             Permitir al consultor definir el precio de su servicio. Permitir al consultor agregar una descripción detallada del servicio</td>
-            <td>6</td>
+            <td>4</td>
             <td>Emilia Duran</td>
             <td>Done</td>
         </tr>
@@ -683,7 +685,7 @@ img link trello -->
             <td>Adjuntar imágenes al servicio<br>
             Publicar servicio</td>
             <td>Permitir al consultor adjuntar imágenes que describan su servicio. Finalizar la publicación del servicio y ponerlo disponible para los usuarios</td>
-            <td>4</td>
+            <td>5</td>
             <td>Emilia Duran</td>
             <td>Done</td>
         </tr>
@@ -697,8 +699,21 @@ img link trello -->
             Ver evolución de métricas</td>
             <td>Mostrar los ingresos generados por los servicios prestados. 
             Mostrar gráficas con la evolución de las métricas a lo largo del tiempo</td>
-            <td>5</td>
+            <td>6</td>
             <td>Emilia Duran</td>
+            <td>Done</td>
+        </tr>
+         </tr>
+        <td>US03</td>
+            <td>Planes de la aplicación</td>
+            <td>UT1
+            UT2 
+            </td>
+            <td>Ver descripción de planes<br>
+            Seleccionar plan preferente </td>
+            <td>Se encuentra en el landing page cuando navega a la sección Plans entonces visualiza de modo comparativo los planes de suscripción</td>
+            <td>1</td>
+            <td>Camila Sanchez</td>
             <td>Done</td>
         </tr>
     </tbody>
@@ -756,6 +771,207 @@ Para realizar el despliegue del Frontend se realizaron lo siguientes pasos:
 
 <img src="./assets/Chapter-5/sprint2-insights5.png"/>
 <img src="./assets/Chapter-5/sprint2-insights4.png"/>
+
+### 5.2.3. Sprint 3
+Para este Sprint nos enfocaremos desarrollar una primera version del Web-Services
+
+#### 5.2.3.1. Sprint Planning 3
+| Sprint 3 | Sprint 3 |
+| -------- | -------- |
+|**Sprint Planning Background**|
+| Date | 2024-08-29|
+| Time | 07:00 PM |
+| Location | Discord Virtual Meeting |
+| Prepared By | Karito Medina, Gianfranco Durand |
+|Attendees (to planning meeting) | Camila Sanchez, Gianfranco Durand, Daniel Chávarri , Karito Medina, Emilia Duran
+| Sprint n – 1 Review Summary | No hubo sprint anterior |
+| Sprint n – 1 Retrospective Summary | No hubo sprint anterior |
+| **Sprint Goal & User Stories** | 
+| Sprint 1 Goal | Realizar la Landing Page |
+| Sprint 1 Velocity | 20 |
+| Sum of Story Points | 20 | 
+
+#### 5.2.3.2. Sprint Backlog 3
+[Link Trello:](https://trello.com/b/z15MxWUY/sprint-3) https://trello.com/b/z15MxWUY/sprint-3
+
+<table>
+    <thead>
+        <tr>
+        <th colspan="7">Sprint 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Description</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do/In-Process/To-Review/Done)</td>
+        </tr>
+        <tr>
+            <td>US08</td>
+            <td>Registro en aplicación</td>
+            <td>UT06</td>
+            <td>Formulario de registro</td>
+            <td>Mostrar y redirigir al formulario de registro para nuevos usuarios desde la landing page.</td>
+            <td>4</td>
+            <td>Gianfranco Durand</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US020</td>
+            <td>Sistema de mensajes y casos</td>
+            <td>UT10</td>
+            <td>Mensajes entre usuarios</td>
+            <td>Desarrollar sistema de mensajería para consultas entre usuarios.</td>
+            <td>4</td>
+            <td>Daniel Chávarri</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US020</td>
+            <td>Sistema de mensajes y casos</td>
+            <td>UT1
+            UT2
+            UT3</td>
+            <td>Implementación de Idioma
+            Implementación de Notificaciones
+            Implementación de Log out, Profile</td>
+            <td>Crear la barra de herramientas (toolbar) para la navegación del sistema.</td>
+            <td>4</td>
+            <td>Camila Sanchez</td>
+            <td>Done</td>
+            <tr>
+        <td>US009</td>
+            <td>Creación de perfil - Consultor financiero</td>
+            <td>UT1
+            UT2
+            UT3
+            </td>
+            <td>Completar información personal
+            Agregar experiencia profesional
+            Tipo de Plan
+            </td>
+            <td>Recolectar datos personales básicos (nombre, email, etc.).
+            Permitir al consultor agregar
+            Poder cambiar el tipo de Plan (Basico y Premium)
+            </td>
+            <td>3</td>
+            <td>Karito Medina</td>
+            <td>Done</td>
+        </tr>
+        <td>US010</td>
+            <td>Creación de perfil - Emprendedor</td>
+            <td>UT1
+            UT2
+            UT3
+            </td>
+            <td>Completar información personal
+            Agregar experiencia profesional
+            Tipo de Plan</td>
+            <td>Recolectar datos personales básicos (nombre, email, etc.).
+            Permitir al consultor agregar
+            Poder cambiar el tipo de Plan (Basico y Premium)</td>
+            <td>3</td>
+            <td>Karito Medina</td>
+            <td>Done</td>
+        </tr>
+        <td>US015</td>
+            <td>Publicación de servicios</td>
+            <td>UT1
+            UT2
+            UT3</td>
+            <td>Crear nuevo servicio<br>
+            Definir precios del servicio
+            Agregar descripción del servicio</td>
+            <td>Permitir al consultor crear un nuevo servicio a publicar
+            Permitir al consultor definir el precio de su servicio. Permitir al consultor agregar una descripción detallada del servicio</td>
+            <td>4</td>
+            <td>Emilia Duran</td>
+            <td>Done</td>
+        </tr>
+        <td>US022</td>
+            <td>Envío de documentos adjuntos</td>
+            <td>UT1
+            UT2</td>
+            <td>Adjuntar imágenes al servicio<br>
+            Publicar servicio</td>
+            <td>Permitir al consultor adjuntar imágenes que describan su servicio. Finalizar la publicación del servicio y ponerlo disponible para los usuarios</td>
+            <td>5</td>
+            <td>Emilia Duran</td>
+            <td>Done</td>
+        </tr>
+        </tr>
+        <td>US027</td>
+            <td>Visualización de métricas propias</td>
+            <td>UT1
+            UT2 
+            </td>
+            <td>Ver métricas de ingresos<br>
+            Ver evolución de métricas</td>
+            <td>Mostrar los ingresos generados por los servicios prestados. 
+            Mostrar gráficas con la evolución de las métricas a lo largo del tiempo</td>
+            <td>6</td>
+            <td>Emilia Duran</td>
+            <td>Done</td>
+        </tr>
+         </tr>
+        <td>US03</td>
+            <td>Planes de la aplicación</td>
+            <td>UT1
+            UT2 
+            </td>
+            <td>Ver descripción de planes<br>
+            Seleccionar plan preferente </td>
+            <td>Se encuentra en el landing page cuando navega a la sección Plans entonces visualiza de modo comparativo los planes de suscripción</td>
+            <td>1</td>
+            <td>Camila Sanchez</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Frontend-Web-Applications
+
+| Branch | Commit Id | Commit Message | Commited on (Date) |
+| ------ | --------- | -------------- | ------------------ |
+| feature/shared | ada340de | feat: add base repository and unit of work interfaces |22/10/24|   
+| feature/shared | b259c0e8 | feat: add DbContext configuration, ModelBuilder String extensions |22/10/24| 
+| feature/shared | f79cf71f | feat: add base repository and unit of work implementations |22/10/24|
+| feature/Notification-BC | 63ecd982 | feat: add base repository and unit of work interfaces|25/10/24| 
+| feature/Notification-BC | 9b381fa8 | feat: add DbContext, Interfaces, Infrastructure  |25/10/24|
+| feature/User-BC | 21d5a262 | feat(User): add value object  |29/10/24|
+| feature/User-BC | 38c47b17 | feat(User): add command. |29/10/24|
+| feature/User-BC | 2ab30c2f | feat(User): add queries. |29/10/24|
+| feature/User-BC | fa502cab | feat(User): add aggregates. |29/10/24|
+| feature/User-BC | 6f451265 | feat(User): add infrastructure. |29/10/24|
+| feature/User-BC | 389f95be | feat(User): add IUserContextFacade.cs. |29/10/24|
+| feature/User-BC | 763a7cd3 | feat(User): add UserContextFacade.cs. |29/10/24|
+| feature/User-BC | 1f6c6949 | feat(User): add resources. |29/10/24|
+| feature/User-BC | 850d2a9d | feat(User): add transforms. |29/10/24|
+| feature/User-BC | 8f26bc53 | feat(User): add services. |29/10/24|
+| feature/User-BC | f1e779fa | feat(User): add UsersController.cs. |29/10/24|
+| feature/User-BC | 7ee3e664 | feat(User): add IUserRepository.cs. |29/10/24|
+| feature/User-BC | 34668505 | feat(User): add UserCommandService.cs. |29/10/24|
+| feature/Notification-BC | 1d71f6df | feat: add base repository Aplication and Domain  |30/10/24|
+
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+#### 5.2.3.5. Execution Evidence for Sprint Review
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+No se implementaron servicios en este sprint 3
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
