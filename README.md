@@ -932,14 +932,16 @@ Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Web
 
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
 #### 5.2.3.5. Execution Evidence for Sprint Review
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 No se implementaron servicios en este sprint 3
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
-<img src="./assets/Chapter-5/sprint2-insights5.png"/>
+<img src="./assets/Chapter-5/sprint3-insights6.png"/>
 <img src="./assets/Chapter-5/sprint2-insights4.png"/>
 
 ## 5.3. Validation Interviews
