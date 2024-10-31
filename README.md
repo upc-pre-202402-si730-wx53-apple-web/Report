@@ -1112,6 +1112,8 @@ Los errores serán puntiados tomando en cuenta la siguiente escala de severidad
 ## 5.4. Video About-The-Product
 En esta sección se presenta un video explicatiovo sobre la aplicación DebtGo. El video destaca las principales características y beneficios del producto, demostrando cómo satisface las necesidad de los clientes. Este recurso visual es esencial para comunicar de manera efectiva el valor de la apliación a potenciales usuarios e inversores.
 
+Enlace al Video About-The-Product: [https://youtu.be/xg8zKvR-nrQ](https://youtu.be/m73QDqMx1vo)
+
 # Conclusiones
 ## Conclusiones y recomendaciones
 
