@@ -259,9 +259,9 @@ objetivos establecidos para este entregable.</p>
         <p>.</p>
         <p><b>Durán Santander, Emilia Mercedes.</b></p>
        <p><b>TB1:</b></p>
-        <p>..g.</p>
+        <p>Realicé el capítulo III: Requirements Specification, en concreto el To-Be Scenario, User Stories y Product Backlog, así cómo también los As-Is Scenarios y Sprint Backlog para esta entrega. Apoyé a mis compañeros y pedí su ayuda en distintas secciones del informe</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>Realizamos las correcciones basadas en el feedback otorgado, reuniendonos inicialmente para ordenarlo en orden de prioridad y poder establecer metas realistas para la entrega</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
@@ -323,9 +323,9 @@ objetivos</td>
         <p>.</p>
         <p><b>Durán Santander, Emilia Mercedes</b></p>
        <p><b>TB1:</b></p>
-        <p>...</p>
+        <p>Realicé el capítulo III: Requirements Specification, detallado en el punto anterior. En reuniones de proyecto, dividí lo restante del proyecto en equipos para poder llegar a las metas establecidas anteriormente.</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>Coordiné la reunión inicial para comenzar los avances de la entrega y la reunión subsecuente para mostrar los avances de la misma, con el propósito de cumplir las metas</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
