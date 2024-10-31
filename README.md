@@ -934,10 +934,12 @@ Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Web
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
+La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la aplicación web. Cada tarea aborda un componente crucial del producto, lo que asegura que se cubran tanto aspectos visuales como funcionales. Este enfoque modular permite no solo mantener un orden en el proceso de desarrollo, sino también garantizar que cada sección cumple con las funcionalidades.  
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
-No se implementaron servicios en este sprint 3
+Para este tercer sprint usamos la primera versión de nuestro servicio desarrollado en c#.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+Durante este sprint, se utilizó FireBase como plataforma de despliegue para la aplicación web.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
