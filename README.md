@@ -910,6 +910,9 @@ Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Web
 
 | Branch | Commit Id | Commit Message | Commited on (Date) |
 | ------ | --------- | -------------- | ------------------ |
+| feature/IAM | ac465252  | feat: implement user authentication endpoints                    | 30/10/24           |
+| feature/IAM | 00cddbc6  | feat: add user command service and hashing functionality         | 30/10/24           |
+| feature/IAM | 2320e3f2  | feat: add user model and commands                                | 30/10/24           |
 | feature/shared | ada340de | feat: add base repository and unit of work interfaces |22/10/24|   
 | feature/shared | b259c0e8 | feat: add DbContext configuration, ModelBuilder String extensions |22/10/24| 
 | feature/shared | f79cf71f | feat: add base repository and unit of work implementations |22/10/24|
