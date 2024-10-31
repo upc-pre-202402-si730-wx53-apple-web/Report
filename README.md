@@ -318,7 +318,7 @@ objetivos</td>
         <p><b>TP1:</b></p>
         <p>Para el tp1 hice la parte de Messaging del Front-end y el Register del usuario, también agregué a los User Stories los Technical Stories.</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>Para esta parte, he aportado en la creación del back-end para el context SubscriptionBC.</p>
         <p><b>TF:</b></p>
         <p>.</p>
         <p><b>Durán Santander, Emilia Mercedes</b></p>
