@@ -226,7 +226,7 @@ forma conjunta</b></td>
         <p><b>TP1:</b></p>
         <p>En el TP1, me enfoqué en corregir el reporte y desarrollar el frontend para la gestión de usuarios, específicamente en la carga de registro y perfil. Durante esta etapa, asumí un rol activo para coordinar tareas y guiar al equipo en la implementación de soluciones, lo que contribuyó a un trabajo conjunto efectivo y a la consecución de nuestros objetivos comunes.</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>En la TB2, colaboré estrechamente con mi equipo para desarrollar el Capítulo 5, específicamente en las secciones 5.3 y 5.4. Durante este proceso, lideré discusiones sobre la estructura del contenido y la importancia de los usuarios backend, asegurando que cada miembro pudiera aportar sus ideas y perspectivas. Esta experiencia fortaleció mi capacidad de liderazgo al coordinar esfuerzos y promover un ambiente donde todos se sintieran motivados a contribuir, lo que resultó en un trabajo cohesivo y alineado con nuestros objetivos.</p>
         <p><b>TF:</b></p>
         <p>.</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
@@ -275,9 +275,9 @@ objetivos establecidos para este entregable.</p>
         <p><strong>TB1:</strong></p>
         <p>En conclusión, en esta primera entrega se logró una buena comunicación entre los miembros del equipo. Cada participante estuvo activo y presento sus ideas de manera que todos pudieran entenderse entre sí. Concluimos que aún hay pequeñas dificultades para expresarnos con todos, pero que se puede solucionar con tiempo.</p>
         <p><strong>TP1:</strong></p>
-        <p>En resumen, .</p>
+        <p>En resumen, en esta segunda entrega se logró mejorar la comunicación entre los miembros del equipo, especialmente en el trabajo relacionado con el frontend y la corrección de errores previos. Cada participante mostró un compromiso activo y presentó sus ideas de manera clara, facilitando la comprensión mutua. Aunque aún enfrentamos algunos desafíos menores en la expresión de nuestras opiniones, estamos seguros de que con tiempo podremos solucionarlos.</p>
         <p><strong>TB2:</strong></p>
-        <p>En conclusión, </p>
+        <p>En resumen, en esta tercera entrega se logró una mejora significativa en la comunicación entre los miembros del equipo, centrándonos en el backend y la implementación de la estructura, así como en la corrección de errores de entregas anteriores. Cada participante estuvo comprometido y presentó sus ideas de manera clara, lo que facilitó la comprensión entre todos. Aunque todavía enfrentamos algunos desafíos menores en la expresión de nuestras opiniones, confiamos en que con tiempo podremos superarlos.</p>
         <p><strong>TF:</strong></p>
         <p>En conclusión, .</p>
       </td>
@@ -294,7 +294,7 @@ objetivos</td>
         <p><b>TP1:</b></p>
         <p>En el TP1, realicé correcciones al reporte y trabajé en el desarrollo del frontend para la gestión de usuarios, específicamente en la carga de registro y perfil. A través de una planificación cuidadosa y el establecimiento de metas claras, promoví un ambiente inclusivo donde cada miembro del equipo pudo aportar y colaborar, asegurando que alcanzáramos nuestros objetivos de manera efectiva.</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>En la TB2, participé activamente en la creación de un entorno colaborativo al trabajar en el video sobre el producto. Junto a mi equipo, establecimos metas claras para el contenido y la narrativa del video, asegurando que cada miembro tuviera un rol definido en la planificación de las tareas. Esta experiencia no solo fomentó un ambiente inclusivo donde se valoraron las opiniones de todos, sino que también nos permitió cumplir con nuestros objetivos de forma efectiva, reflejando un trabajo conjunto que potenciaba nuestras habilidades individuales.</p>
         <p><b>TF:</b></p>
         <p>.</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
@@ -339,9 +339,9 @@ objetivos</td>
         <p><strong>TB1:</strong></p>
         <p>Se participó equitativamente el informe. En conclusión, estamos en camino para desempeñarnos de manera equitativa en el trabajo.</p>
         <p><strong>TP1:</strong></p>
-        <p>En resumen, .</p>
+        <p>Se contribuyó de manera equitativa al informe. En conclusión, estamos avanzando hacia un desempeño más equilibrado en nuestro trabajo.</p>
         <p><strong>TB2:</strong></p>
-        <p>En conclusión, </p>
+        <p>Se colaboró de manera equitativa en el informe. En conclusión, estamos progresando hacia un desempeño más balanceado en nuestro trabajo.</p>
         <p><strong>TF:</strong></p>
         <p>En conclusión, .</p>
       </td>
