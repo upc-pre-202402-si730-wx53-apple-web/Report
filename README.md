@@ -1996,6 +1996,10 @@ Para este Sprint nos enfocaremos en los task para la elaboración de la landing 
 | Sum of Story Points | 20 | 
 
 #### 5.2.1.2. Sprint Backlog 1
+<img src="assets/Chapter-5/trello1.png">
+
+[Link Trello:](https://trello.com/b/cVhofK92/sprint-1) https://trello.com/b/cVhofK92/sprint-1
+
 <table>
     <thead>
         <tr>
@@ -2024,7 +2028,7 @@ Para este Sprint nos enfocaremos en los task para la elaboración de la landing 
             <td>UT01</td>
             <td>Mostrar planes</td>
             <td>Mostrar los planes de suscripción y sus descripciones</td>
-            <td>1</td>
+            <td>4</td>
             <td>Karito Medina</td>
             <td>Done</td>
         </tr>
@@ -2034,7 +2038,7 @@ Para este Sprint nos enfocaremos en los task para la elaboración de la landing 
             <td>UT02</td>
             <td>Mostrar reseñas</td>
             <td>Mostrar reseñas verificadas por segmento </td>
-            <td>1</td>
+            <td>4</td>
             <td>Camila Sanchez</td>
             <td>Done</td>
         </tr>
@@ -2044,17 +2048,17 @@ Para este Sprint nos enfocaremos en los task para la elaboración de la landing 
             <td>UT03</td>
             <td>Mostrar información</td>
             <td>Mostrar más información y beneficios</td>
-            <td>1</td>
+            <td>4</td>
             <td>Emilia Durán</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US04</td>
-            <td>Sporte de la aplicación</td>
+            <td>Soporte de la aplicación</td>
             <td>UT04</td>
             <td>Mostrar formulario de consultas</td>
             <td>Mostrar formulario para recibir consultas, con cuerpo de mensaje y correo para retornar respuesta</td>
-            <td>2</td>
+            <td>4</td>
             <td>Daniel Chávarri</td>
             <td>Done</td>
         </tr>
@@ -2064,9 +2068,9 @@ Para este Sprint nos enfocaremos en los task para la elaboración de la landing 
             <td>UT05</td>
             <td>Mostrar información de privacidad</td>
             <td>Mostrar información de seguridad, privacidad, y de tratamiento de datos</td>
-            <td>2</td>
+            <td>4</td>
             <td>Gianfranco Durand</td>
-            <td>In-Review</td>
+            <td>Done</td>
         </tr>
         <tr>
             <td>US08</td>
@@ -2074,7 +2078,7 @@ Para este Sprint nos enfocaremos en los task para la elaboración de la landing 
             <td>UT06</td>
             <td>Formulario de registro</td>
             <td>Mostrar y redirigir al formulario de registro para nuevos usuarios desde landing page.</td>
-            <td>2</td>
+            <td>4</td>
             <td>Gianfranco Durand</td>
             <td>Done</td>
         </tr>
@@ -2082,7 +2086,7 @@ Para este Sprint nos enfocaremos en los task para la elaboración de la landing 
 </table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review
-Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Landing-Page
+ [Link del repositorio:](https://github.com/upc-pre-202402-si730-wx53-apple-web/Landing-Page) https://github.com/upc-pre-202402-si730-wx53-apple-web/Landing-Page
 
 | Branch | Commit Id | Commit Message | Commited on (Date) |
 | ------ | ----------| -------------- | ------------------ |
@@ -2096,6 +2100,19 @@ Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Lan
 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+[Link del repositorio:](https://github.com/upc-pre-202402-si730-wx53-apple-web/acceptance-testing) https://github.com/upc-pre-202402-si730-wx53-apple-web/acceptance-testing
+
+
+| Branch | Commit Id | Commit Message             | Commited on (Date) |
+|--------|-----------|----------------------------|--------------------|
+| main   | 85b6471   | feat: add feature us08      | 13/10/24           |
+| main   | fc74b61   | feat: add feature us06      | 13/10/24           |
+| main   | 6d20901   | feat: add feature us05      | 13/10/24           |
+| main   | 159b90f   | feat: add feature us04      | 13/10/24           |
+| main   | 23733b8   | feat: add feature us03      | 13/10/24           |
+| main   | 21e8475   | feat: add feature us02      | 13/10/24           |
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 Durante este Sprint, completamos la implementación de la Landing Page de DebtGo, enfocándonos en un diseño atractivo y responsivo que mejora la experiencia del usuario. A continuación, se muestran capturas de las principales vistas que ilustra la visualización y navegación logradas.
 
@@ -2155,11 +2172,16 @@ Para este Sprint nos enfocaremos desarrollar una primera version del Frontend.
 | Sum of Story Points | 20 | 
 
 #### 5.2.2.2. Sprint Backlog 2
+Durante el segundo sprint, el equipo tuvo como meta implementar el frontend de TaskLinker utilizando JavaScript, Vue. CSS y HTML. El enfoque se centró en desarrollar funcionalidades clave en varias páginas. Además, el equipo se enfocó en las historias de usuario relacionadas con este desarrollo, asegurando que cada nueva característica no solo fuera funcional, sino también alineada con las necesidades de los usuarios. Se utilizó Trello para organizar y distribuir las tareas, permitiendo que cada integrante del equipo se especializara en áreas que se correspondían con sus competencias, lo que facilitó un avance eficiente y coordinado hacia el objetivo del sprint.
+
+ <img src="assets/Chapter-5/trello2.png">
+
+[Link Trello:](https://trello.com/b/ZCrrjFlj/sprint-2) https://trello.com/b/ZCrrjFlj/sprint-2
+
 <table>
     <thead>
         <tr>
-        <th>Sprint #</th>
-        <th colspan="7">Sprint 1</th>
+        <th colspan="7">Sprint 2</th>
         </tr>
     </thead>
     <tbody>
@@ -2183,7 +2205,7 @@ Para este Sprint nos enfocaremos desarrollar una primera version del Frontend.
             <td>UT06</td>
             <td>Formulario de registro</td>
             <td>Mostrar y redirigir al formulario de registro para nuevos usuarios desde la landing page.</td>
-            <td>2</td>
+            <td>4</td>
             <td>Gianfranco Durand</td>
             <td>Done</td>
         </tr>
@@ -2193,16 +2215,106 @@ Para este Sprint nos enfocaremos desarrollar una primera version del Frontend.
             <td>UT10</td>
             <td>Mensajes entre usuarios</td>
             <td>Desarrollar sistema de mensajería para consultas entre usuarios.</td>
-            <td>3</td>
+            <td>4</td>
             <td>Daniel Chávarri</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US020</td>
             <td>Sistema de mensajes y casos</td>
-            <td>UT11</td>
-            <td>Implementación de toolbar</td>
+            <td>UT1
+            UT2
+            UT3</td>
+            <td>Implementación de Idioma
+            Implementación de Notificaciones
+            Implementación de Log out, Profile</td>
             <td>Crear la barra de herramientas (toolbar) para la navegación del sistema.</td>
+            <td>4</td>
+            <td>Camila Sanchez</td>
+            <td>Done</td>
+            <tr>
+        <td>US009</td>
+            <td>Creación de perfil - Consultor financiero</td>
+            <td>UT1
+            UT2
+            UT3
+            </td>
+            <td>Completar información personal
+            Agregar experiencia profesional
+            Tipo de Plan
+            </td>
+            <td>Recolectar datos personales básicos (nombre, email, etc.).
+            Permitir al consultor agregar
+            Poder cambiar el tipo de Plan (Basico y Premium)
+            </td>
+            <td>3</td>
+            <td>Karito Medina</td>
+            <td>Done</td>
+        </tr>
+        <td>US010</td>
+            <td>Creación de perfil - Emprendedor</td>
+            <td>UT1
+            UT2
+            UT3
+            </td>
+            <td>Completar información personal
+            Agregar experiencia profesional
+            Tipo de Plan</td>
+            <td>Recolectar datos personales básicos (nombre, email, etc.).
+            Permitir al consultor agregar
+            Poder cambiar el tipo de Plan (Basico y Premium)</td>
+            <td>3</td>
+            <td>Karito Medina</td>
+            <td>Done</td>
+        </tr>
+        <td>US015</td>
+            <td>Publicación de servicios</td>
+            <td>UT1
+            UT2
+            UT3</td>
+            <td>Crear nuevo servicio<br>
+            Definir precios del servicio
+            Agregar descripción del servicio</td>
+            <td>Permitir al consultor crear un nuevo servicio a publicar
+            Permitir al consultor definir el precio de su servicio. Permitir al consultor agregar una descripción detallada del servicio</td>
+            <td>4</td>
+            <td>Emilia Duran</td>
+            <td>Done</td>
+        </tr>
+        <td>US022</td>
+            <td>Envío de documentos adjuntos</td>
+            <td>UT1
+            UT2</td>
+            <td>Adjuntar imágenes al servicio<br>
+            Publicar servicio</td>
+            <td>Permitir al consultor adjuntar imágenes que describan su servicio. Finalizar la publicación del servicio y ponerlo disponible para los usuarios</td>
+            <td>5</td>
+            <td>Emilia Duran</td>
+            <td>Done</td>
+        </tr>
+        </tr>
+        <td>US027</td>
+            <td>Visualización de métricas propias</td>
+            <td>UT1
+            UT2 
+            </td>
+            <td>Ver métricas de ingresos<br>
+            Ver evolución de métricas</td>
+            <td>Mostrar los ingresos generados por los servicios prestados. 
+            Mostrar gráficas con la evolución de las métricas a lo largo del tiempo</td>
+            <td>6</td>
+            <td>Emilia Duran</td>
+            <td>Done</td>
+        </tr>
+         </tr>
+        <td>US03</td>
+            <td>Planes de la aplicación</td>
+            <td>UT1
+            UT2 
+            </td>
+            <td>Ver descripción de planes<br>
+            Seleccionar plan preferente </td>
+            <td>Se encuentra en el landing page cuando navega a la sección Plans entonces visualiza de modo comparativo los planes de suscripción</td>
             <td>1</td>
             <td>Camila Sanchez</td>
             <td>Done</td>
@@ -2217,19 +2329,369 @@ Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Fro
 | Branch | Commit Id | Commit Message | Commited on (Date) |
 | ------ | --------- | -------------- | ------------------ |
 | feature/fake-api | 5c5d7931 | feat: add id to db.json, update route |21/09/24|   
-| feature/iam | 9c4d9322 | feat: add user model |21/09/24|   
+| feature/iam | 9c4d9322 | feat: add user model |24/09/24|   
+| feature/iam | a386f446 | feat: add login component |24/09/24|
+| feature/iam | 482e16ae | feat: add register component |24/09/24|
+| feature/iam | ec93716c |feat: add authentication service |24/09/24|
+| feature/iam | 883b586f |feat: add global styles |24/09/24|
+| feature/public | 796ac959 |feat: add toolbar|24/09/24|
+| feature/public | 1db5b029 |feat: add toolbar |27/09/24|
+| feature/routes | 87057be1 |feat: add routes login, register, messages|24/09/24|
+| feature/users | 42a1a805 |feat: Create Register.vue |24/09/24|
+| feature/users | 333356ee |chore: Added UserProfile in App.vue |24/09/24|
+| feature/users | 1375d4f0 |feat: update message panel |24/09/24|
+| feature/workspace | 83ad4cff |feat: added services and metrics cards |24/09/24|
+| feature/workspace | 8eb70039 |feat: added information panel |24/09/24|
+| feature/workspace | dbea978e |feat: added workspace information component |24/09/24|
+| feature/workspace | d3f2dfaf |feat: added metrics card & workspace view |24/09/24|
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 #### 5.2.2.5. Execution Evidence for Sprint Review
+- Login y register
+  
+- Pasarela de pagos
+  
+- Mi perfil
+  
+- My Workspace
+  
+- Mensaje
+
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+No se implementaron servicios en este sprint 2
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+Para realizar el despliegue del Frontend se realizaron lo siguientes pasos:
+
+1: Hacer merges de las ramas feature en la rama develop y finalmente merge en la rama main
+
+2: Ir a Netlify, seleccionar Add new site, seguidamente seleccionar Import an existing project
+
+3: Seleccionar el repositorio del Frontend
+
+4: Ingresar un nombre disponible para la página del frontend y seleccionar la rama main
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
+<img src="./assets/Chapter-5/sprint2-insights5.png"/>
+<img src="./assets/Chapter-5/sprint2-insights4.png"/>
+
+### 5.2.3. Sprint 3
+Para este Sprint nos enfocaremos desarrollar una primera version del Web-Services
+
+#### 5.2.3.1. Sprint Planning 3
+| Sprint 3 | Sprint 3 |
+| -------- | -------- |
+|**Sprint Planning Background**|
+| Date | 2024-08-29|
+| Time | 07:00 PM |
+| Location | Discord Virtual Meeting |
+| Prepared By | Karito Medina, Gianfranco Durand |
+|Attendees (to planning meeting) | Camila Sanchez, Gianfranco Durand, Daniel Chávarri , Karito Medina, Emilia Duran
+| Sprint 2 Review Summary | En el sprint 2 se realizó el front-end |
+| Sprint 2 Retrospective Summary | Logramos alcanzar la meta del sprint anterior de desplegar el front-end|
+| **Sprint Goal & User Stories** | 
+| Sprint 3 Goal | Implementar los web services a un 70% |
+| Sprint 3 Velocity | 20 |
+| Sum of Story Points | 20 | 
+
+#### 5.2.3.2. Sprint Backlog 3
+Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte del back end de la aplicación web y completar las funcionalidades del front end.
+
+<img src="assets/Chapter-5/trello3.png">
+
+[Link Trello:](https://trello.com/b/z15MxWUY/sprint-3) https://trello.com/b/z15MxWUY/sprint-3
+
+<table>
+    <thead>
+        <tr>
+        <th colspan="7">Sprint 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Description</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do/In-Process/To-Review/Done)</td>
+        </tr>
+        <tr>
+            <td>TS12</td>
+            <td>Gestión de Métodos de Pago</td>
+            <td>UT01
+            UT02
+            UT03</td>
+            <td>Implementar validación de métodos de pago soportados (tarjeta de crédito, débito, PayPal).
+            <br>Crear endpoint para agregar método de pago.</br>
+            Crear endpoint para eliminar método de pago.</td>
+            <td>Permitir al usuario agregar, actualizar y eliminar métodos de pago en su cuenta de usuario.</td>
+            <td>6</td>
+            <td>Gianfranco Durand</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS23</td>
+            <td>Implementación de endpoint para notificaciones de actualizaciones</td>
+            <td>UT01
+            UT02
+            UT03</td>
+            <td>Crear endpoint para envío de notificaciones de actualizaciones.
+            <br> Diseñar interfaz de usuario para activar/desactivar notificaciones.</br>
+            Implementar sistema de preferencias de notificaciones por usuario.</td>
+            <td>Desarrollar un endpoint que permita notificar a los usuarios sobre actualizaciones en la plataforma (nuevas funciones, mejoras de seguridad, etc.).</td>
+            <td>6</td>
+            <td>Camila Sanchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS24</td>
+            <td>Endpoint para envío de alertas de fechas importantes</td>
+            <td>UT1
+            UT2
+            UT3</td>
+            <td>Crear lógica para envío de alertas en diferentes formatos (email, push notification).
+            Diseñar interfaz para visualización de alertas en la aplicación.
+           Crear endpoint para alertas de vencimiento de suscripciones.</td>
+            <td>Implementar un endpoint que permita enviar alertas sobre fechas importantes (vencimiento de suscripción, fechas de pago, publicacion nueva, etc.).</td>
+            <td>6</td>
+            <td>Camila Sanchez</td>
+            <td>Done</td>
+            <tr>
+        <td>TS08</td>
+            <td>Endpoint para registro de usuarios</td>
+            <td>UT1
+            UT2
+            UT3
+            </td>
+            <td> Implementar verificación de correo electrónico.
+            Diseñar interfaz para formulario de registro de usuario.
+            Agregar lógica para contraseñas.
+            </td>
+            <td>Desarrollar un endpoint para permitir el registro de nuevos usuarios en la plataforma.
+            </td>
+            <td>6</td>
+            <td>Karito Medina</td>
+            <td>Done</td>
+        </tr>
+        <td>TS03</td>
+            <td>Endpoint para obtener planes de suscripción</td>
+            <td>UT1
+            UT2
+            </td>
+            <td>Crear endpoint para consulta de planes de suscripción.
+            Crear pruebas de integración para el endpoint de planes de suscripción.</td>
+            <td>Crear un endpoint que permita obtener los diferentes planes de suscripción disponibles en la plataforma.</td>
+            <td>6</td>
+            <td>Daniel Chávarri </td>
+            <td>Done</td>
+        </tr>
+        <td>TS11</td>
+            <td>Gestión de Planes de Suscripción</td>
+            <td>UT1
+            UT2
+            UT3</td>
+            <td>Crear endpoint para actualizar el plan de suscripción del usuario.<br>
+            Crear endpoint para cancelar suscripciones.
+            Diseñar interfaz de usuario para gestión de planes en la app.</td>
+            <td>Proporcionar funcionalidades para que los usuarios gestionen sus planes de suscripción (actualizar, cancelar, etc.).</td>
+            <td>6</td>
+            <td>Daniel Chávarri </td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Web-Services
+
+| Branch | Commit Id | Commit Message | Commited on (Date) |
+| ------ | --------- | -------------- | ------------------ |
+| feature/IAM | ac465252  | feat: implement user authentication endpoints                    | 30/10/24           |
+| feature/IAM | 00cddbc6  | feat: add user command service and hashing functionality         | 30/10/24           |
+| feature/IAM | 2320e3f2  | feat: add user model and commands                                | 30/10/24           |
+| feature/shared | ada340de | feat: add base repository and unit of work interfaces |22/10/24|   
+| feature/shared | b259c0e8 | feat: add DbContext configuration, ModelBuilder String extensions |22/10/24| 
+| feature/shared | f79cf71f | feat: add base repository and unit of work implementations |22/10/24|
+| feature/Notification-BC | 63ecd982 | feat: add base repository and unit of work interfaces|25/10/24| 
+| feature/Notification-BC | 9b381fa8 | feat: add DbContext, Interfaces, Infrastructure  |25/10/24|
+| feature/User-BC | 21d5a262 | feat(User): add value object  |29/10/24|
+| feature/User-BC | 38c47b17 | feat(User): add command. |29/10/24|
+| feature/User-BC | 2ab30c2f | feat(User): add queries. |29/10/24|
+| feature/User-BC | fa502cab | feat(User): add aggregates. |29/10/24|
+| feature/User-BC | 6f451265 | feat(User): add infrastructure. |29/10/24|
+| feature/User-BC | 389f95be | feat(User): add IUserContextFacade.cs. |29/10/24|
+| feature/User-BC | 763a7cd3 | feat(User): add UserContextFacade.cs. |29/10/24|
+| feature/User-BC | 1f6c6949 | feat(User): add resources. |29/10/24|
+| feature/User-BC | 850d2a9d | feat(User): add transforms. |29/10/24|
+| feature/User-BC | 8f26bc53 | feat(User): add services. |29/10/24|
+| feature/User-BC | f1e779fa | feat(User): add UsersController.cs. |29/10/24|
+| feature/User-BC | 7ee3e664 | feat(User): add IUserRepository.cs. |29/10/24|
+| feature/User-BC | 34668505 | feat(User): add UserCommandService.cs. |29/10/24|
+| feature/Notification-BC | 1d71f6df | feat: add base repository Aplication and Domain  |30/10/24|
+
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la aplicación web. Cada tarea aborda un componente crucial del producto, lo que asegura que se cubran tanto aspectos visuales como funcionales. Este enfoque modular permite no solo mantener un orden en el proceso de desarrollo, sino también garantizar que cada sección cumple con las funcionalidades.  
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+Para este tercer sprint usamos la primera versión de nuestro servicio desarrollado en c#.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+Durante este sprint, se utilizó FireBase como plataforma de despliegue para la aplicación web.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+<img src="./assets/Chapter-5/sprint3-insights6.png"/>
+<img src="./assets/Chapter-5/sprint2-insights4.png"/>
+
 ## 5.3. Validation Interviews
+En esta sección se detalla el proceso de validación mediante entrevistas con usuarios y expertos. Estas entrevistas son cruciales para evaluar la usabilidad, funcionalidad y eficacia de la aplicación DebtGo, garantizando que cumple con las necesidades y expectativas de nuestros segmentos de mercado.
+
 ### 5.3.1. Diseño de Entrevistas
+Se decribe la metodología utilizada para diseñar las entrevistas de validación, incluyendo la selección de participantes, la formulación de preguntas y el enfoque adaptaddo para obtener información relevante y precisa sobre la experiencia del usuario con la aplicación DebtGo.
+
+### Segmento Objetivo 1: Consultores Financieros
+
+- **Preguntas Generales**
+  - ¿Cuál es su nombre?
+  - ¿Cuál es su sexo?
+  - ¿Cuántos años tiene?
+  - ¿Cuál es su ocupación?
+  
+- **Preguntas Específicas**
+  - Según lo visto, ¿qué te pareció la estructuración de la página?
+  - ¿Cuáles son los puntos de mejora?
+  - ¿Crees que la aplicación es intuitiva y fácil de usar?
+  - ¿Hubo alguna sección de la aplicación que te resultó complicada?
+  - ¿Cuáles son los aspectos positivos y negativos que destacarías de la aplicación?
+  - ¿Qué funcionalidades consideras esenciales para tu trabajo como consultor financiero?
+  - ¿La información presentada es relevante y útil para tu labor profesional?
+
+### Segmento Objetivo 2: Emprendedores
+
+- **Preguntas Generales**
+  - ¿Cuál es su nombre?
+  - ¿Cuál es su sexo?
+  - ¿Cuántos años tiene?
+  - ¿Cuál es su ocupación?
+  
+- **Preguntas Específicas**
+  - Según lo visto, ¿qué te pareció la estructuración de la página?
+  - ¿Cuáles son los puntos de mejora?
+  - ¿Crees que la aplicación es intuitiva y fácil de usar?
+  - ¿Hubo alguna sección de la aplicación que te resultó complicada?
+  - ¿Cuáles son los aspectos positivos y negativos que destacarías de la aplicación?
+  - ¿Qué características adicionales crees que serían útiles para emprendedores?
+  - ¿Cómo la aplicación podría apoyarte en el crecimiento de tu negocio?
+
+
 ### 5.3.2. Registro de Entrevistas
-### 5.3.3. Evaluaciones según heurísticas
-# 5.4. Video About-the-Product
+Esta subsección presenta un registro detallado de las entrevistas realizadas, documentando las respuestas de los participantes, las observaciones clave y los comentarios obtenidos durante las sesiones de validación. Estos registros proporcionan una base sólida para el análisis y la mejora del producto.
+
+**Segmento Objetivo 1: Consultores Financieros**
+-------------------------------------------
+**Entrevistado(a) #1:** <br>
+**Sexo:** <br>
+**Edad:**  años<br>
+**Ocupación**<br>
+**Minuto de la entrevista:**<br>
+**Enlace del video completo de las entrevistas:**<br>
+
+<br>
+
+**Resumen de la entrevista:**<br>
+El entrevistado mostró ...
+<br><br>
+
+**Segmento Objetivo 2: Emprendedores**
+-------------------------------------------
+**Entrevistado(a) #1:**<br>
+**Sexo:**<br>
+**Edad:** años<br>
+**Ocupación**<br>
+**Minuto de la entrevista:**<br>
+**Enlace del video completo de las entrevistas:**<br>
+
+<br>
+
+**Resumen de la entrevista:**
+
+<br><br>
+
+
+### 5.3.3. Evaluación según heurísticas
+Aquí se explican las evaluaciones realizadas utilizando principios heurísticos de usabilidad. Se analizan los resultados obtenidos y se identifican áreas de mejora en la interfaz y la funcionalidad de la aplicación, con el fin de optimizar la experiencia del usuario y asegurar la eficacia del producto.
+
+**UX Heuristics & Principles Evaluation Usability - Inclusive Design - Information Architecture**
+
+**Carrera:** Ingeniería de Software
+**Curso:** Aplicaciones Web
+**Sección:** WX53
+**Profesores:** Todos
+**Cliente(s):** ,
+
+**Site o App a Evaluar:** DebtGo
+
+**Tareas a Evaluar:**
+**Escala de Severidad:**
+Los errores serán puntiados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+|   1   | Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+|   2   | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja de cara resolverlo al siguiente release. |
+|   3   | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+|   4   | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+**Tabla Resumen:**
+
+| # | Problema | Escala de Severidad | Heurística/Principio violada(o) |
+|---|----------|---------------------|---------------------|
+| 1 |  |  |  |
+| 2 |  |  |  |
+| 3 |  |  |  |
+
+----
+<br>
+
+**Descripción del Problemas:**
+
+- **Problema #1:**
+- **Severidad:** 
+- **Heurística/Principio violado(a):** 
+- **Problema:** 
+- **Recomendación:** 
+
+---
+
+- **Problema #2:**
+- **Severidad:** 
+- **Heurística/Principio violado(a):** 
+- **Problema:** 
+- **Recomendación:** 
+
+---
+
+- **Problema #3:**
+- **Severidad:** 
+- **Heurística/Principio violado(a):** 
+- **Problema:** 
+- **Recomendación:** 
+<br>
+
+
+## 5.4. Video About-The-Product
+En esta sección se presenta un video explicatiovo sobre la aplicación DebtGo. El video destaca las principales características y beneficios del producto, demostrando cómo satisface las necesidad de los clientes. Este recurso visual es esencial para comunicar de manera efectiva el valor de la apliación a potenciales usuarios e inversores.
+
+Enlace al Video About-The-Product: [https://youtu.be/xg8zKvR-nrQ](https://youtu.be/m73QDqMx1vo)
 
 # Conclusiones
 ## Conclusiones y recomendaciones
