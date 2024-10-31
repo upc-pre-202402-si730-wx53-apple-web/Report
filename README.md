@@ -784,11 +784,11 @@ Para este Sprint nos enfocaremos desarrollar una primera version del Web-Service
 | Location | Discord Virtual Meeting |
 | Prepared By | Karito Medina, Gianfranco Durand |
 |Attendees (to planning meeting) | Camila Sanchez, Gianfranco Durand, Daniel Chávarri , Karito Medina, Emilia Duran
-| Sprint n – 1 Review Summary | No hubo sprint anterior |
-| Sprint n – 1 Retrospective Summary | No hubo sprint anterior |
+| Sprint 2 Review Summary | En el sprint 2 se realizó el front-end |
+| Sprint 2 Retrospective Summary | Logramos alcanzar la meta del sprint anterior de desplegar el front-end|
 | **Sprint Goal & User Stories** | 
-| Sprint 1 Goal | Realizar la Landing Page |
-| Sprint 1 Velocity | 20 |
+| Sprint 3 Goal | Implementar los web services a un 70% |
+| Sprint 3 Velocity | 20 |
 | Sum of Story Points | 20 | 
 
 #### 5.2.3.2. Sprint Backlog 3
