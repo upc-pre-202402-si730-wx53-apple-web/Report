@@ -335,9 +335,9 @@ objetivos</td>
         <p><strong>TB1:</strong></p>
         <p>Se participó equitativamente el informe. En conclusión, estamos en camino para desempeñarnos de manera equitativa en el trabajo.</p>
         <p><strong>TP1:</strong></p>
-        <p>En resumen, .</p>
+        <p>En resumen, en esta segunda entrega se logró mejorar la comunicación entre los miembros del equipo, especialmente en el trabajo relacionado con el frontend y la corrección de errores previos. Cada participante mostró un compromiso activo y presentó sus ideas de manera clara, facilitando la comprensión mutua. Aunque aún enfrentamos algunos desafíos menores en la expresión de nuestras opiniones, estamos seguros de que con tiempo podremos solucionarlos.</p>
         <p><strong>TB2:</strong></p>
-        <p>En conclusión, </p>
+        <p>En resumen, en esta tercera entrega se logró una mejora significativa en la comunicación entre los miembros del equipo, centrándonos en el backend y la implementación de la estructura, así como en la corrección de errores de entregas anteriores. Cada participante estuvo comprometido y presentó sus ideas de manera clara, lo que facilitó la comprensión entre todos. Aunque todavía enfrentamos algunos desafíos menores en la expresión de nuestras opiniones, confiamos en que con tiempo podremos superarlos.</p>
         <p><strong>TF:</strong></p>
         <p>En conclusión, .</p>
       </td>
