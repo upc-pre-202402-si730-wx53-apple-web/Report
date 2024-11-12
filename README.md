@@ -222,7 +222,7 @@ forma conjunta</b></td>
         <p><b>TP1:</b></p>
         <p>En el TP1, me enfoqué en corregir el reporte y desarrollar el frontend para la gestión de usuarios, específicamente en la carga de registro y perfil. Durante esta etapa, asumí un rol activo para coordinar tareas y guiar al equipo en la implementación de soluciones, lo que contribuyó a un trabajo conjunto efectivo y a la consecución de nuestros objetivos comunes.</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>En resumen, en esta tercera entrega se logró una mejora significativa en la comunicación entre los miembros del equipo, centrándonos en el backend y la implementación de la estructura, así como en la corrección de errores de entregas anteriores. Cada participante estuvo comprometido y presentó sus ideas de manera clara, lo que facilitó la comprensión entre todos. Aunque todavía enfrentamos algunos desafíos menores en la expresión de nuestras opiniones, confiamos en que con tiempo podremos superarlos.</p>
         <p><b>TF:</b></p>
         <p>.</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
