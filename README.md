@@ -784,11 +784,11 @@ Para este Sprint nos enfocaremos desarrollar una primera version del Web-Service
 | Location | Discord Virtual Meeting |
 | Prepared By | Karito Medina, Gianfranco Durand |
 |Attendees (to planning meeting) | Camila Sanchez, Gianfranco Durand, Daniel Chávarri , Karito Medina, Emilia Duran
-| Sprint n – 1 Review Summary | No hubo sprint anterior |
-| Sprint n – 1 Retrospective Summary | No hubo sprint anterior |
+| Sprint 2 Review Summary | En el sprint 2 se realizó el front-end |
+| Sprint 2 Retrospective Summary | Logramos alcanzar la meta del sprint anterior de desplegar el front-end|
 | **Sprint Goal & User Stories** | 
-| Sprint 1 Goal | Realizar la Landing Page |
-| Sprint 1 Velocity | 20 |
+| Sprint 3 Goal | Implementar los web services a un 70% |
+| Sprint 3 Velocity | 20 |
 | Sum of Story Points | 20 | 
 
 #### 5.2.3.2. Sprint Backlog 3
@@ -910,6 +910,9 @@ Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Web
 
 | Branch | Commit Id | Commit Message | Commited on (Date) |
 | ------ | --------- | -------------- | ------------------ |
+| feature/IAM | ac465252  | feat: implement user authentication endpoints                    | 30/10/24           |
+| feature/IAM | 00cddbc6  | feat: add user command service and hashing functionality         | 30/10/24           |
+| feature/IAM | 2320e3f2  | feat: add user model and commands                                | 30/10/24           |
 | feature/shared | ada340de | feat: add base repository and unit of work interfaces |22/10/24|   
 | feature/shared | b259c0e8 | feat: add DbContext configuration, ModelBuilder String extensions |22/10/24| 
 | feature/shared | f79cf71f | feat: add base repository and unit of work implementations |22/10/24|
