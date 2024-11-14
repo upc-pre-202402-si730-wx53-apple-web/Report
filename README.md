@@ -745,15 +745,15 @@ Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Fro
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 #### 5.2.2.5. Execution Evidence for Sprint Review
 - Login y register
-  
+  <img src="./assets/Chapter-5/Loginyregister.png"/>
 - Pasarela de pagos
   
 - Mi perfil
   
 - My Workspace
-  
+  <img src="./assets/Chapter-5/Workspace.png"/>
 - Mensaje
-
+<img src="./assets/Chapter-5/Mensaje.png"/>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 No se implementaron servicios en este sprint 2
@@ -946,6 +946,69 @@ Durante este sprint, se utilizó FireBase como plataforma de despliegue para la 
 <img src="./assets/Chapter-5/sprint3-insights6.png"/>
 <img src="./assets/Chapter-5/sprint2-insights4.png"/>
 
+### 5.2.4. Sprint 4
+En la siguiente sección, se presentará el sprint #4 con la versión de la aplicación web e implementación total del back-end, desarrollado en C#. Mostrando la organización, distribución y resultados de la aplicación web y los web services.
+#### 5.2.4.1. Sprint Planning 4
+| Sprint 4 | Sprint 4 |
+| -------- | -------- |
+|**Sprint Planning Background**|
+| Date | 2024-08-29|
+| Time | 07:00 PM |
+| Location | Discord Virtual Meeting |
+| Prepared By | Karito Medina, Gianfranco Durand |
+|Attendees (to planning meeting) | Camila Sanchez, Gianfranco Durand, Daniel Chávarri , Karito Medina, Emilia Duran
+| Sprint n – 1 Review Summary | No hubo sprint anterior |
+| Sprint n – 1 Retrospective Summary | No hubo sprint anterior |
+| **Sprint Goal & User Stories** | 
+| Sprint 1 Goal | Realizar la Landing Page |
+| Sprint 1 Velocity | 20 |
+| Sum of Story Points | 20 | 
+
+#### 5.2.4.2. Sprint Backlog 4
+Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera total el back end de la aplicación web.
+
+<img src="assets/Chapter-5/trello3.png">
+
+[Link Trello:](https://trello.com/b/z15MxWUY/sprint-3) https://trello.com/b/z15MxWUY/sprint-3
+
+<table>
+    <thead>
+        <tr>
+        <th colspan="7">Sprint 4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Description</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do/In-Process/To-Review/Done)</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+En este punto abarcaremos las funcionalidades y la evidencia de que pudimos completar exitosamente las tareas planteadas en el Sprint Planning 3:
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+#### 5.2.4.5. Execution Evidence for Sprint Review
+La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la aplicación web. Cada tarea aborda un componente crucial del producto, lo que asegura que se cubran tanto aspectos visuales como funcionales.
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+Para este cuarto sprint usamos la versión de nuestro servicio desarrollado en c#.
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+
+
+
 ## 5.3. Validation Interviews
 En esta sección se detalla el proceso de validación mediante entrevistas con usuarios y expertos. Estas entrevistas son cruciales para evaluar la usabilidad, funcionalidad y eficacia de la aplicación DebtGo, garantizando que cumple con las necesidades y expectativas de nuestros segmentos de mercado.
 
@@ -992,17 +1055,20 @@ Esta subsección presenta un registro detallado de las entrevistas realizadas, d
 
 **Segmento Objetivo 1: Consultores Financieros**
 -------------------------------------------
-**Entrevistado(a) #1:** <br>
-**Sexo:** <br>
-**Edad:**  años<br>
-**Ocupación**<br>
-**Minuto de la entrevista:**<br>
+**Entrevistado(a) #1:** Sebastian Silva<br>
+**Sexo:** Hombre <br>
+**Edad:** 20 años<br>
+**Ocupación** Estudiante <br>
+**Minuto de la entrevista:** 1:29 minutos <br>
 **Enlace del video completo de las entrevistas:**<br>
+
+[Link:](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210973_upc_edu_pe/EXkqBp4UFy1Hvppm25WnTwIBwqhzXX0XAEXct2jvd492pQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IWftYf
+) https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210973_upc_edu_pe/EXkqBp4UFy1Hvppm25WnTwIBwqhzXX0XAEXct2jvd492pQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IWftYf
 
 <br>
 
 **Resumen de la entrevista:**<br>
-El entrevistado mostró ...
+La entrevista realizada al emprendedor se centró en varios aspectos clave de su experiencia y el funcionamiento de su plataforma para emprendedores. El entrevistado destacó la utilidad del sistema de mensajes, que permite una comunicación directa y efectiva entre consultores y emprendedores. Sin embargo, sugirió que se podrían mejorar los estilos visuales de la interfaz. Se propuso la incorporación de un botón para grabar mensajes, lo que podría facilitar la comunicación y hacerla más accesible.
 <br><br>
 
 **Segmento Objetivo 2: Emprendedores**
