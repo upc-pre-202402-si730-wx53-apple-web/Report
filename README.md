@@ -906,7 +906,7 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
 </table>
 
 #### 5.2.3.3. Development Evidence for Sprint Review
-Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Web-Services
+[Link del repositorio:](https://github.com/upc-pre-202402-si730-wx53-apple-web/Web-Services) https://github.com/upc-pre-202402-si730-wx53-apple-web/Web-Services
 
 | Branch | Commit Id | Commit Message | Commited on (Date) |
 | ------ | --------- | -------------- | ------------------ |
@@ -938,11 +938,36 @@ Link del repositorio: https://github.com/upc-pre-202402-si730-wx53-apple-web/Web
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la aplicación web. Cada tarea aborda un componente crucial del producto, lo que asegura que se cubran tanto aspectos visuales como funcionales. Este enfoque modular permite no solo mantener un orden en el proceso de desarrollo, sino también garantizar que cada sección cumple con las funcionalidades.  
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
-Para este tercer sprint usamos la primera versión de nuestro servicio desarrollado en c#.
+Para este tercer sprint usamos la primera versión de nuestro servicio desarrollado en C#.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
-Durante este sprint, se utilizó FireBase como plataforma de despliegue para la aplicación web.
+Durante este sprint, se utilizó Azure como plataforma de despliegue para la aplicación web.
+
+- 1. Crear un recurso de *Azure App Service*
+
+<img src="assets/Chapter-5/sprint-3-evidencia-1.png"/>
+
+- 2. Escoger el entorno de **.NET 8** y configurar un nombre para el dominio
+
+<img src="assets/Chapter-5/sprint-3-evidencia-2.png"/>
+
+- 3. Actualizar la conexión a la base de datos
+
+<img src="assets/Chapter-5/sprint-3-evidencia-3.png"/>
+
+- 4. En el menú del recurso de Azure seleccionar *Deploy to Web App* 
+
+<img src="assets/Chapter-5/sprint-3-evidencia-4.png"/>
+
+<img src="assets/Chapter-5/sprint-3-evidencia-5.png"/>
+
+- 4. Verificar el funcionamiento de Swagger en el dominio del App Service
+
+<img src="assets/Chapter-5/sprint-3-evidencia-6.png"/>
+
+[Link:](https://debtgo.azurewebsites.net/swagger/index.html) https://debtgo.azurewebsites.net/swagger/index.html
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
