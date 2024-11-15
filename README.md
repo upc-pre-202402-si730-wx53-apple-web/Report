@@ -970,14 +970,14 @@ En la siguiente sección, se presentará el sprint #4 con la versión de la apli
 #### 5.2.4.2. Sprint Backlog 4
 Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera total el back end de la aplicación web.
 
-<img src="assets/Chapter-5/trello3.png">
+<img src="assets/Chapter-5/trello2.png">
 
-[Link Trello:](https://trello.com/b/z15MxWUY/sprint-3) https://trello.com/b/z15MxWUY/sprint-3
+[Link Trello:](https://trello.com/b/ZCrrjFlj/sprint-2) https://trello.com/b/ZCrrjFlj/sprint-2
 
 <table>
     <thead>
         <tr>
-        <th colspan="7">Sprint 4</th>
+        <th colspan="7">Sprint 2</th>
         </tr>
     </thead>
     <tbody>
@@ -995,16 +995,141 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
             <td>Assigned To</td>
             <td>Status (To-do/In-Process/To-Review/Done)</td>
         </tr>
+        <tr>
+            <td>US08</td>
+            <td>Registro en aplicación</td>
+            <td>UT06</td>
+            <td>Formulario de registro</td>
+            <td>Mostrar y redirigir al formulario de registro para nuevos usuarios desde la landing page.</td>
+            <td>4</td>
+            <td>-</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US020</td>
+            <td>Sistema de mensajes y casos</td>
+            <td>UT10</td>
+            <td>Mensajes entre usuarios</td>
+            <td>Desarrollar sistema de mensajería para consultas entre usuarios.</td>
+            <td>4</td>
+            <td>-</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US020</td>
+            <td>Sistema de mensajes y casos</td>
+            <td>UT1
+            UT2
+            UT3</td>
+            <td>Implementación de Idioma
+            Implementación de Notificaciones
+            Implementación de Log out, Profile</td>
+            <td>Crear la barra de herramientas (toolbar) para la navegación del sistema.</td>
+            <td>4</td>
+            <td>-</td>
+            <td>Done</td>
+            <tr>
+        <td>US009</td>
+            <td>Creación de perfil - Consultor financiero</td>
+            <td>UT1
+            UT2
+            UT3
+            </td>
+            <td>Completar información personal
+            Agregar experiencia profesional
+            Tipo de Plan
+            </td>
+            <td>Recolectar datos personales básicos (nombre, email, etc.).
+            Permitir al consultor agregar
+            Poder cambiar el tipo de Plan (Basico y Premium)
+            </td>
+            <td>3</td>
+            <td>-</td>
+            <td>Done</td>
+        </tr>
+        <td>US010</td>
+            <td>Creación de perfil - Emprendedor</td>
+            <td>UT1
+            UT2
+            UT3
+            </td>
+            <td>Completar información personal
+            Agregar experiencia profesional
+            Tipo de Plan</td>
+            <td>Recolectar datos personales básicos (nombre, email, etc.).
+            Permitir al consultor agregar
+            Poder cambiar el tipo de Plan (Basico y Premium)</td>
+            <td>3</td>
+            <td>-</td>
+            <td>Done</td>
+        </tr>
+        <td>US015</td>
+            <td>Publicación de servicios</td>
+            <td>UT1
+            UT2
+            UT3</td>
+            <td>Crear nuevo servicio<br>
+            Definir precios del servicio
+            Agregar descripción del servicio</td>
+            <td>Permitir al consultor crear un nuevo servicio a publicar
+            Permitir al consultor definir el precio de su servicio. Permitir al consultor agregar una descripción detallada del servicio</td>
+            <td>4</td>
+            <td>-</td>
+            <td>Done</td>
+        </tr>
+        <td>US022</td>
+            <td>Envío de documentos adjuntos</td>
+            <td>UT1
+            UT2</td>
+            <td>Adjuntar imágenes al servicio<br>
+            Publicar servicio</td>
+            <td>Permitir al consultor adjuntar imágenes que describan su servicio. Finalizar la publicación del servicio y ponerlo disponible para los usuarios</td>
+            <td>5</td>
+            <td>-</td>
+            <td>Done</td>
+        </tr>
+        </tr>
+        <td>US027</td>
+            <td>Visualización de métricas propias</td>
+            <td>UT1
+            UT2 
+            </td>
+            <td>Ver métricas de ingresos<br>
+            Ver evolución de métricas</td>
+            <td>Mostrar los ingresos generados por los servicios prestados. 
+            Mostrar gráficas con la evolución de las métricas a lo largo del tiempo</td>
+            <td>6</td>
+            <td>-</td>
+            <td>Done</td>
+        </tr>
+         </tr>
+        <td>US03</td>
+            <td>Planes de la aplicación</td>
+            <td>UT1
+            UT2 
+            </td>
+            <td>Ver descripción de planes<br>
+            Seleccionar plan preferente </td>
+            <td>Se encuentra en el landing page cuando navega a la sección Plans entonces visualiza de modo comparativo los planes de suscripción</td>
+            <td>1</td>
+            <td>-</td>
+            <td>Done</td>
+        </tr>
     </tbody>
 </table>
 
 #### 5.2.4.3. Development Evidence for Sprint Review
-En este punto abarcaremos las funcionalidades y la evidencia de que pudimos completar exitosamente las tareas planteadas en el Sprint Planning 3:
+
+En este punto abarcaremos las funcionalidades y la evidencia de que pudimos completar exitosamente las tareas planteadas en el Sprint Planning 4:
+
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
 La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la aplicación web. Cada tarea aborda un componente crucial del producto, lo que asegura que se cubran tanto aspectos visuales como funcionales.
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 Para este cuarto sprint usamos la versión de nuestro servicio desarrollado en c#.
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
