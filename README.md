@@ -1291,7 +1291,7 @@ Aquí se explican las evaluaciones realizadas utilizando principios heurísticos
 **Curso:** Aplicaciones Web
 **Sección:** WX53
 **Profesores:** Todos
-**Cliente(s):** ,
+**Cliente(s):** Sebastian Silva, Marisol Ordoñez
 
 **Site o App a Evaluar:** DebtGo
 
@@ -1310,38 +1310,69 @@ Los errores serán puntiados tomando en cuenta la siguiente escala de severidad
 
 | # | Problema | Escala de Severidad | Heurística/Principio violada(o) |
 |---|----------|---------------------|---------------------|
-| 1 |  |  |  |
-| 2 |  |  |  |
-| 3 |  |  |  |
+| 1 | La interfaz de la plataforma podría mejorarse visualmente. | 2 | Visibilidad del estado del sistema |
+| 2 | El sistema de mensajería es útil, pero podría mejorarse con la opción de grabar mensajes. | 2 | Flexibilidad y eficiencia de uso |
+| 3 | Algunas secciones avanzadas son complicadas para usuarios sin experiencia financiera. | 3 | Control y libertad del usuario |
+| 4 | Falta de ejemplos prácticos y más interactividad en los talleres. | 3 | Prevención de errores |
+| 5 | La personalización de la interfaz podría mejorar para una experiencia más adaptada al usuario. | 2 | Diseño centrado en el usuario |
+| 6 | La complejidad de ciertas funciones puede resultar abrumadora para usuarios sin experiencia financiera. | 3 | Diseño intuitivo y simplificación de tareas |
 
 ----
 <br>
 
 **Descripción del Problemas:**
 
-- **Problema #1:**
-- **Severidad:** 
-- **Heurística/Principio violado(a):** 
-- **Problema:** 
+- **Problema #1: La interfaz de la plataforma podría mejorarse visualmente**
+- **Severidad:** 2 
+- **Heurística/Principio violado(a):** Visibilidad del estado del sistema
+- **Problema:** El entrevistado menciona que la interfaz visual podría mejorar, lo que indica que hay problemas con la visibilidad y el diseño de los elementos dentro de la plataforma. Los usuarios podrían no entender fácilmente cómo interactuar con las herramientas debido a una presentación no tan clara o estética.
 - **Recomendación:** 
+  Rediseñar la interfaz para mejorar la claridad visual, asegurando que los elementos importantes sean más destacables y fáciles de identificar.
 
 ---
 
-- **Problema #2:**
-- **Severidad:** 
-- **Heurística/Principio violado(a):** 
-- **Problema:** 
+- **Problema #2: El sistema de mensajería es útil, pero podría mejorarse con la opción de grabar mensajes**
+- **Severidad:** 2
+- **Heurística/Principio violado(a):** Flexibilidad y eficiencia de uso
+- **Problema:** La opción de mensajería es útil pero se podría mejorar añadiendo la opción de grabar mensajes. Esto facilitaría la comunicación, ya que no todos los usuarios pueden estar disponibles para escribir mensajes constantemente.
 - **Recomendación:** 
+  Incorporar un botón para grabar mensajes de voz en lugar de solo escribirlos, lo que agilizaría la interacción y haría el sistema más accesible.
+---
+
+- **Problema #3: Algunas secciones avanzadas son complicadas para usuarios sin experiencia financiera**
+- **Severidad:** 3
+- **Heurística/Principio violado(a):** Control y libertad del usuario
+- **Problema:** Algunas secciones de la plataforma resultan complejas para usuarios sin experiencia financiera. Esto indica que el diseño no permite una navegación intuitiva y podría causar frustración.
+- **Recomendación:** 
+  Mejorar las secciones avanzadas de la plataforma proporcionando guías paso a paso o tutoriales interactivos para facilitar el entendimiento y la navegación por esas secciones.
 
 ---
 
-- **Problema #3:**
-- **Severidad:** 
-- **Heurística/Principio violado(a):** 
-- **Problema:** 
+- **Problema #4: Falta de ejemplos prácticos y más interactividad en los talleres**
+- **Severidad:** 3
+- **Heurística/Principio violado(a):** Prevención de errores
+- **Problema:** Falta de ejemplos prácticos en los talleres. Sin ejemplos claros, los usuarios podrían cometer errores al intentar aplicar lo aprendido o no comprender completamente los conceptos.
 - **Recomendación:** 
+  Incluir ejemplos prácticos en los módulos de aprendizaje y ofrecer demostraciones de cómo aplicar la información en situaciones reales.
+
+---
+
+- **Problema #5: La personalización de la interfaz podría mejorar para una experiencia más adaptada al usuario**
+- **Severidad:** 2
+- **Heurística/Principio violado(a):** Diseño centrado en el usuario
+- **Problema:** La falta de personalización de la interfaz podría dificultar la experiencia del usuario, especialmente si no está adaptada a sus necesidades específicas o preferencias.
+- **Recomendación:** 
+  Incorporar opciones de personalización en la interfaz de usuario, como la posibilidad de modificar el tema o las configuraciones para ajustarse mejor a las necesidades de cada usuario.
+
+---
+
+- **Problema #6: La complejidad de ciertas funciones puede resultar abrumadora para usuarios sin experiencia financiera**
+- **Severidad:** 3
+- **Heurística/Principio violado(a):** Diseño intuitivo y simplificación de tareas
+- **Problema:** Algunas funciones son demasiado complejas para usuarios sin conocimientos financieros. Esto podría generar confusión y errores en el uso de la plataforma.
+- **Recomendación:** 
+  Simplificar las funciones avanzadas, ofreciendo más opciones de ayuda contextual o tutoriales guiados para asegurar que incluso los usuarios novatos puedan navegar por las herramientas de forma fácil y efectiva.
 <br>
-
 
 ## 5.4. Video About-The-Product
 En esta sección se presenta un video explicatiovo sobre la aplicación DebtGo. El video destaca las principales características y beneficios del producto, demostrando cómo satisface las necesidad de los clientes. Este recurso visual es esencial para comunicar de manera efectiva el valor de la apliación a potenciales usuarios e inversores.
