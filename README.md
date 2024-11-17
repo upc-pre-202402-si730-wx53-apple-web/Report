@@ -1107,7 +1107,7 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
 <table>
     <thead>
         <tr>
-        <th colspan="7">Sprint 3</th>
+        <th colspan="7">Sprint 4</th>
         </tr>
     </thead>
     <tbody>
@@ -1135,7 +1135,7 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
             <br>Crear endpoint para agregar método de pago.</br>
             Crear endpoint para eliminar método de pago.</td>
             <td>Permitir al usuario agregar, actualizar y eliminar métodos de pago en su cuenta de usuario.</td>
-            <td>6</td>
+            <td>4</td>
             <td>Gianfranco Durand</td>
             <td>Done</td>
         </tr>
@@ -1149,7 +1149,7 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
             <br> Diseñar interfaz de usuario para activar/desactivar notificaciones.</br>
             Implementar sistema de preferencias de notificaciones por usuario.</td>
             <td>Desarrollar un endpoint que permita notificar a los usuarios sobre actualizaciones en la plataforma (nuevas funciones, mejoras de seguridad, etc.).</td>
-            <td>6</td>
+            <td>4</td>
             <td>Camila Sanchez</td>
             <td>Done</td>
         </tr>
@@ -1163,7 +1163,7 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
             Diseñar interfaz para visualización de alertas en la aplicación.
            Crear endpoint para alertas de vencimiento de suscripciones.</td>
             <td>Implementar un endpoint que permita enviar alertas sobre fechas importantes (vencimiento de suscripción, fechas de pago, publicacion nueva, etc.).</td>
-            <td>6</td>
+            <td>4</td>
             <td>Camila Sanchez</td>
             <td>Done</td>
             <tr>
@@ -1179,7 +1179,7 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
             </td>
             <td>Desarrollar un endpoint para permitir el registro de nuevos usuarios en la plataforma.
             </td>
-            <td>6</td>
+            <td>4</td>
             <td>Karito Medina</td>
             <td>Done</td>
         </tr>
@@ -1191,7 +1191,7 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
             <td>Crear endpoint para consulta de planes de suscripción.
             Crear pruebas de integración para el endpoint de planes de suscripción.</td>
             <td>Crear un endpoint que permita obtener los diferentes planes de suscripción disponibles en la plataforma.</td>
-            <td>6</td>
+            <td>4</td>
             <td>Daniel Chávarri </td>
             <td>Done</td>
         </tr>
@@ -1204,7 +1204,7 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
             Crear endpoint para cancelar suscripciones.
             Diseñar interfaz de usuario para gestión de planes en la app.</td>
             <td>Proporcionar funcionalidades para que los usuarios gestionen sus planes de suscripción (actualizar, cancelar, etc.).</td>
-            <td>6</td>
+            <td>4</td>
             <td>Daniel Chávarri </td>
             <td>Done</td>
         </tr>
