@@ -222,7 +222,7 @@ forma conjunta</b></td>
         <p><b>TP1:</b></p>
         <p>En el TP1, me enfoqué en corregir el reporte y desarrollar el frontend para la gestión de usuarios, específicamente en la carga de registro y perfil. Durante esta etapa, asumí un rol activo para coordinar tareas y guiar al equipo en la implementación de soluciones, lo que contribuyó a un trabajo conjunto efectivo y a la consecución de nuestros objetivos comunes.</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>En la TB2, colaboré estrechamente con mi equipo para desarrollar el Capítulo 5, específicamente en las secciones 5.3 y 5.4. Durante este proceso, lideré discusiones sobre la estructura del contenido y la importancia de los usuarios backend, asegurando que cada miembro pudiera aportar sus ideas y perspectivas. Esta experiencia fortaleció mi capacidad de liderazgo al coordinar esfuerzos y promover un ambiente donde todos se sintieran motivados a contribuir, lo que resultó en un trabajo cohesivo y alineado con nuestros objetivos.</p>
         <p><b>TF:</b></p>
         <p>.</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
@@ -252,7 +252,7 @@ forma conjunta</b></td>
         <p><b>TB2:</b></p>
         <p>Para esta parte, he aportado en la creación del back-end para el context SubscriptionBC.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Seguí mejorando el back-end de mi context Subscriptions-BC, agregando lo que había implementado el profesor durante todo el ciclo, también revisé los back-ends de mis compañeros para asegurarme que no haya errores, hice recordatorios de las actividades que faltaban por hacer para terminar el proyecto de manera satisfactoria.</p>
         <p><b>Durán Santander, Emilia Mercedes.</b></p>
        <p><b>TB1:</b></p>
         <p>Realicé el capítulo III: Requirements Specification, en concreto el To-Be Scenario, User Stories y Product Backlog, así cómo también los As-Is Scenarios y Sprint Backlog para esta entrega. Apoyé a mis compañeros y pedí su ayuda en distintas secciones del informe</p>
@@ -271,7 +271,7 @@ forma conjunta</b></td>
         <p><strong>TB2:</strong></p>
         <p>En resumen, en esta tercera entrega se logró una mejora significativa en la comunicación entre los miembros del equipo, centrándonos en el backend y la implementación de la estructura, así como en la corrección de errores de entregas anteriores. Cada participante estuvo comprometido y presentó sus ideas de manera clara, lo que facilitó la comprensión entre todos. Aunque todavía enfrentamos algunos desafíos menores en la expresión de nuestras opiniones, confiamos en que con tiempo podremos superarlos. </p>
         <p><strong>TF:</strong></p>
-        <p>En conclusión, .</p>
+        <p>En conclusión, nos comunicamos de manera activa por medio de mensajes y la documentación, mejorando los errores que teníamos durante todo el ciclo, además, cada participante estuvo comprometido y presentó todas las actividades que se les ha asignado. Aunque hubo dificultades durante el proceso, pudimos superarlo como grupo para poder terminar el proyecto de manera satisfactoria.</p>
       </td>
     </tr>
     <tr>
@@ -286,7 +286,7 @@ objetivos</td>
         <p><b>TP1:</b></p>
         <p>En el TP1, realicé correcciones al reporte y trabajé en el desarrollo del frontend para la gestión de usuarios, específicamente en la carga de registro y perfil. A través de una planificación cuidadosa y el establecimiento de metas claras, promoví un ambiente inclusivo donde cada miembro del equipo pudo aportar y colaborar, asegurando que alcanzáramos nuestros objetivos de manera efectiva.</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>En la TB2, colaboré estrechamente con mi equipo para desarrollar el Capítulo 5, específicamente en las secciones 5.3 y 5.4. Durante este proceso, lideré discusiones sobre la estructura del contenido y la importancia de los usuarios backend, asegurando que cada miembro pudiera aportar sus ideas y perspectivas. Esta experiencia fortaleció mi capacidad de liderazgo al coordinar esfuerzos y promover un ambiente donde todos se sintieran motivados a contribuir, lo que resultó en un trabajo cohesivo y alineado con nuestros objetivos.</p>
         <p><b>TF:</b></p>
         <p>.</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
@@ -316,7 +316,7 @@ objetivos</td>
         <p><b>TB2:</b></p>
         <p>Para esta parte, he aportado en la creación del back-end para el context SubscriptionBC.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Seguí mejorando el back-end de mi context Subscriptions-BC, agregando lo que había implementado el profesor durante todo el ciclo, también revisé los back-ends de mis compañeros para asegurarme que no haya errores, hice recordatorios de las actividades que faltaban por hacer para terminar el proyecto de manera satisfactoria.</p>
         <p><b>Durán Santander, Emilia Mercedes</b></p>
        <p><b>TB1:</b></p>
         <p>Realicé el capítulo III: Requirements Specification, detallado en el punto anterior. En reuniones de proyecto, dividí lo restante del proyecto en equipos para poder llegar a las metas establecidas anteriormente.</p>
@@ -335,7 +335,7 @@ objetivos</td>
         <p><strong>TB2:</strong></p>
         <p>En resumen, en esta tercera entrega se logró una mejora significativa en la comunicación entre los miembros del equipo, centrándonos en el backend y la implementación de la estructura, así como en la corrección de errores de entregas anteriores. Cada participante estuvo comprometido y presentó sus ideas de manera clara, lo que facilitó la comprensión entre todos. Aunque todavía enfrentamos algunos desafíos menores en la expresión de nuestras opiniones, confiamos en que con tiempo podremos superarlos.</p>
         <p><strong>TF:</strong></p>
-        <p>En conclusión, .</p>
+        <p>En conclusión, nos comunicamos de manera activa por medio de mensajes y la documentación, mejorando los errores que teníamos durante todo el ciclo, además, cada participante estuvo comprometido y presentó todas las actividades que se les ha asignado. Aunque hubo dificultades durante el proceso, pudimos superarlo como grupo para poder terminar el proyecto de manera satisfactoria.</p>
       </td>
     </tr>
   </tbody>
