@@ -1267,6 +1267,8 @@ Para este cuarto sprint usamos la versión de nuestro servicio desarrollado en c
 
 <img src="assets/Chapter-5/Insights4.png">
 <img src="assets/Chapter-5/Insights5.png">
+<img src="assets/Chapter-5/Insights6.png">
+
 
 
 
