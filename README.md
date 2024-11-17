@@ -1255,10 +1255,10 @@ La entrevista realizada al emprendedor se centró en varios aspectos clave de su
 **Sexo:** Femenino <br>
 **Edad:** 28 años<br>
 **Ocupación** Economista <br>
-**Minuto de la entrevista:** 5:50 minutos <br>
+**Minuto de la entrevista:** 6:01 minutos <br>
 **Enlace del video completo de las entrevistas:**<br>
 
-[Link:](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210973_upc_edu_pe/EXkqBp4UFy1Hvppm25WnTwIBwqhzXX0XAEXct2jvd492pQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IWftYf
+[Link:]([[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210973_upc_edu_pe/EXkqBp4UFy1Hvppm25WnTwIBwqhzXX0XAEXct2jvd492pQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IWftYf](https://youtu.be/VJdElwiLWJs)](https://youtu.be/VJdElwiLWJs)
 ) https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210973_upc_edu_pe/EXkqBp4UFy1Hvppm25WnTwIBwqhzXX0XAEXct2jvd492pQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IWftYf
 
 <br>
