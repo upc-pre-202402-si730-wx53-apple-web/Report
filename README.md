@@ -252,7 +252,7 @@ forma conjunta</b></td>
         <p><b>TB2:</b></p>
         <p>Para esta parte, he aportado en la creación del back-end para el context SubscriptionBC.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Seguí mejorando el back-end de mi context Subscriptions-BC, agregando lo que había implementado el profesor durante todo el ciclo, también revisé los back-ends de mis compañeros para asegurarme que no haya errores, hice recordatorios de las actividades que faltaban por hacer para terminar el proyecto de manera satisfactoria.</p>
         <p><b>Durán Santander, Emilia Mercedes.</b></p>
        <p><b>TB1:</b></p>
         <p>Realicé el capítulo III: Requirements Specification, en concreto el To-Be Scenario, User Stories y Product Backlog, así cómo también los As-Is Scenarios y Sprint Backlog para esta entrega. Apoyé a mis compañeros y pedí su ayuda en distintas secciones del informe</p>
@@ -316,7 +316,7 @@ objetivos</td>
         <p><b>TB2:</b></p>
         <p>Para esta parte, he aportado en la creación del back-end para el context SubscriptionBC.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Seguí mejorando el back-end de mi context Subscriptions-BC, agregando lo que había implementado el profesor durante todo el ciclo, también revisé los back-ends de mis compañeros para asegurarme que no haya errores, hice recordatorios de las actividades que faltaban por hacer para terminar el proyecto de manera satisfactoria.</p>
         <p><b>Durán Santander, Emilia Mercedes</b></p>
        <p><b>TB1:</b></p>
         <p>Realicé el capítulo III: Requirements Specification, detallado en el punto anterior. En reuniones de proyecto, dividí lo restante del proyecto en equipos para poder llegar a las metas establecidas anteriormente.</p>
