@@ -231,9 +231,9 @@ forma conjunta</b></td>
         <p><b>TP1:</b></p>
         <p>Colaboración en el proyecto cumpliendo con las indicaciones realizadas por el equipo para lograr lo esperado. </p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>Para esta entrega colabore con la parte del web Services Notification y la parte del Capitulo 5 - Sprint 3 con algunas correciones.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Para esta entrega colabore en el Capitulo 5 con la realizacion de entrevista y documentacion, tambien hacer el trello del sprint 4. Si hubo correciones para el backend o web services las realice.</p>
         <p><b>Durand Vera, Gianfranco Angel</b></p>
         <p><b>TB1:</b></p>
         <p>Capítulo IV: Product Design y User Stories <br>Coordiné y realicé la reunión inicial del proyecto, explicando claramente los objetivos y el plan de trabajo. Cree diferentes reuniones para clarificar los roles de cada integrante del equipo.      
@@ -245,7 +245,7 @@ presentaciones y tareas para la segunda fase
 del proyecto, con el fin de lograr los
 objetivos establecidos para este entregable.</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>Realizacion del Backend IAM con el fin de lograr los objetivos establecidos para este entregable.</p>
         <p><b>TF:</b></p>
         <p>.</p>
         <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
@@ -299,9 +299,9 @@ objetivos</td>
         <p><b>TP1:</b></p>
         <p>Colaboración en el proyecto cumpliendo con las indicaciones realizadas por el equipo para lograr lo esperado.</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>Para esta entrega colabore con la parte del web Services Notification y la parte del Capitulo 5 - Sprint 3 con algunas correciones.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Para esta entrega colabore en el Capitulo 5 con la realizacion de entrevista y documentacion, tambien hacer el trello del sprint 4. Si hubo correciones para el backend o web services las realice.</p>
         <p><b>Durand Vera, Gianfranco Angel</b></p>
         <p><b>TB1:</b></p>
         <p>Capítulo IV: Product Design y User Stories <br>Cree repositorios para almacenar nuestro informe con un registro de versiones constante, además de comenzar un registro de los puntos que nos falta completar.
@@ -309,7 +309,7 @@ objetivos</td>
         <p><b>TP1:</b></p>
         <p>Cree el repositorio base para el desarrollo del Frontend, generando una plantilla y ramas base para que el equipo pueda empezar a realizar su trabajo.</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>Realizacion del Backend IAM con el fin de lograr los objetivos establecidos para este entregable.</p>
         <p><b>TF:</b></p>
         <p>.</p>
         <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
