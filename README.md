@@ -1261,11 +1261,12 @@ Para este cuarto sprint usamos la versión de nuestro servicio desarrollado en c
 | IAM | Se implementaron los métodos HTTP GET, POST, PUT y DELETE para el endpoint /api/IAM. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id. El método PUT permite actualizar la información de un usuario mediante su id, mientras que el método POST se utiliza para crear un nuevo usuario a través de los datos proporcionados en el cuerpo de la solicitud (request body). Por último, el método DELETE permite eliminar un usuario específico mediante su id.  |
 
 
-
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
+<img src="assets/Chapter-5/Insights4.png">
+<img src="assets/Chapter-5/Insights5.png">
 
 
 
