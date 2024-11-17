@@ -1405,7 +1405,8 @@ El equipo debe continuar adoptando un enfoque iterativo, incorporando los aprend
 
 A medida que se avanza en el desarrollo, se recomienda aumentar la frecuencia de validaciones con usuarios reales. Esto ayudará a detectar posibles problemas de manera temprana y a iterar más rápido sobre las soluciones propuestas.
 
-## Video About-the-Team.
+## Video About-the-Team
+En esta sección se presenta un video introductorio sobre el equipo detrás de la aplicación DebtGo. El video muestra a los miembros clave del equipo, sus roles y cómo colaboran para hacer realidad el proyecto. Además, resalta las experiencias y habilidades de cada uno, proporcionando una visión clara de su compromiso con el éxito de la plataforma. Este recurso es clave para generar confianza entre los usuarios e inversores al conocer al equipo que respalda el desarrollo y crecimiento de la aplicación.
 
 # Bibliografía
 
