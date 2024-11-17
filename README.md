@@ -701,7 +701,7 @@ Durante el segundo sprint, el equipo tuvo como meta implementar el frontend de T
         <tr>
             <td>US08</td>
             <td>Registro en aplicación</td>
-            <td>UT06</td>
+            <td>UT01</td>
             <td>Formulario de registro</td>
             <td>Mostrar y redirigir al formulario de registro para nuevos usuarios desde la landing page.</td>
             <td>4</td>
@@ -711,7 +711,7 @@ Durante el segundo sprint, el equipo tuvo como meta implementar el frontend de T
         <tr>
             <td>US020</td>
             <td>Sistema de mensajes y casos</td>
-            <td>UT10</td>
+            <td>UT2</td>
             <td>Mensajes entre usuarios</td>
             <td>Desarrollar sistema de mensajería para consultas entre usuarios.</td>
             <td>4</td>
@@ -721,9 +721,7 @@ Durante el segundo sprint, el equipo tuvo como meta implementar el frontend de T
         <tr>
             <td>US020</td>
             <td>Sistema de mensajes y casos</td>
-            <td>UT1
-            UT2
-            UT3</td>
+            <td>UT3</td>
             <td>Implementación de Idioma
             Implementación de Notificaciones
             Implementación de Log out, Profile</td>
@@ -734,9 +732,7 @@ Durante el segundo sprint, el equipo tuvo como meta implementar el frontend de T
             <tr>
         <td>US009</td>
             <td>Creación de perfil - Consultor financiero</td>
-            <td>UT1
-            UT2
-            UT3
+            <td>UT4
             </td>
             <td>Completar información personal
             Agregar experiencia profesional
@@ -752,9 +748,7 @@ Durante el segundo sprint, el equipo tuvo como meta implementar el frontend de T
         </tr>
         <td>US010</td>
             <td>Creación de perfil - Emprendedor</td>
-            <td>UT1
-            UT2
-            UT3
+            <td>UT5
             </td>
             <td>Completar información personal
             Agregar experiencia profesional
@@ -768,9 +762,7 @@ Durante el segundo sprint, el equipo tuvo como meta implementar el frontend de T
         </tr>
         <td>US015</td>
             <td>Publicación de servicios</td>
-            <td>UT1
-            UT2
-            UT3</td>
+            <td>UT6</td>
             <td>Crear nuevo servicio<br>
             Definir precios del servicio
             Agregar descripción del servicio</td>
@@ -782,8 +774,7 @@ Durante el segundo sprint, el equipo tuvo como meta implementar el frontend de T
         </tr>
         <td>US022</td>
             <td>Envío de documentos adjuntos</td>
-            <td>UT1
-            UT2</td>
+            <td>UT7</td>
             <td>Adjuntar imágenes al servicio<br>
             Publicar servicio</td>
             <td>Permitir al consultor adjuntar imágenes que describan su servicio. Finalizar la publicación del servicio y ponerlo disponible para los usuarios</td>
@@ -794,8 +785,7 @@ Durante el segundo sprint, el equipo tuvo como meta implementar el frontend de T
         </tr>
         <td>US027</td>
             <td>Visualización de métricas propias</td>
-            <td>UT1
-            UT2 
+            <td>UT8
             </td>
             <td>Ver métricas de ingresos<br>
             Ver evolución de métricas</td>
@@ -808,8 +798,7 @@ Durante el segundo sprint, el equipo tuvo como meta implementar el frontend de T
          </tr>
         <td>US03</td>
             <td>Planes de la aplicación</td>
-            <td>UT1
-            UT2 
+            <td>UT9
             </td>
             <td>Ver descripción de planes<br>
             Seleccionar plan preferente </td>
@@ -924,9 +913,7 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
         <tr>
             <td>TS12</td>
             <td>Gestión de Métodos de Pago</td>
-            <td>UT01
-            UT02
-            UT03</td>
+            <td>UT01</td>
             <td>Implementar validación de métodos de pago soportados (tarjeta de crédito, débito, PayPal).
             <br>Crear endpoint para agregar método de pago.</br>
             Crear endpoint para eliminar método de pago.</td>
@@ -938,9 +925,7 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
         <tr>
             <td>TS23</td>
             <td>Implementación de endpoint para notificaciones de actualizaciones</td>
-            <td>UT01
-            UT02
-            UT03</td>
+            <td>UT02</td>
             <td>Crear endpoint para envío de notificaciones de actualizaciones.
             <br> Diseñar interfaz de usuario para activar/desactivar notificaciones.</br>
             Implementar sistema de preferencias de notificaciones por usuario.</td>
@@ -952,9 +937,7 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
         <tr>
             <td>TS24</td>
             <td>Endpoint para envío de alertas de fechas importantes</td>
-            <td>UT1
-            UT2
-            UT3</td>
+            <td>UT3</td>
             <td>Crear lógica para envío de alertas en diferentes formatos (email, push notification).
             Diseñar interfaz para visualización de alertas en la aplicación.
            Crear endpoint para alertas de vencimiento de suscripciones.</td>
@@ -965,9 +948,7 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
             <tr>
         <td>TS08</td>
             <td>Endpoint para registro de usuarios</td>
-            <td>UT1
-            UT2
-            UT3
+            <td>UT4
             </td>
             <td> Implementar verificación de correo electrónico.
             Diseñar interfaz para formulario de registro de usuario.
@@ -981,8 +962,7 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
         </tr>
         <td>TS03</td>
             <td>Endpoint para obtener planes de suscripción</td>
-            <td>UT1
-            UT2
+            <td>UT5
             </td>
             <td>Crear endpoint para consulta de planes de suscripción.
             Crear pruebas de integración para el endpoint de planes de suscripción.</td>
@@ -993,9 +973,7 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
         </tr>
         <td>TS11</td>
             <td>Gestión de Planes de Suscripción</td>
-            <td>UT1
-            UT2
-            UT3</td>
+            <td>UT6</td>
             <td>Crear endpoint para actualizar el plan de suscripción del usuario.<br>
             Crear endpoint para cancelar suscripciones.
             Diseñar interfaz de usuario para gestión de planes en la app.</td>
@@ -1100,9 +1078,9 @@ En la siguiente sección, se presentará el sprint #4 con la versión de la apli
 #### 5.2.4.2. Sprint Backlog 4
 Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera total el back end de la aplicación web.
 
-<img src="assets/Chapter-5/trello3.png">
+<img src="assets/Chapter-5/sprint4.png">
 
-[Link Trello:](https://trello.com/b/z15MxWUY/sprint-3) https://trello.com/b/z15MxWUY/sprint-3
+[Link Trello:](https://trello.com/b/OW2SnBqo/sprint-4) https://trello.com/b/OW2SnBqo/sprint-4
 
 <table>
     <thead>
