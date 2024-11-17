@@ -1251,6 +1251,22 @@ Esta subsección presenta un registro detallado de las entrevistas realizadas, d
 La entrevista realizada al emprendedor se centró en varios aspectos clave de su experiencia y el funcionamiento de su plataforma para emprendedores. El entrevistado destacó la utilidad del sistema de mensajes, que permite una comunicación directa y efectiva entre consultores y emprendedores. Sin embargo, sugirió que se podrían mejorar los estilos visuales de la interfaz. Se propuso la incorporación de un botón para grabar mensajes, lo que podría facilitar la comunicación y hacerla más accesible.
 <br><br>
 
+**Entrevistado(a) #3:** Marisol Ordoñez<br>
+**Sexo:** Femenino <br>
+**Edad:** 28 años<br>
+**Ocupación** Economista <br>
+**Minuto de la entrevista:** 5:50 minutos <br>
+**Enlace del video completo de las entrevistas:**<br>
+
+[Link:](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210973_upc_edu_pe/EXkqBp4UFy1Hvppm25WnTwIBwqhzXX0XAEXct2jvd492pQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IWftYf
+) https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210973_upc_edu_pe/EXkqBp4UFy1Hvppm25WnTwIBwqhzXX0XAEXct2jvd492pQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IWftYf
+
+<br>
+
+**Resumen de la entrevista:**<br>
+La entrevista realizada al consultor financiero resalta que DebtGo tiene un diseño centrado en el usuario, ideal para quienes desean mejorar su educación financiera y gestionar sus deudas. Sin embargo, se sugiere mejorar en áreas como la profundización de la información con ejemplos prácticos, la interactividad en los talleres en línea y la personalización de la interfaz. Aunque la aplicación es intuitiva, algunas secciones avanzadas podrían resultar complejas para usuarios sin experiencia financiera. Entre los aspectos positivos se destacan la personalización, el enfoque en el bienestar financiero y las herramientas de seguimiento, mientras que las áreas de mejora incluyen la falta de interactividad y la complejidad de ciertas funciones. En general, DebtGo tiene un gran potencial, pero se beneficiarían de ajustes en la experiencia de usuario.
+<br><br>
+
 **Segmento Objetivo 2: Emprendedores**
 -------------------------------------------
 **Entrevistado(a) #1:**<br>
