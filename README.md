@@ -88,9 +88,70 @@
         </ul>
       </td>
   </tr>
+      <tr>
+                <th>TP</th>
+                <td>24/09/2024</td>
+                <td>
+                    <ul>
+          <li>Karito Medina</li>
+          <li>Camila Sanchez</li>
+          <li>Gianfranco Durand</li>
+          <li>Daniel Chávarri</li>
+          <li>Emilia Duran</li>
+                    <ul>
+           </td>
+      <td>            
+             <ul>
+          <li>Capítulo V: Sprint 2</li>
+          <li>Web Application - Frontend</li>
+        </ul>
+      </td>
+  </tr>
+  <tr>
+                <th>TB2</th>
+                <td>31/10/2024</td>
+                <td>
+                    <ul>
+          <li>Karito Medina</li>
+          <li>Camila Sanchez</li>
+          <li>Gianfranco Durand</li>
+          <li>Daniel Chávarri</li>
+          <li>Emilia Duran</li>
+                    <ul>
+           </td>
+      <td>            
+             <ul>
+          <li>Capítulo V: Sprint 3</li>
+          <li>Capítulo V: Entrevistas</li>
+          <li>Capítulo V: Video about the product</li>
+          <li>Web service - Backend</li>
+        </ul>
+      </td>
+  </tr>
+  <tr>
+                <th>TF</th>
+                <td>17/11/2024</td>
+                <td>
+                    <ul>
+          <li>Karito Medina</li>
+          <li>Camila Sanchez</li>
+          <li>Gianfranco Durand</li>
+          <li>Daniel Chávarri</li>
+          <li>Emilia Duran</li>
+                    <ul>
+           </td>
+      <td>            
+             <ul>
+          <li>Capítulo V: Sprint 4</li>
+          <li>Capítulo V: Registro de entrevistas</li>
+          <li>Capítulo V: Evaluación según heucaristicas</li>
+          <li>Video about the team</li>
+          <li>Correcciones Backend - Agregar seguridad</li>
+        </ul>
+      </td>
+  </tr>
 </tbody>
 </table>
-
 # Project Report Collaboration Insights
 Link del repositorio del reporte del TB1: https://github.com/upc-pre-202402-si730-wx53-apple-web 
 
