@@ -267,7 +267,7 @@ objetivos establecidos para este entregable.</p>
         <p><b>TP1:</b></p>
         <p>Realizamos las correcciones basadas en el feedback otorgado, reuniendonos inicialmente para ordenarlo en orden de prioridad y poder establecer metas realistas para la entrega</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>Realicé las correcciones tanto del frontend como del reporte y ayudé en la verificación  de los backends.</p>
         <p><b>TF:</b></p>
         <p>.</p>
       </td>
@@ -331,7 +331,7 @@ objetivos</td>
         <p><b>TP1:</b></p>
         <p>Coordiné la reunión inicial para comenzar los avances de la entrega y la reunión subsecuente para mostrar los avances de la misma, con el propósito de cumplir las metas</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>Realicé las correcciones tanto del frontend como del reporte y ayudé en la verificación  de los backends.</p>
         <p><b>TF:</b></p>
         <p>.</p>
       </td>
