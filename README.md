@@ -310,9 +310,9 @@ presentaciones y tareas para la segunda fase
 del proyecto, con el fin de lograr los
 objetivos establecidos para este entregable.</p>
         <p><b>TB2:</b></p>
-        <p>Realizacion del Backend IAM con el fin de lograr los objetivos establecidos para este entregable.</p>
+        <p>En esta tercera entrega, se desarrolló el Sprint 3 del proyecto, el cual se basó en el desarrollo de la primera versión del Backend. Para ello, nos organizamos adecuadamente con las tareas y llegar a cumplir con todo en la fecha límite.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Para este cuarto sprint, me concentré en ejecutar todas las tareas asignadas a mi cargo en el desarrollo del backend del proyecto. Esto implicó mejorar y optimizar las funcionalidades existentes para garantizar un rendimiento óptimo del sistema.</p>
         <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
        <p><b>TB1:</b></p>
         <p>Realicé todo el Capítulo I, para el Capítulo 2 hice el Ubiquitous Language y para el Capítulo 4 hice el Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tag, Searching Systems y Navigation Systems. También realicé la presentación del Canvas</p>
@@ -374,9 +374,12 @@ objetivos</td>
         <p><b>TP1:</b></p>
         <p>Cree el repositorio base para el desarrollo del Frontend, generando una plantilla y ramas base para que el equipo pueda empezar a realizar su trabajo.</p>
         <p><b>TB2:</b></p>
-        <p>Realizacion del Backend IAM con el fin de lograr los objetivos establecidos para este entregable.</p>
+        <p>He completado todas las tareas del
+sprint 3, asegurándome de que todos los
+objetivos se cumplieran dentro del plazo
+establecido.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>En este cuarto sprint, me enfoque principalmente en desarrollar y finalizar los endpoints, implementar la autenticación para el inicio de sesión (IAM) en el Backend, y realizar el deploy juntando las partes de mis compañeros.</p>
         <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
        <p><b>TB1:</b></p>
         <p>Realicé todo el Capítulo I, para el Capítulo 2 hice el Ubiquitous Language y para el Capítulo 4 hice el Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tag, Searching Systems y Navigation Systems. También realicé la presentación del Canvas</p>
