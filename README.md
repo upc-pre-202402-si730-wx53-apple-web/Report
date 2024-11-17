@@ -1492,3 +1492,7 @@ En esta sección se presenta un video introductorio sobre el equipo detrás de l
 14. Terranova, J. (2023, 3 de enero). Economía familiar: 62% de peruanos se ha endeudado para cubrir gastos del hogar. Recuperado de: (https://gestion.pe/tu-dinero/economia-familiar-62-de-peruanos-se-ha-endeudado-paracubrir-gastos-del-hogar-noticia/)
 
 # Anexos
+
+[Frontend:](https://detbgo.netlify.app/login) https://detbgo.netlify.app/login
+
+[Backend:](https://debtgo.azurewebsites.net/swagger/index.html) https://debtgo.azurewebsites.net/swagger/index.html
