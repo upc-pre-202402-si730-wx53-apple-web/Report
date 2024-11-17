@@ -243,7 +243,7 @@ forma conjunta</b></td>
         <p><b>TB2:</b></p>
         <p>Realizacion del Backend IAM con el fin de lograr los objetivos establecidos para este entregable. </p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Para esta entrega ayude con el despliegue del backend y realizar pruebas de funcionamiento del backend después del deploy</p>
         <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
        <p><b>TB1:</b></p>
         <p>Realicé todo el Capítulo I, para el Capítulo 2 hice el Ubiquitous Language y para el Capítulo 4 hice el Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tag, Searching Systems y Navigation Systems. También realicé la presentación del Canvas</p>
@@ -307,7 +307,7 @@ objetivos</td>
         <p><b>TB2:</b></p>
         <p>Cree el repositorio base para el desarrollo del Backend, generando una plantilla y ramas base para que el equipo pueda empezar a realizar su trabajo.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Para esta entrega ayude con el despliegue del backend y realizar pruebas de funcionamiento del backend después del deploy</p>
         <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
        <p><b>TB1:</b></p>
         <p>Realicé todo el Capítulo I, para el Capítulo 2 hice el Ubiquitous Language y para el Capítulo 4 hice el Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tag, Searching Systems y Navigation Systems. También realicé la presentación del Canvas</p>
