@@ -276,10 +276,11 @@
   - [**Segmento Objetivo 1: Consultores Financieros**](#segmento-objetivo-1-consultores-financieros-1)
   - [**Segmento Objetivo 2: Emprendedores**](#segmento-objetivo-2-emprendedores-1)
     - [5.3.3. Evaluación según heurísticas](#533-evaluación-según-heurísticas)
+  - [Incorporar un botón para grabar mensajes de voz en lugar de solo escribirlos, lo que agilizaría la interacción y haría el sistema más accesible.](#incorporar-un-botón-para-grabar-mensajes-de-voz-en-lugar-de-solo-escribirlos-lo-que-agilizaría-la-interacción-y-haría-el-sistema-más-accesible)
   - [5.4. Video About-The-Product](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-  - [Video About-the-Team.](#video-about-the-team)
+  - [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -1251,6 +1252,15 @@ Método Delete:
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 Para este cuarto sprint usamos la versión de nuestro servicio desarrollado en c#.
+
+| Endpoint | Details | 
+| ------ | --------- | 
+| Subcription | Se implementaron los métodos HTTP GET, POST, PUT y DELETE para el endpoint /api/Subcription. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id. El método PUT permite actualizar la información de un usuario mediante su id, mientras que el método POST se utiliza para crear un nuevo usuario a través de los datos proporcionados en el cuerpo de la solicitud (request body). Por último, el método DELETE permite eliminar un usuario específico mediante su id.  |
+| Notification | Se implementaron los métodos HTTP GET, POST para el endpoint /api/Notification. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id, mientras que el método POST se utiliza para crear un nuevo mensaje  enviando los datos necesarios en el cuerpo de la solicitud (request body). |
+| User | Se implementaron los métodos HTTP GET, POST, PUT y DELETE para el endpoint /api/User. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id. El método PUT permite actualizar la información de un usuario mediante su id, mientras que el método POST se utiliza para agregar un nuevo usuario enviando los datos correspondientes en el cuerpo de la solicitud (request body).Por último, el método DELETE permite eliminar un usuario específico mediante su id.  |
+| IAM | Se implementaron los métodos HTTP GET, POST, PUT y DELETE para el endpoint /api/IAM. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id. El método PUT permite actualizar la información de un usuario mediante su id, mientras que el método POST se utiliza para crear un nuevo usuario a través de los datos proporcionados en el cuerpo de la solicitud (request body). Por último, el método DELETE permite eliminar un usuario específico mediante su id.  |
+
+
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
