@@ -1469,6 +1469,8 @@ A medida que se avanza en el desarrollo, se recomienda aumentar la frecuencia de
 ## Video About-the-Team
 En esta sección se presenta un video introductorio sobre el equipo detrás de la aplicación DebtGo. El video muestra a los miembros clave del equipo, sus roles y cómo colaboran para hacer realidad el proyecto. Además, resalta las experiencias y habilidades de cada uno, proporcionando una visión clara de su compromiso con el éxito de la plataforma. Este recurso es clave para generar confianza entre los usuarios e inversores al conocer al equipo que respalda el desarrollo y crecimiento de la aplicación.
 
+Enlace al Video About-The-Product: [https://youtu.be/fHedqDYMcjE](https://youtu.be/fHedqDYMcjE)
+
 # Bibliografía
 
 1. Conexión ESAN. (s. f.). 7 de cada 10 peruanos están endeudados y no pueden cubrir sus gastos: ¿Cuáles son los factores? Recuperado de: (https://www.esan.edu.pe/conexion-esan/7-de-cada-10-peruanos-estan-endeudados-y-no-pueden-cubrir-sus-gastos-cuales-son-los-factores)
