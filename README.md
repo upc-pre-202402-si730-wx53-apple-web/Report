@@ -88,14 +88,79 @@
         </ul>
       </td>
   </tr>
+      <tr>
+                <th>TP</th>
+                <td>24/09/2024</td>
+                <td>
+                    <ul>
+          <li>Karito Medina</li>
+          <li>Camila Sanchez</li>
+          <li>Gianfranco Durand</li>
+          <li>Daniel Chávarri</li>
+          <li>Emilia Duran</li>
+                    <ul>
+           </td>
+      <td>            
+             <ul>
+          <li>Capítulo V: Sprint 2</li>
+          <li>Web Application - Frontend</li>
+        </ul>
+      </td>
+  </tr>
+  <tr>
+                <th>TB2</th>
+                <td>31/10/2024</td>
+                <td>
+                    <ul>
+          <li>Karito Medina</li>
+          <li>Camila Sanchez</li>
+          <li>Gianfranco Durand</li>
+          <li>Daniel Chávarri</li>
+          <li>Emilia Duran</li>
+                    <ul>
+           </td>
+      <td>            
+             <ul>
+          <li>Capítulo V: Sprint 3</li>
+          <li>Capítulo V: Entrevistas</li>
+          <li>Capítulo V: Video about the product</li>
+          <li>Web service - Backend</li>
+        </ul>
+      </td>
+  </tr>
+  <tr>
+                <th>TF</th>
+                <td>17/11/2024</td>
+                <td>
+                    <ul>
+          <li>Karito Medina</li>
+          <li>Camila Sanchez</li>
+          <li>Gianfranco Durand</li>
+          <li>Daniel Chávarri</li>
+          <li>Emilia Duran</li>
+                    <ul>
+           </td>
+      <td>            
+             <ul>
+          <li>Capítulo V: Sprint 4</li>
+          <li>Capítulo V: Registro de entrevistas</li>
+          <li>Capítulo V: Evaluación según heucaristicas</li>
+          <li>Video about the team</li>
+          <li>Correcciones Backend - Agregar seguridad</li>
+        </ul>
+      </td>
+  </tr>
 </tbody>
 </table>
-
 # Project Report Collaboration Insights
 Link del repositorio del reporte del TB1: https://github.com/upc-pre-202402-si730-wx53-apple-web 
 
 Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los puntos a elaborar para la entrega actual, correspondientes a los Capítulos I hasta el Capítulo V: Sprint 1. Quedando de la siguiente manera:
 - Imágen de las Contribuciones del equipo:
+
+TP:
+<img src="./assets/Chapter-1/tp-insights1.png">
+<img src="./assets/Chapter-1/tp-insights2.png">
 
 <p></p>
 <br><br>
@@ -169,128 +234,26 @@ Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los pu
   - [4.8.1. Database Diagram](#481-database-diagram)
 
 [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
-- [COURSE PROJECT](#course-project)
-- [Project Report Collaboration Insights](#project-report-collaboration-insights)
-- [Contenido](#contenido)
-- [Student Outcome](#student-outcome)
-- [Capítulo I: Introducción](#capítulo-i-introducción)
-  - [1.1. Startup Profile](#11-startup-profile)
-    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-  - [1.2. Solution Profile](#12-solution-profile)
-    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-    - [1.2.2 Lean UX Process](#122-lean-ux-process)
-      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
-  - [2.1. Competidores](#21-competidores)
-    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [2.2. Entrevistas](#22-entrevistas)
-    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-  - [2.3. Needfinding](#23-needfinding)
-    - [2.3.1. User Personas](#231-user-personas)
-    - [2.3.2. User Task Matrix](#232-user-task-matrix)
-    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
-- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-  - [3.2. User Stories](#32-user-stories)
-  - [3.3. Impact Mapping](#33-impact-mapping)
-  - [3.4. Product Backlog](#34-product-backlog)
-- [Capítulo IV: Product Design](#capítulo-iv-product-design)
-  - [4.1. Style Guidelines](#41-style-guidelines)
-    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-  - [4.2. Information Architecture](#42-information-architecture)
-    - [4.2.1. Organization Systems](#421-organization-systems)
-    - [4.2.2. Labeling Systems](#422-labeling-systems)
-    - [4.2.3. SEO Tags and Meta Tag](#423-seo-tags-and-meta-tag)
-    - [4.2.4. Searching Systems](#424-searching-systems)
-    - [4.2.5. Navigation Systems](#425-navigation-systems)
-  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
-  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-    - [4.7.1. Class Diagrams](#471-class-diagrams)
-    - [4.7.2. Class Dictionary](#472-class-dictionary)
-  - [4.8. Database Design](#48-database-design)
-  - [4.8.1. Database Diagram](#481-database-diagram)
-- [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
-  - [5.1. Software Configuration Management](#51-software-configuration-management)
-    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-    - [5.1.2. Source Code Management](#512-source-code-management)
-    - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
-    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-  - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.1. Sprint 1](#521-sprint-1)
-      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-      - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
-      - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-      - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-    - [5.2.2. Sprint 2](#522-sprint-2)
-      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-      - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
-      - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
-      - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
-      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-    - [5.2.3. Sprint 3](#523-sprint-3)
-      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
-      - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
-      - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
-      - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
-      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
-      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
-      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
-      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-    - [5.2.4. Sprint 4](#524-sprint-4)
-      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
-      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
-      - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
-      - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
-      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
-      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
-      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
-      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
-  - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-    - [Segmento Objetivo 1: Consultores Financieros](#segmento-objetivo-1-consultores-financieros)
-    - [Segmento Objetivo 2: Emprendedores](#segmento-objetivo-2-emprendedores)
-    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
-  - [**Segmento Objetivo 1: Consultores Financieros**](#segmento-objetivo-1-consultores-financieros-1)
-  - [**Segmento Objetivo 2: Emprendedores**](#segmento-objetivo-2-emprendedores-1)
-    - [5.3.3. Evaluación según heurísticas](#533-evaluación-según-heurísticas)
-  - [Incorporar un botón para grabar mensajes de voz en lugar de solo escribirlos, lo que agilizaría la interacción y haría el sistema más accesible.](#incorporar-un-botón-para-grabar-mensajes-de-voz-en-lugar-de-solo-escribirlos-lo-que-agilizaría-la-interacción-y-haría-el-sistema-más-accesible)
-  - [5.4. Video About-The-Product](#54-video-about-the-product)
-- [Conclusiones](#conclusiones)
-  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-  - [Video About-the-Team](#video-about-the-team)
-- [Bibliografía](#bibliografía)
-- [Anexos](#anexos)
+- [5.1. Software Configuration Management](#51-software-configuration-management)
+  - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+  - [5.1.2. Source Code Management](#512-source-code-management)
+  - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+  - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+- [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+  - [5.2.X. Sprint ](#52x-sprint)
+    - [5.2.X.1. Sprint Planning n](#52x1-sprint-planning-n)
+    - [5.2.X.2. Sprint Backlog n](#52x2-sprint-backlog-n)
+    - [5.2.X.3. Development Evidence for Sprint Review](#52x3-development-evidence-for-sprint-review)
+    - [5.2.X.4. Testing Suite Evidence for Sprint Review](#52x4-testing-suite-evidence-for-sprint-review)
+    - [5.2.X.5. Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)
+    - [5.2.X.6. Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)
+    - [5.2.X.7. Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)
+    - [5.2.X.8. Team Collaboration Insights during Sprint](#52x8-team-collaboration-insights-during-sprint)
+- [5.3. Validation Interviews](#53-validation-interviews)
+  - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+  - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+  - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+- [5.4. Video About-the-Product](#54-video-about-the-product)
 
 [Conclusiones](#conclusiones)
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
@@ -326,7 +289,7 @@ forma conjunta</b></td>
         <p><b>TB2:</b></p>
         <p>En la TB2, colaboré estrechamente con mi equipo para desarrollar el Capítulo 5, específicamente en las secciones 5.3 y 5.4. Durante este proceso, lideré discusiones sobre la estructura del contenido y la importancia de los usuarios backend, asegurando que cada miembro pudiera aportar sus ideas y perspectivas. Esta experiencia fortaleció mi capacidad de liderazgo al coordinar esfuerzos y promover un ambiente donde todos se sintieran motivados a contribuir, lo que resultó en un trabajo cohesivo y alineado con nuestros objetivos.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Durante el proceso del Trabajo Final, jugué un papel clave en la revisión y corrección de los errores del reporte, asegurándome de que todo el contenido estuviera alineado y sin fallos. Además, me encargué de revisar que cada miembro del equipo completara las tareas asignadas de manera efectiva, lo que permitió que el trabajo avanzara de manera fluida y organizada. Mi contribución no solo se centró en la parte técnica, sino también en mantener una comunicación constante con mis compañeros, motivándolos a cumplir con sus plazos y responsabilidades. Asimismo, realicé la entrevista para el segmento objetivo de Consultores Financieros, lo que me permitió obtener información valiosa y enriquecer el análisis con datos directamente provenientes de los usuarios potenciales. Esta experiencia mejoró mis habilidades de organización, liderazgo y comunicación, asegurando que el trabajo final fuera coherente, preciso y bien ejecutado.</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
        <p><b>TB1:</b></p>
         <p>Realicé el Capítulo II: Requirements Elicitation & Analysis; también realicé lo sieguiente del Capítulo IV: 4.1. Style Guidelines, General Style Guidelines, Web Style Guidelines, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping.</p>
@@ -347,9 +310,9 @@ presentaciones y tareas para la segunda fase
 del proyecto, con el fin de lograr los
 objetivos establecidos para este entregable.</p>
         <p><b>TB2:</b></p>
-        <p>Realizacion del Backend IAM con el fin de lograr los objetivos establecidos para este entregable.</p>
+        <p>En esta tercera entrega, se desarrolló el Sprint 3 del proyecto, el cual se basó en el desarrollo de la primera versión del Backend. Para ello, nos organizamos adecuadamente con las tareas y llegar a cumplir con todo en la fecha límite.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Para este cuarto sprint, me concentré en ejecutar todas las tareas asignadas a mi cargo en el desarrollo del backend del proyecto. Esto implicó mejorar y optimizar las funcionalidades existentes para garantizar un rendimiento óptimo del sistema.</p>
         <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
        <p><b>TB1:</b></p>
         <p>Realicé todo el Capítulo I, para el Capítulo 2 hice el Ubiquitous Language y para el Capítulo 4 hice el Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tag, Searching Systems y Navigation Systems. También realicé la presentación del Canvas</p>
@@ -365,7 +328,7 @@ objetivos establecidos para este entregable.</p>
         <p><b>TP1:</b></p>
         <p>Realizamos las correcciones basadas en el feedback otorgado, reuniendonos inicialmente para ordenarlo en orden de prioridad y poder establecer metas realistas para la entrega</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>Realicé las correcciones tanto del frontend como del reporte y ayudé en la verificación  de los backends.</p>
         <p><b>TF:</b></p>
         <p>.</p>
       </td>
@@ -373,9 +336,9 @@ objetivos establecidos para este entregable.</p>
         <p><strong>TB1:</strong></p>
         <p>En conclusión, en esta primera entrega se logró una buena comunicación entre los miembros del equipo. Cada participante estuvo activo y presento sus ideas de manera que todos pudieran entenderse entre sí. Concluimos que aún hay pequeñas dificultades para expresarnos con todos, pero que se puede solucionar con tiempo.</p>
         <p><strong>TP1:</strong></p>
-        <p>En resumen, en esta segunda entrega se logró mejorar la comunicación entre los miembros del equipo, especialmente en el trabajo relacionado con el frontend y la corrección de errores previos. Cada participante mostró un compromiso activo y presentó sus ideas de manera clara, facilitando la comprensión mutua. Aunque aún enfrentamos algunos desafíos menores en la expresión de nuestras opiniones, estamos seguros de que con tiempo podremos solucionarlos. .</p>
+        <p>En resumen, en esta segunda entrega se logró mejorar la comunicación entre los miembros del equipo, especialmente en el trabajo relacionado con el frontend y la corrección de errores previos. Cada participante mostró un compromiso activo y presentó sus ideas de manera clara, facilitando la comprensión mutua. Aunque aún enfrentamos algunos desafíos menores en la expresión de nuestras opiniones, estamos seguros de que con tiempo podremos solucionarlos.</p>
         <p><strong>TB2:</strong></p>
-        <p>En resumen, en esta tercera entrega se logró una mejora significativa en la comunicación entre los miembros del equipo, centrándonos en el backend y la implementación de la estructura, así como en la corrección de errores de entregas anteriores. Cada participante estuvo comprometido y presentó sus ideas de manera clara, lo que facilitó la comprensión entre todos. Aunque todavía enfrentamos algunos desafíos menores en la expresión de nuestras opiniones, confiamos en que con tiempo podremos superarlos. </p>
+        <p>En resumen, en esta tercera entrega se logró una mejora significativa en la comunicación entre los miembros del equipo, centrándonos en el backend y la implementación de la estructura, así como en la corrección de errores de entregas anteriores. Cada participante estuvo comprometido y presentó sus ideas de manera clara, lo que facilitó la comprensión entre todos. Aunque todavía enfrentamos algunos desafíos menores en la expresión de nuestras opiniones, confiamos en que con tiempo podremos superarlos.</p>
         <p><strong>TF:</strong></p>
         <p>En conclusión, nos comunicamos de manera activa por medio de mensajes y la documentación, mejorando los errores que teníamos durante todo el ciclo, además, cada participante estuvo comprometido y presentó todas las actividades que se les ha asignado. Aunque hubo dificultades durante el proceso, pudimos superarlo como grupo para poder terminar el proyecto de manera satisfactoria.</p>
       </td>
@@ -392,9 +355,9 @@ objetivos</td>
         <p><b>TP1:</b></p>
         <p>En el TP1, realicé correcciones al reporte y trabajé en el desarrollo del frontend para la gestión de usuarios, específicamente en la carga de registro y perfil. A través de una planificación cuidadosa y el establecimiento de metas claras, promoví un ambiente inclusivo donde cada miembro del equipo pudo aportar y colaborar, asegurando que alcanzáramos nuestros objetivos de manera efectiva.</p>
         <p><b>TB2:</b></p>
-        <p>En la TB2, colaboré estrechamente con mi equipo para desarrollar el Capítulo 5, específicamente en las secciones 5.3 y 5.4. Durante este proceso, lideré discusiones sobre la estructura del contenido y la importancia de los usuarios backend, asegurando que cada miembro pudiera aportar sus ideas y perspectivas. Esta experiencia fortaleció mi capacidad de liderazgo al coordinar esfuerzos y promover un ambiente donde todos se sintieran motivados a contribuir, lo que resultó en un trabajo cohesivo y alineado con nuestros objetivos.</p>
+        <p>En la TB2, participé activamente en la creación de un entorno colaborativo al trabajar en el video sobre el producto. Junto a mi equipo, establecimos metas claras para el contenido y la narrativa del video, asegurando que cada miembro tuviera un rol definido en la planificación de las tareas. Esta experiencia no solo fomentó un ambiente inclusivo donde se valoraron las opiniones de todos, sino que también nos permitió cumplir con nuestros objetivos de forma efectiva, reflejando un trabajo conjunto que potenciaba nuestras habilidades individuales.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>En el Trabajo Final, desempeñé un rol activo en la gestión del equipo y en la revisión del reporte, asegurándome de que todos los errores fueran corregidos a tiempo y de que cada miembro cumpliera con sus tareas asignadas. Trabajé estrechamente con el equipo para establecer plazos claros y revisar el progreso de cada tarea, lo que permitió mantener el proyecto organizado y dentro de los plazos establecidos. Además, realicé la entrevista para el segmento objetivo de Consultores Financieros, lo que enriqueció el análisis con datos relevantes para la toma de decisiones. Esta experiencia me permitió fomentar un ambiente colaborativo, donde cada miembro del equipo tuvo la oportunidad de aportar sus ideas y perspectivas, lo que contribuyó al éxito del trabajo final. A través de este proceso, pude mejorar mis habilidades de coordinación y liderazgo, promoviendo una colaboración efectiva que optimizó el rendimiento colectivo.</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
        <p><b>TB1:</b></p>
         <p>Realicé el Capítulo II: Requirements Elicitation & Analysis; también realicé lo sieguiente del Capítulo IV: 4.1. Style Guidelines, General Style Guidelines, Web Style Guidelines, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping.</p>
@@ -411,9 +374,12 @@ objetivos</td>
         <p><b>TP1:</b></p>
         <p>Cree el repositorio base para el desarrollo del Frontend, generando una plantilla y ramas base para que el equipo pueda empezar a realizar su trabajo.</p>
         <p><b>TB2:</b></p>
-        <p>Realizacion del Backend IAM con el fin de lograr los objetivos establecidos para este entregable.</p>
+        <p>He completado todas las tareas del
+sprint 3, asegurándome de que todos los
+objetivos se cumplieran dentro del plazo
+establecido.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>En este cuarto sprint, me enfoque principalmente en desarrollar y finalizar los endpoints, implementar la autenticación para el inicio de sesión (IAM) en el Backend, y realizar el deploy juntando las partes de mis compañeros.</p>
         <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
        <p><b>TB1:</b></p>
         <p>Realicé todo el Capítulo I, para el Capítulo 2 hice el Ubiquitous Language y para el Capítulo 4 hice el Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tag, Searching Systems y Navigation Systems. También realicé la presentación del Canvas</p>
@@ -429,7 +395,7 @@ objetivos</td>
         <p><b>TP1:</b></p>
         <p>Coordiné la reunión inicial para comenzar los avances de la entrega y la reunión subsecuente para mostrar los avances de la misma, con el propósito de cumplir las metas</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>Realicé las correcciones tanto del frontend como del reporte y ayudé en la verificación  de los backends.</p>
         <p><b>TF:</b></p>
         <p>.</p>
       </td>
@@ -437,9 +403,9 @@ objetivos</td>
         <p><strong>TB1:</strong></p>
         <p>Se participó equitativamente el informe. En conclusión, estamos en camino para desempeñarnos de manera equitativa en el trabajo.</p>
         <p><strong>TP1:</strong></p>
-        <p>En resumen, en esta segunda entrega se logró mejorar la comunicación entre los miembros del equipo, especialmente en el trabajo relacionado con el frontend y la corrección de errores previos. Cada participante mostró un compromiso activo y presentó sus ideas de manera clara, facilitando la comprensión mutua. Aunque aún enfrentamos algunos desafíos menores en la expresión de nuestras opiniones, estamos seguros de que con tiempo podremos solucionarlos.</p>
+        <p>Se contribuyó de manera equitativa al informe. En conclusión, estamos avanzando hacia un desempeño más equilibrado en nuestro trabajo.</p>
         <p><strong>TB2:</strong></p>
-        <p>En resumen, en esta tercera entrega se logró una mejora significativa en la comunicación entre los miembros del equipo, centrándonos en el backend y la implementación de la estructura, así como en la corrección de errores de entregas anteriores. Cada participante estuvo comprometido y presentó sus ideas de manera clara, lo que facilitó la comprensión entre todos. Aunque todavía enfrentamos algunos desafíos menores en la expresión de nuestras opiniones, confiamos en que con tiempo podremos superarlos.</p>
+        <p>Se colaboró de manera equitativa en el informe. En conclusión, estamos progresando hacia un desempeño más balanceado en nuestro trabajo.</p>
         <p><strong>TF:</strong></p>
         <p>En conclusión, nos comunicamos de manera activa por medio de mensajes y la documentación, mejorando los errores que teníamos durante todo el ciclo, además, cada participante estuvo comprometido y presentó todas las actividades que se les ha asignado. Aunque hubo dificultades durante el proceso, pudimos superarlo como grupo para poder terminar el proyecto de manera satisfactoria.</p>
       </td>
