@@ -1327,22 +1327,6 @@ La entrevista realizada al emprendedor se centró en varios aspectos clave de su
 La entrevista realizada al consultor financiero resalta que DebtGo tiene un diseño centrado en el usuario, ideal para quienes desean mejorar su educación financiera y gestionar sus deudas. Sin embargo, se sugiere mejorar en áreas como la profundización de la información con ejemplos prácticos, la interactividad en los talleres en línea y la personalización de la interfaz. Aunque la aplicación es intuitiva, algunas secciones avanzadas podrían resultar complejas para usuarios sin experiencia financiera. Entre los aspectos positivos se destacan la personalización, el enfoque en el bienestar financiero y las herramientas de seguimiento, mientras que las áreas de mejora incluyen la falta de interactividad y la complejidad de ciertas funciones. En general, DebtGo tiene un gran potencial, pero se beneficiarían de ajustes en la experiencia de usuario.
 <br><br>
 
-**Segmento Objetivo 2: Emprendedores**
--------------------------------------------
-**Entrevistado(a) #1:**<br>
-**Sexo:**<br>
-**Edad:** años<br>
-**Ocupación**<br>
-**Minuto de la entrevista:**<br>
-**Enlace del video completo de las entrevistas:**<br>
-
-<br>
-
-**Resumen de la entrevista:**
-
-<br><br>
-
-
 ### 5.3.3. Evaluación según heurísticas
 Aquí se explican las evaluaciones realizadas utilizando principios heurísticos de usabilidad. Se analizan los resultados obtenidos y se identifican áreas de mejora en la interfaz y la funcionalidad de la aplicación, con el fin de optimizar la experiencia del usuario y asegurar la eficacia del producto.
 
